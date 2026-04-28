@@ -1,0 +1,25 @@
+__pycache__/
+*.pyc
+*.pyo
+venv/
+*.egg-info/
+*.db
+*.db-journal
+*.log
+/tmp/
+.env
+.env.local
+*.bak
+*.backup
+akamai2.0-sensor_data/
+akamai_solver/
+test_*.py
+cookie_stealer*.py
+hyper_test.py
+mobile_homepage.html
+mobile_srp.html
+
+# Old test/debug scripts
+scrape_mobile.py
+scrape.py
+check_total.py
