@@ -1196,6 +1196,13 @@ TPL = r"""
       -webkit-backdrop-filter: blur(20px) saturate(1.4);
       border-top: 1px solid var(--border);
       display: flex; justify-content: space-around; gap: 4px;
+      /* iOS-Fix: fixed + backdrop-filter löst sich sonst beim Scrollen/Tastatur und
+         bleibt mitten im Screen kleben. Eigene GPU-Ebene erzwingen stabilisiert es. */
+      transform: translateZ(0);
+      -webkit-transform: translateZ(0);
+      will-change: transform;
+      -webkit-backface-visibility: hidden;
+      backface-visibility: hidden;
     }
     .nav-item {
       display: flex; flex-direction: column; align-items: center; gap: 2px;
