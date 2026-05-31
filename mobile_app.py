@@ -2385,10 +2385,11 @@ CARDS_TPL = r"""
   <div class="card-meta">
     {% if r['price_rating'] %}
       {% set pr = r['price_rating'] %}
-      {% if 'Sehr guter' in pr %}<span class="tag tag-green">💎 {{ pr }}</span>
-      {% elif 'Guter' in pr %}<span class="tag tag-blue">✓ {{ pr }}</span>
-      {% elif 'Fair' in pr %}<span class="tag tag-amber">{{ pr }}</span>
-      {% else %}<span class="tag">{{ pr }}</span>
+      {% set has_detail = r['price_thresholds_json'] %}
+      {% if 'Sehr guter' in pr or 'VERY_GOOD' in pr %}<span class="tag tag-green">💎 {{ pr }}{% if has_detail %}<button class="price-info-btn" data-price-info data-id="{{ r['id'] }}">ⓘ</button>{% endif %}</span>
+      {% elif 'Guter' in pr or 'GOOD' in pr %}<span class="tag tag-blue">✓ {{ pr }}{% if has_detail %}<button class="price-info-btn" data-price-info data-id="{{ r['id'] }}">ⓘ</button>{% endif %}</span>
+      {% elif 'Fair' in pr or 'FAIR' in pr %}<span class="tag tag-amber">{{ pr }}{% if has_detail %}<button class="price-info-btn" data-price-info data-id="{{ r['id'] }}">ⓘ</button>{% endif %}</span>
+      {% else %}<span class="tag">{{ pr }}{% if has_detail %}<button class="price-info-btn" data-price-info data-id="{{ r['id'] }}">ⓘ</button>{% endif %}</span>
       {% endif %}
     {% endif %}
     {% if r['unfallfrei'] %}<span class="tag tag-green">✓ Unfallfrei</span>{% endif %}
@@ -2403,7 +2404,8 @@ CARDS_TPL = r"""
     {% if r['online_since'] %}<span class="tag tag-green">🕐 {{ r['online_since'] }}</span>{% endif %}
   </div>
   <div class="card-actions">
-    <a class="card-btn card-btn-accent" href="{{ r['url'] }}" target="_blank" rel="noopener">↗ Auf Mobile.de öffnen</a>
+    <button class="card-btn" data-marketprice-id="{{ r['id'] }}" title="Marktwert berechnen">📊 Marktwert</button>
+    <a class="card-btn card-btn-accent" href="{{ r['url'] }}" target="_blank" rel="noopener">↗ Mobile.de</a>
   </div>
 </div>
 {% endfor %}
