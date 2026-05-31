@@ -1,0 +1,13638 @@
+{
+ "brands": {
+  "BMW": "3500",
+  "Mercedes-Benz": "17200",
+  "Audi": "1900",
+  "Volkswagen": "25200",
+  "Peugeot": "19300",
+  "Skoda": "22900",
+  "Renault": "20700",
+  "Ford": "9000",
+  "Opel": "19000",
+  "Toyota": "24100",
+  "Hyundai": "11600",
+  "Citroën": "5900",
+  "Seat": "22500",
+  "Fiat": "8800",
+  "Kia": "13200",
+  "Porsche": "20100",
+  "Volvo": "25100",
+  "MINI": "17500",
+  "Tesla": "135",
+  "Mazda": "16800",
+  "Nissan": "18700",
+  "Dacia": "6600",
+  "Cupra": "3",
+  "Honda": "11000",
+  "Suzuki": "23600",
+  "Jaguar": "12400",
+  "Land Rover": "14800",
+  "Mitsubishi": "17700",
+  "Smart": "23000",
+  "Lexus": "15200"
+ },
+ "models": {
+  "bmw|1er reihe": [
+   "3500",
+   "g20"
+  ],
+  "bmw|114": [
+   "3500",
+   "73"
+  ],
+  "bmw|116": [
+   "3500",
+   "2"
+  ],
+  "bmw|118": [
+   "3500",
+   "3"
+  ],
+  "bmw|120": [
+   "3500",
+   "4"
+  ],
+  "bmw|123": [
+   "3500",
+   "59"
+  ],
+  "bmw|125": [
+   "3500",
+   "61"
+  ],
+  "bmw|128": [
+   "3500",
+   "328"
+  ],
+  "bmw|130": [
+   "3500",
+   "5"
+  ],
+  "bmw|135": [
+   "3500",
+   "58"
+  ],
+  "bmw|1er m coupé": [
+   "3500",
+   "87"
+  ],
+  "bmw|2002": [
+   "3500",
+   "71"
+  ],
+  "bmw|2er reihe": [
+   "3500",
+   "g55"
+  ],
+  "bmw|214 active tourer": [
+   "3500",
+   "110"
+  ],
+  "bmw|214 gran tourer": [
+   "3500",
+   "116"
+  ],
+  "bmw|216": [
+   "3500",
+   "106"
+  ],
+  "bmw|216 active tourer": [
+   "3500",
+   "111"
+  ],
+  "bmw|216 gran coupé": [
+   "3500",
+   "345"
+  ],
+  "bmw|216 gran tourer": [
+   "3500",
+   "114"
+  ],
+  "bmw|218": [
+   "3500",
+   "90"
+  ],
+  "bmw|218 active tourer": [
+   "3500",
+   "107"
+  ],
+  "bmw|218 gran coupé": [
+   "3500",
+   "343"
+  ],
+  "bmw|218 gran tourer": [
+   "3500",
+   "112"
+  ],
+  "bmw|220": [
+   "3500",
+   "84"
+  ],
+  "bmw|220 active tourer": [
+   "3500",
+   "108"
+  ],
+  "bmw|220 gran coupé": [
+   "3500",
+   "344"
+  ],
+  "bmw|220 gran tourer": [
+   "3500",
+   "113"
+  ],
+  "bmw|223": [
+   "3500",
+   "351"
+  ],
+  "bmw|223 active tourer": [
+   "3500",
+   "333"
+  ],
+  "bmw|223 gran coupé": [
+   "3500",
+   "350"
+  ],
+  "bmw|225": [
+   "3500",
+   "91"
+  ],
+  "bmw|225 active tourer": [
+   "3500",
+   "109"
+  ],
+  "bmw|228": [
+   "3500",
+   "104"
+  ],
+  "bmw|230": [
+   "3500",
+   "125"
+  ],
+  "bmw|230 active tourer": [
+   "3500",
+   "334"
+  ],
+  "bmw|2er gran coupé": [
+   "3500",
+   "322"
+  ],
+  "bmw|3er reihe": [
+   "3500",
+   "g21"
+  ],
+  "bmw|315": [
+   "3500",
+   "7"
+  ],
+  "bmw|316": [
+   "3500",
+   "8"
+  ],
+  "bmw|318": [
+   "3500",
+   "9"
+  ],
+  "bmw|318 gran turismo": [
+   "3500",
+   "75"
+  ],
+  "bmw|320": [
+   "3500",
+   "10"
+  ],
+  "bmw|320 gran turismo": [
+   "3500",
+   "76"
+  ],
+  "bmw|323": [
+   "3500",
+   "11"
+  ],
+  "bmw|324": [
+   "3500",
+   "12"
+  ],
+  "bmw|325": [
+   "3500",
+   "13"
+  ],
+  "bmw|325 gran turismo": [
+   "3500",
+   "88"
+  ],
+  "bmw|328": [
+   "3500",
+   "14"
+  ],
+  "bmw|328 gran turismo": [
+   "3500",
+   "77"
+  ],
+  "bmw|330": [
+   "3500",
+   "15"
+  ],
+  "bmw|330 gran turismo": [
+   "3500",
+   "103"
+  ],
+  "bmw|335": [
+   "3500",
+   "56"
+  ],
+  "bmw|335 gran turismo": [
+   "3500",
+   "78"
+  ],
+  "bmw|340": [
+   "3500",
+   "118"
+  ],
+  "bmw|340 gran turismo": [
+   "3500",
+   "130"
+  ],
+  "bmw|activehybrid 3": [
+   "3500",
+   "72"
+  ],
+  "bmw|4er reihe": [
+   "3500",
+   "g53"
+  ],
+  "bmw|418": [
+   "3500",
+   "115"
+  ],
+  "bmw|418 gran coupé": [
+   "3500",
+   "98"
+  ],
+  "bmw|420": [
+   "3500",
+   "80"
+  ],
+  "bmw|420 gran coupé": [
+   "3500",
+   "99"
+  ],
+  "bmw|425": [
+   "3500",
+   "102"
+  ],
+  "bmw|425 gran coupé": [
+   "3500",
+   "124"
+  ],
+  "bmw|428": [
+   "3500",
+   "81"
+  ],
+  "bmw|428 gran coupé": [
+   "3500",
+   "100"
+  ],
+  "bmw|430": [
+   "3500",
+   "83"
+  ],
+  "bmw|430 gran coupé": [
+   "3500",
+   "105"
+  ],
+  "bmw|435": [
+   "3500",
+   "82"
+  ],
+  "bmw|435 gran coupé": [
+   "3500",
+   "101"
+  ],
+  "bmw|440": [
+   "3500",
+   "120"
+  ],
+  "bmw|440 gran coupé": [
+   "3500",
+   "121"
+  ],
+  "bmw|5er reihe": [
+   "3500",
+   "g22"
+  ],
+  "bmw|518": [
+   "3500",
+   "16"
+  ],
+  "bmw|520": [
+   "3500",
+   "17"
+  ],
+  "bmw|520 gran turismo": [
+   "3500",
+   "74"
+  ],
+  "bmw|523": [
+   "3500",
+   "18"
+  ],
+  "bmw|524": [
+   "3500",
+   "19"
+  ],
+  "bmw|525": [
+   "3500",
+   "20"
+  ],
+  "bmw|528": [
+   "3500",
+   "21"
+  ],
+  "bmw|530": [
+   "3500",
+   "22"
+  ],
+  "bmw|530 gran turismo": [
+   "3500",
+   "65"
+  ],
+  "bmw|535": [
+   "3500",
+   "23"
+  ],
+  "bmw|535 gran turismo": [
+   "3500",
+   "66"
+  ],
+  "bmw|540": [
+   "3500",
+   "24"
+  ],
+  "bmw|545": [
+   "3500",
+   "25"
+  ],
+  "bmw|550": [
+   "3500",
+   "26"
+  ],
+  "bmw|550 gran turismo": [
+   "3500",
+   "67"
+  ],
+  "bmw|activehybrid 5": [
+   "3500",
+   "70"
+  ],
+  "bmw|6er reihe": [
+   "3500",
+   "g23"
+  ],
+  "bmw|620 gran turismo": [
+   "3500",
+   "144"
+  ],
+  "bmw|628": [
+   "3500",
+   "27"
+  ],
+  "bmw|630": [
+   "3500",
+   "28"
+  ],
+  "bmw|630 gran turismo": [
+   "3500",
+   "127"
+  ],
+  "bmw|633": [
+   "3500",
+   "29"
+  ],
+  "bmw|635": [
+   "3500",
+   "30"
+  ],
+  "bmw|640": [
+   "3500",
+   "68"
+  ],
+  "bmw|640 gran coupé": [
+   "3500",
+   "94"
+  ],
+  "bmw|640 gran turismo": [
+   "3500",
+   "128"
+  ],
+  "bmw|645": [
+   "3500",
+   "31"
+  ],
+  "bmw|650": [
+   "3500",
+   "32"
+  ],
+  "bmw|650 gran coupé": [
+   "3500",
+   "95"
+  ],
+  "bmw|7er reihe": [
+   "3500",
+   "g24"
+  ],
+  "bmw|725": [
+   "3500",
+   "33"
+  ],
+  "bmw|728": [
+   "3500",
+   "34"
+  ],
+  "bmw|730": [
+   "3500",
+   "35"
+  ],
+  "bmw|732": [
+   "3500",
+   "36"
+  ],
+  "bmw|735": [
+   "3500",
+   "37"
+  ],
+  "bmw|740": [
+   "3500",
+   "38"
+  ],
+  "bmw|745": [
+   "3500",
+   "39"
+  ],
+  "bmw|750": [
+   "3500",
+   "40"
+  ],
+  "bmw|760": [
+   "3500",
+   "41"
+  ],
+  "bmw|activehybrid 7": [
+   "3500",
+   "63"
+  ],
+  "bmw|840": [
+   "3500",
+   "42"
+  ],
+  "bmw|850": [
+   "3500",
+   "43"
+  ],
+  "bmw|i3": [
+   "3500",
+   "79"
+  ],
+  "bmw|i4": [
+   "3500",
+   "330"
+  ],
+  "bmw|i5": [
+   "3500",
+   "341"
+  ],
+  "bmw|i7": [
+   "3500",
+   "336"
+  ],
+  "bmw|i8": [
+   "3500",
+   "89"
+  ],
+  "bmw|ix": [
+   "3500",
+   "331"
+  ],
+  "bmw|ix1": [
+   "3500",
+   "337"
+  ],
+  "bmw|ix2": [
+   "3500",
+   "346"
+  ],
+  "bmw|ix3": [
+   "3500",
+   "329"
+  ],
+  "bmw|m-modelle": [
+   "3500",
+   "g25"
+  ],
+  "bmw|m135": [
+   "3500",
+   "69"
+  ],
+  "bmw|m140i": [
+   "3500",
+   "122"
+  ],
+  "bmw|m2": [
+   "3500",
+   "117"
+  ],
+  "bmw|m235": [
+   "3500",
+   "85"
+  ],
+  "bmw|m240i": [
+   "3500",
+   "123"
+  ],
+  "bmw|m3": [
+   "3500",
+   "45"
+  ],
+  "bmw|m340d": [
+   "3500",
+   "342"
+  ],
+  "bmw|m340i": [
+   "3500",
+   "152"
+  ],
+  "bmw|m4": [
+   "3500",
+   "93"
+  ],
+  "bmw|m440": [
+   "3500",
+   "335"
+  ],
+  "bmw|m5": [
+   "3500",
+   "46"
+  ],
+  "bmw|m550": [
+   "3500",
+   "86"
+  ],
+  "bmw|m6": [
+   "3500",
+   "47"
+  ],
+  "bmw|m760": [
+   "3500",
+   "126"
+  ],
+  "bmw|m8": [
+   "3500",
+   "154"
+  ],
+  "bmw|m850": [
+   "3500",
+   "140"
+  ],
+  "bmw|x-reihe": [
+   "3500",
+   "g26"
+  ],
+  "bmw|activehybrid x6": [
+   "3500",
+   "64"
+  ],
+  "bmw|x1": [
+   "3500",
+   "6"
+  ],
+  "bmw|x2": [
+   "3500",
+   "129"
+  ],
+  "bmw|x3": [
+   "3500",
+   "48"
+  ],
+  "bmw|x3 m": [
+   "3500",
+   "145"
+  ],
+  "bmw|x3 m40": [
+   "3500",
+   "153"
+  ],
+  "bmw|x3 m50": [
+   "3500",
+   "348"
+  ],
+  "bmw|x4": [
+   "3500",
+   "92"
+  ],
+  "bmw|x4 m": [
+   "3500",
+   "146"
+  ],
+  "bmw|x4 m40": [
+   "3500",
+   "119"
+  ],
+  "bmw|x5": [
+   "3500",
+   "49"
+  ],
+  "bmw|x5 m": [
+   "3500",
+   "53"
+  ],
+  "bmw|x5 m50": [
+   "3500",
+   "96"
+  ],
+  "bmw|x5 m60": [
+   "3500",
+   "339"
+  ],
+  "bmw|x6": [
+   "3500",
+   "60"
+  ],
+  "bmw|x6 m": [
+   "3500",
+   "62"
+  ],
+  "bmw|x6 m50": [
+   "3500",
+   "97"
+  ],
+  "bmw|x6 m60": [
+   "3500",
+   "340"
+  ],
+  "bmw|x7": [
+   "3500",
+   "143"
+  ],
+  "bmw|x7 m50": [
+   "3500",
+   "332"
+  ],
+  "bmw|x7 m60": [
+   "3500",
+   "347"
+  ],
+  "bmw|xm": [
+   "3500",
+   "338"
+  ],
+  "bmw|z-reihe": [
+   "3500",
+   "g27"
+  ],
+  "bmw|z1": [
+   "3500",
+   "50"
+  ],
+  "bmw|z3": [
+   "3500",
+   "51"
+  ],
+  "bmw|z3 m": [
+   "3500",
+   "57"
+  ],
+  "bmw|z4": [
+   "3500",
+   "52"
+  ],
+  "bmw|z4 m": [
+   "3500",
+   "55"
+  ],
+  "bmw|z4 m40": [
+   "3500",
+   "349"
+  ],
+  "bmw|z8": [
+   "3500",
+   "54"
+  ],
+  "bmw|andere": [
+   "3500",
+   "1"
+  ],
+  "mercedes-benz|190": [
+   "17200",
+   "126"
+  ],
+  "mercedes-benz|200": [
+   "17200",
+   "127"
+  ],
+  "mercedes-benz|220": [
+   "17200",
+   "128"
+  ],
+  "mercedes-benz|230": [
+   "17200",
+   "129"
+  ],
+  "mercedes-benz|240": [
+   "17200",
+   "130"
+  ],
+  "mercedes-benz|250": [
+   "17200",
+   "131"
+  ],
+  "mercedes-benz|260": [
+   "17200",
+   "132"
+  ],
+  "mercedes-benz|270": [
+   "17200",
+   "133"
+  ],
+  "mercedes-benz|280": [
+   "17200",
+   "134"
+  ],
+  "mercedes-benz|290": [
+   "17200",
+   "135"
+  ],
+  "mercedes-benz|300": [
+   "17200",
+   "136"
+  ],
+  "mercedes-benz|320": [
+   "17200",
+   "137"
+  ],
+  "mercedes-benz|350": [
+   "17200",
+   "138"
+  ],
+  "mercedes-benz|380": [
+   "17200",
+   "139"
+  ],
+  "mercedes-benz|400": [
+   "17200",
+   "140"
+  ],
+  "mercedes-benz|416": [
+   "17200",
+   "141"
+  ],
+  "mercedes-benz|420": [
+   "17200",
+   "142"
+  ],
+  "mercedes-benz|450": [
+   "17200",
+   "143"
+  ],
+  "mercedes-benz|500": [
+   "17200",
+   "144"
+  ],
+  "mercedes-benz|560": [
+   "17200",
+   "145"
+  ],
+  "mercedes-benz|600": [
+   "17200",
+   "146"
+  ],
+  "mercedes-benz|a-klasse": [
+   "17200",
+   "g4"
+  ],
+  "mercedes-benz|a 140": [
+   "17200",
+   "2"
+  ],
+  "mercedes-benz|a 150": [
+   "17200",
+   "3"
+  ],
+  "mercedes-benz|a 160": [
+   "17200",
+   "4"
+  ],
+  "mercedes-benz|a 170": [
+   "17200",
+   "5"
+  ],
+  "mercedes-benz|a 180": [
+   "17200",
+   "6"
+  ],
+  "mercedes-benz|a 190": [
+   "17200",
+   "7"
+  ],
+  "mercedes-benz|a 200": [
+   "17200",
+   "8"
+  ],
+  "mercedes-benz|a 210": [
+   "17200",
+   "9"
+  ],
+  "mercedes-benz|a 220": [
+   "17200",
+   "221"
+  ],
+  "mercedes-benz|a 250": [
+   "17200",
+   "220"
+  ],
+  "mercedes-benz|a 35 amg": [
+   "17200",
+   "298"
+  ],
+  "mercedes-benz|a 45 amg": [
+   "17200",
+   "229"
+  ],
+  "mercedes-benz|b-klasse": [
+   "17200",
+   "g5"
+  ],
+  "mercedes-benz|b 150": [
+   "17200",
+   "12"
+  ],
+  "mercedes-benz|b 160": [
+   "17200",
+   "11"
+  ],
+  "mercedes-benz|b 170": [
+   "17200",
+   "13"
+  ],
+  "mercedes-benz|b 180": [
+   "17200",
+   "14"
+  ],
+  "mercedes-benz|b 200": [
+   "17200",
+   "15"
+  ],
+  "mercedes-benz|b 220": [
+   "17200",
+   "222"
+  ],
+  "mercedes-benz|b 250": [
+   "17200",
+   "223"
+  ],
+  "mercedes-benz|b electric drive": [
+   "17200",
+   "241"
+  ],
+  "mercedes-benz|ce-klasse": [
+   "17200",
+   "g7"
+  ],
+  "mercedes-benz|ce 200": [
+   "17200",
+   "32"
+  ],
+  "mercedes-benz|ce 220": [
+   "17200",
+   "167"
+  ],
+  "mercedes-benz|ce 230": [
+   "17200",
+   "216"
+  ],
+  "mercedes-benz|ce 280": [
+   "17200",
+   "217"
+  ],
+  "mercedes-benz|ce 300": [
+   "17200",
+   "33"
+  ],
+  "mercedes-benz|ce 320": [
+   "17200",
+   "234"
+  ],
+  "mercedes-benz|citan": [
+   "17200",
+   "224"
+  ],
+  "mercedes-benz|c-klasse": [
+   "17200",
+   "g6"
+  ],
+  "mercedes-benz|c 160": [
+   "17200",
+   "16"
+  ],
+  "mercedes-benz|c 180": [
+   "17200",
+   "17"
+  ],
+  "mercedes-benz|c 200": [
+   "17200",
+   "18"
+  ],
+  "mercedes-benz|c 220": [
+   "17200",
+   "19"
+  ],
+  "mercedes-benz|c 230": [
+   "17200",
+   "20"
+  ],
+  "mercedes-benz|c 240": [
+   "17200",
+   "21"
+  ],
+  "mercedes-benz|c 250": [
+   "17200",
+   "22"
+  ],
+  "mercedes-benz|c 270": [
+   "17200",
+   "23"
+  ],
+  "mercedes-benz|c 280": [
+   "17200",
+   "24"
+  ],
+  "mercedes-benz|c 300": [
+   "17200",
+   "44"
+  ],
+  "mercedes-benz|c 30 amg": [
+   "17200",
+   "25"
+  ],
+  "mercedes-benz|c 320": [
+   "17200",
+   "27"
+  ],
+  "mercedes-benz|c 32 amg": [
+   "17200",
+   "26"
+  ],
+  "mercedes-benz|c 350": [
+   "17200",
+   "28"
+  ],
+  "mercedes-benz|c 36 amg": [
+   "17200",
+   "29"
+  ],
+  "mercedes-benz|c 400": [
+   "17200",
+   "245"
+  ],
+  "mercedes-benz|c 43 amg": [
+   "17200",
+   "30"
+  ],
+  "mercedes-benz|c 450 amg": [
+   "17200",
+   "246"
+  ],
+  "mercedes-benz|c 55 amg": [
+   "17200",
+   "31"
+  ],
+  "mercedes-benz|c 63 amg": [
+   "17200",
+   "198"
+  ],
+  "mercedes-benz|cla-klasse": [
+   "17200",
+   "g45"
+  ],
+  "mercedes-benz|cla 180": [
+   "17200",
+   "225"
+  ],
+  "mercedes-benz|cla 180 shooting brake": [
+   "17200",
+   "255"
+  ],
+  "mercedes-benz|cla 200": [
+   "17200",
+   "226"
+  ],
+  "mercedes-benz|cla 200 shooting brake": [
+   "17200",
+   "256"
+  ],
+  "mercedes-benz|cla 220": [
+   "17200",
+   "227"
+  ],
+  "mercedes-benz|cla 220 shooting brake": [
+   "17200",
+   "257"
+  ],
+  "mercedes-benz|cla 250": [
+   "17200",
+   "228"
+  ],
+  "mercedes-benz|cla 250 shooting brake": [
+   "17200",
+   "258"
+  ],
+  "mercedes-benz|cla 350": [
+   "17200",
+   "375"
+  ],
+  "mercedes-benz|cla 35 amg": [
+   "17200",
+   "326"
+  ],
+  "mercedes-benz|cla 35 amg shooting brake": [
+   "17200",
+   "353"
+  ],
+  "mercedes-benz|cla 45 amg": [
+   "17200",
+   "230"
+  ],
+  "mercedes-benz|cla 45 amg shooting brake": [
+   "17200",
+   "259"
+  ],
+  "mercedes-benz|cla shooting brake": [
+   "17200",
+   "248"
+  ],
+  "mercedes-benz|clc-klasse": [
+   "17200",
+   "g30"
+  ],
+  "mercedes-benz|clc 160": [
+   "17200",
+   "46"
+  ],
+  "mercedes-benz|clc 180": [
+   "17200",
+   "200"
+  ],
+  "mercedes-benz|clc 200": [
+   "17200",
+   "201"
+  ],
+  "mercedes-benz|clc 220": [
+   "17200",
+   "202"
+  ],
+  "mercedes-benz|clc 230": [
+   "17200",
+   "203"
+  ],
+  "mercedes-benz|clc 250": [
+   "17200",
+   "107"
+  ],
+  "mercedes-benz|clc 350": [
+   "17200",
+   "204"
+  ],
+  "mercedes-benz|cle-klasse": [
+   "17200",
+   "g69"
+  ],
+  "mercedes-benz|cle 180": [
+   "17200",
+   "367"
+  ],
+  "mercedes-benz|cle 200": [
+   "17200",
+   "357"
+  ],
+  "mercedes-benz|cle 220": [
+   "17200",
+   "360"
+  ],
+  "mercedes-benz|cle 300": [
+   "17200",
+   "361"
+  ],
+  "mercedes-benz|cle 450": [
+   "17200",
+   "362"
+  ],
+  "mercedes-benz|cle 53 amg": [
+   "17200",
+   "363"
+  ],
+  "mercedes-benz|clk-klasse": [
+   "17200",
+   "g9"
+  ],
+  "mercedes-benz|clk 200": [
+   "17200",
+   "168"
+  ],
+  "mercedes-benz|clk 220": [
+   "17200",
+   "169"
+  ],
+  "mercedes-benz|clk 230": [
+   "17200",
+   "186"
+  ],
+  "mercedes-benz|clk 240": [
+   "17200",
+   "187"
+  ],
+  "mercedes-benz|clk 270": [
+   "17200",
+   "188"
+  ],
+  "mercedes-benz|clk 280": [
+   "17200",
+   "170"
+  ],
+  "mercedes-benz|clk 320": [
+   "17200",
+   "171"
+  ],
+  "mercedes-benz|clk 350": [
+   "17200",
+   "172"
+  ],
+  "mercedes-benz|clk 430": [
+   "17200",
+   "173"
+  ],
+  "mercedes-benz|clk 500": [
+   "17200",
+   "174"
+  ],
+  "mercedes-benz|clk 55 amg": [
+   "17200",
+   "45"
+  ],
+  "mercedes-benz|clk 63 amg": [
+   "17200",
+   "189"
+  ],
+  "mercedes-benz|cl-klasse": [
+   "17200",
+   "g8"
+  ],
+  "mercedes-benz|cl 160": [
+   "17200",
+   "210"
+  ],
+  "mercedes-benz|cl 180": [
+   "17200",
+   "35"
+  ],
+  "mercedes-benz|cl 200": [
+   "17200",
+   "36"
+  ],
+  "mercedes-benz|cl 220": [
+   "17200",
+   "37"
+  ],
+  "mercedes-benz|cl 230": [
+   "17200",
+   "38"
+  ],
+  "mercedes-benz|cl 320": [
+   "17200",
+   "211"
+  ],
+  "mercedes-benz|cl 420": [
+   "17200",
+   "39"
+  ],
+  "mercedes-benz|cl 500": [
+   "17200",
+   "40"
+  ],
+  "mercedes-benz|cl 55 amg": [
+   "17200",
+   "41"
+  ],
+  "mercedes-benz|cl 600": [
+   "17200",
+   "42"
+  ],
+  "mercedes-benz|cl 63 amg": [
+   "17200",
+   "197"
+  ],
+  "mercedes-benz|cl 65 amg": [
+   "17200",
+   "43"
+  ],
+  "mercedes-benz|cls-klasse": [
+   "17200",
+   "g10"
+  ],
+  "mercedes-benz|cls 220": [
+   "17200",
+   "240"
+  ],
+  "mercedes-benz|cls 220 shooting brake": [
+   "17200",
+   "260"
+  ],
+  "mercedes-benz|cls 250": [
+   "17200",
+   "212"
+  ],
+  "mercedes-benz|cls 250 shooting brake": [
+   "17200",
+   "261"
+  ],
+  "mercedes-benz|cls 280": [
+   "17200",
+   "205"
+  ],
+  "mercedes-benz|cls 300": [
+   "17200",
+   "117"
+  ],
+  "mercedes-benz|cls 320": [
+   "17200",
+   "147"
+  ],
+  "mercedes-benz|cls 350": [
+   "17200",
+   "148"
+  ],
+  "mercedes-benz|cls 350 shooting brake": [
+   "17200",
+   "262"
+  ],
+  "mercedes-benz|cls 400": [
+   "17200",
+   "239"
+  ],
+  "mercedes-benz|cls 400 shooting brake": [
+   "17200",
+   "263"
+  ],
+  "mercedes-benz|cls 450": [
+   "17200",
+   "289"
+  ],
+  "mercedes-benz|cls 500": [
+   "17200",
+   "149"
+  ],
+  "mercedes-benz|cls 500 shooting brake": [
+   "17200",
+   "264"
+  ],
+  "mercedes-benz|cls 53 amg": [
+   "17200",
+   "297"
+  ],
+  "mercedes-benz|cls 55 amg": [
+   "17200",
+   "150"
+  ],
+  "mercedes-benz|cls 63 amg": [
+   "17200",
+   "176"
+  ],
+  "mercedes-benz|cls 63 amg shooting brake": [
+   "17200",
+   "265"
+  ],
+  "mercedes-benz|cls shooting brake": [
+   "17200",
+   "249"
+  ],
+  "mercedes-benz|ecitan": [
+   "17200",
+   "374"
+  ],
+  "mercedes-benz|e-klasse": [
+   "17200",
+   "g11"
+  ],
+  "mercedes-benz|e 200": [
+   "17200",
+   "47"
+  ],
+  "mercedes-benz|e 220": [
+   "17200",
+   "48"
+  ],
+  "mercedes-benz|e 230": [
+   "17200",
+   "49"
+  ],
+  "mercedes-benz|e 240": [
+   "17200",
+   "50"
+  ],
+  "mercedes-benz|e 250": [
+   "17200",
+   "51"
+  ],
+  "mercedes-benz|e 260": [
+   "17200",
+   "52"
+  ],
+  "mercedes-benz|e 270": [
+   "17200",
+   "53"
+  ],
+  "mercedes-benz|e 280": [
+   "17200",
+   "54"
+  ],
+  "mercedes-benz|e 290": [
+   "17200",
+   "55"
+  ],
+  "mercedes-benz|e 300": [
+   "17200",
+   "56"
+  ],
+  "mercedes-benz|e 320": [
+   "17200",
+   "57"
+  ],
+  "mercedes-benz|e 350": [
+   "17200",
+   "58"
+  ],
+  "mercedes-benz|e 36 amg": [
+   "17200",
+   "59"
+  ],
+  "mercedes-benz|e 400": [
+   "17200",
+   "60"
+  ],
+  "mercedes-benz|e 420": [
+   "17200",
+   "61"
+  ],
+  "mercedes-benz|e 430": [
+   "17200",
+   "62"
+  ],
+  "mercedes-benz|e 43 amg": [
+   "17200",
+   "272"
+  ],
+  "mercedes-benz|e 450": [
+   "17200",
+   "321"
+  ],
+  "mercedes-benz|e 50": [
+   "17200",
+   "177"
+  ],
+  "mercedes-benz|e 500": [
+   "17200",
+   "64"
+  ],
+  "mercedes-benz|e 53 amg": [
+   "17200",
+   "296"
+  ],
+  "mercedes-benz|e 55 amg": [
+   "17200",
+   "178"
+  ],
+  "mercedes-benz|e 60 amg": [
+   "17200",
+   "66"
+  ],
+  "mercedes-benz|e 63 amg": [
+   "17200",
+   "179"
+  ],
+  "mercedes-benz|eqa": [
+   "17200",
+   "346"
+  ],
+  "mercedes-benz|eqb": [
+   "17200",
+   "350"
+  ],
+  "mercedes-benz|eqc": [
+   "17200",
+   "322"
+  ],
+  "mercedes-benz|eqe": [
+   "17200",
+   "352"
+  ],
+  "mercedes-benz|eqe suv": [
+   "17200",
+   "358"
+  ],
+  "mercedes-benz|eqs": [
+   "17200",
+   "351"
+  ],
+  "mercedes-benz|eqs suv": [
+   "17200",
+   "359"
+  ],
+  "mercedes-benz|eqt": [
+   "17200",
+   "356"
+  ],
+  "mercedes-benz|eqv": [
+   "17200",
+   "344"
+  ],
+  "mercedes-benz|esprinter": [
+   "17200",
+   "373"
+  ],
+  "mercedes-benz|evito": [
+   "17200",
+   "370"
+  ],
+  "mercedes-benz|g-klasse": [
+   "17200",
+   "g12"
+  ],
+  "mercedes-benz|g 230": [
+   "17200",
+   "152"
+  ],
+  "mercedes-benz|g 240": [
+   "17200",
+   "151"
+  ],
+  "mercedes-benz|g 250": [
+   "17200",
+   "153"
+  ],
+  "mercedes-benz|g 270": [
+   "17200",
+   "154"
+  ],
+  "mercedes-benz|g 280": [
+   "17200",
+   "155"
+  ],
+  "mercedes-benz|g 290": [
+   "17200",
+   "156"
+  ],
+  "mercedes-benz|g 300": [
+   "17200",
+   "157"
+  ],
+  "mercedes-benz|g 320": [
+   "17200",
+   "158"
+  ],
+  "mercedes-benz|g 350": [
+   "17200",
+   "160"
+  ],
+  "mercedes-benz|g 400": [
+   "17200",
+   "159"
+  ],
+  "mercedes-benz|g 450": [
+   "17200",
+   "364"
+  ],
+  "mercedes-benz|g 500": [
+   "17200",
+   "161"
+  ],
+  "mercedes-benz|g 55 amg": [
+   "17200",
+   "68"
+  ],
+  "mercedes-benz|g 580": [
+   "17200",
+   "366"
+  ],
+  "mercedes-benz|g 63 amg": [
+   "17200",
+   "218"
+  ],
+  "mercedes-benz|g 65 amg": [
+   "17200",
+   "219"
+  ],
+  "mercedes-benz|gla-klasse": [
+   "17200",
+   "g54"
+  ],
+  "mercedes-benz|gla 180": [
+   "17200",
+   "238"
+  ],
+  "mercedes-benz|gla 200": [
+   "17200",
+   "231"
+  ],
+  "mercedes-benz|gla 220": [
+   "17200",
+   "232"
+  ],
+  "mercedes-benz|gla 250": [
+   "17200",
+   "233"
+  ],
+  "mercedes-benz|gla 35 amg": [
+   "17200",
+   "343"
+  ],
+  "mercedes-benz|gla 45 amg": [
+   "17200",
+   "236"
+  ],
+  "mercedes-benz|glb-klasse": [
+   "17200",
+   "g66"
+  ],
+  "mercedes-benz|glb 180": [
+   "17200",
+   "335"
+  ],
+  "mercedes-benz|glb 200": [
+   "17200",
+   "328"
+  ],
+  "mercedes-benz|glb 220": [
+   "17200",
+   "336"
+  ],
+  "mercedes-benz|glb 250": [
+   "17200",
+   "329"
+  ],
+  "mercedes-benz|glb 35 amg": [
+   "17200",
+   "339"
+  ],
+  "mercedes-benz|glc-klasse": [
+   "17200",
+   "g59"
+  ],
+  "mercedes-benz|glc 200": [
+   "17200",
+   "325"
+  ],
+  "mercedes-benz|glc 220": [
+   "17200",
+   "253"
+  ],
+  "mercedes-benz|glc 250": [
+   "17200",
+   "254"
+  ],
+  "mercedes-benz|glc 300": [
+   "17200",
+   "284"
+  ],
+  "mercedes-benz|glc 350": [
+   "17200",
+   "278"
+  ],
+  "mercedes-benz|glc 400": [
+   "17200",
+   "334"
+  ],
+  "mercedes-benz|glc 43 amg": [
+   "17200",
+   "279"
+  ],
+  "mercedes-benz|glc 450": [
+   "17200",
+   "365"
+  ],
+  "mercedes-benz|glc 63 amg": [
+   "17200",
+   "283"
+  ],
+  "mercedes-benz|gle-klasse": [
+   "17200",
+   "g58"
+  ],
+  "mercedes-benz|gle 250": [
+   "17200",
+   "266"
+  ],
+  "mercedes-benz|gle 300": [
+   "17200",
+   "324"
+  ],
+  "mercedes-benz|gle 350": [
+   "17200",
+   "251"
+  ],
+  "mercedes-benz|gle 400": [
+   "17200",
+   "252"
+  ],
+  "mercedes-benz|gle 43 amg": [
+   "17200",
+   "280"
+  ],
+  "mercedes-benz|gle 450": [
+   "17200",
+   "243"
+  ],
+  "mercedes-benz|gle 500": [
+   "17200",
+   "267"
+  ],
+  "mercedes-benz|gle 53 amg": [
+   "17200",
+   "337"
+  ],
+  "mercedes-benz|gle 580": [
+   "17200",
+   "341"
+  ],
+  "mercedes-benz|gle 63 amg": [
+   "17200",
+   "250"
+  ],
+  "mercedes-benz|glk-klasse": [
+   "17200",
+   "g31"
+  ],
+  "mercedes-benz|glk 200": [
+   "17200",
+   "175"
+  ],
+  "mercedes-benz|glk 220": [
+   "17200",
+   "206"
+  ],
+  "mercedes-benz|glk 250": [
+   "17200",
+   "63"
+  ],
+  "mercedes-benz|glk 280": [
+   "17200",
+   "207"
+  ],
+  "mercedes-benz|glk 300": [
+   "17200",
+   "65"
+  ],
+  "mercedes-benz|glk 320": [
+   "17200",
+   "208"
+  ],
+  "mercedes-benz|glk 350": [
+   "17200",
+   "209"
+  ],
+  "mercedes-benz|gl-klasse": [
+   "17200",
+   "g13"
+  ],
+  "mercedes-benz|gl 320": [
+   "17200",
+   "180"
+  ],
+  "mercedes-benz|gl 350": [
+   "17200",
+   "166"
+  ],
+  "mercedes-benz|gl 400": [
+   "17200",
+   "244"
+  ],
+  "mercedes-benz|gl 420": [
+   "17200",
+   "181"
+  ],
+  "mercedes-benz|gl 450": [
+   "17200",
+   "182"
+  ],
+  "mercedes-benz|gl 500": [
+   "17200",
+   "183"
+  ],
+  "mercedes-benz|gl 55 amg": [
+   "17200",
+   "196"
+  ],
+  "mercedes-benz|gl 63 amg": [
+   "17200",
+   "195"
+  ],
+  "mercedes-benz|gls-klasse": [
+   "17200",
+   "g60"
+  ],
+  "mercedes-benz|gls 350": [
+   "17200",
+   "268"
+  ],
+  "mercedes-benz|gls 400": [
+   "17200",
+   "269"
+  ],
+  "mercedes-benz|gls 450": [
+   "17200",
+   "340"
+  ],
+  "mercedes-benz|gls 500": [
+   "17200",
+   "270"
+  ],
+  "mercedes-benz|gls 580": [
+   "17200",
+   "338"
+  ],
+  "mercedes-benz|gls 600": [
+   "17200",
+   "342"
+  ],
+  "mercedes-benz|gls 63": [
+   "17200",
+   "271"
+  ],
+  "mercedes-benz|gt-klasse": [
+   "17200",
+   "g64"
+  ],
+  "mercedes-benz|amg gt": [
+   "17200",
+   "242"
+  ],
+  "mercedes-benz|amg gt c": [
+   "17200",
+   "282"
+  ],
+  "mercedes-benz|amg gt r": [
+   "17200",
+   "281"
+  ],
+  "mercedes-benz|amg gt s": [
+   "17200",
+   "247"
+  ],
+  "mercedes-benz|mb 100": [
+   "17200",
+   "70"
+  ],
+  "mercedes-benz|ml-klasse": [
+   "17200",
+   "g14"
+  ],
+  "mercedes-benz|ml 230": [
+   "17200",
+   "71"
+  ],
+  "mercedes-benz|ml 250": [
+   "17200",
+   "215"
+  ],
+  "mercedes-benz|ml 270": [
+   "17200",
+   "72"
+  ],
+  "mercedes-benz|ml 280": [
+   "17200",
+   "73"
+  ],
+  "mercedes-benz|ml 300": [
+   "17200",
+   "67"
+  ],
+  "mercedes-benz|ml 320": [
+   "17200",
+   "74"
+  ],
+  "mercedes-benz|ml 350": [
+   "17200",
+   "75"
+  ],
+  "mercedes-benz|ml 400": [
+   "17200",
+   "76"
+  ],
+  "mercedes-benz|ml 420": [
+   "17200",
+   "192"
+  ],
+  "mercedes-benz|ml 430": [
+   "17200",
+   "77"
+  ],
+  "mercedes-benz|ml 450": [
+   "17200",
+   "69"
+  ],
+  "mercedes-benz|ml 500": [
+   "17200",
+   "78"
+  ],
+  "mercedes-benz|ml 55 amg": [
+   "17200",
+   "79"
+  ],
+  "mercedes-benz|ml 63 amg": [
+   "17200",
+   "162"
+  ],
+  "mercedes-benz|r-klasse": [
+   "17200",
+   "g15"
+  ],
+  "mercedes-benz|r 280": [
+   "17200",
+   "190"
+  ],
+  "mercedes-benz|r 300": [
+   "17200",
+   "92"
+  ],
+  "mercedes-benz|r 320": [
+   "17200",
+   "80"
+  ],
+  "mercedes-benz|r 350": [
+   "17200",
+   "81"
+  ],
+  "mercedes-benz|r 500": [
+   "17200",
+   "82"
+  ],
+  "mercedes-benz|r 63 amg": [
+   "17200",
+   "184"
+  ],
+  "mercedes-benz|s-klasse": [
+   "17200",
+   "g16"
+  ],
+  "mercedes-benz|s 250": [
+   "17200",
+   "213"
+  ],
+  "mercedes-benz|s 260": [
+   "17200",
+   "185"
+  ],
+  "mercedes-benz|s 280": [
+   "17200",
+   "83"
+  ],
+  "mercedes-benz|s 300": [
+   "17200",
+   "84"
+  ],
+  "mercedes-benz|s 320": [
+   "17200",
+   "85"
+  ],
+  "mercedes-benz|s 350": [
+   "17200",
+   "86"
+  ],
+  "mercedes-benz|s 400": [
+   "17200",
+   "87"
+  ],
+  "mercedes-benz|s 420": [
+   "17200",
+   "88"
+  ],
+  "mercedes-benz|s 430": [
+   "17200",
+   "89"
+  ],
+  "mercedes-benz|s 450": [
+   "17200",
+   "191"
+  ],
+  "mercedes-benz|s 500": [
+   "17200",
+   "90"
+  ],
+  "mercedes-benz|s 55": [
+   "17200",
+   "91"
+  ],
+  "mercedes-benz|s 550": [
+   "17200",
+   "193"
+  ],
+  "mercedes-benz|s 560": [
+   "17200",
+   "285"
+  ],
+  "mercedes-benz|s 580": [
+   "17200",
+   "348"
+  ],
+  "mercedes-benz|s 600": [
+   "17200",
+   "93"
+  ],
+  "mercedes-benz|s 63 amg": [
+   "17200",
+   "194"
+  ],
+  "mercedes-benz|s 650": [
+   "17200",
+   "294"
+  ],
+  "mercedes-benz|s 65 amg": [
+   "17200",
+   "94"
+  ],
+  "mercedes-benz|s 680": [
+   "17200",
+   "349"
+  ],
+  "mercedes-benz|slc-klasse": [
+   "17200",
+   "g62"
+  ],
+  "mercedes-benz|slc 180": [
+   "17200",
+   "274"
+  ],
+  "mercedes-benz|slc 200": [
+   "17200",
+   "275"
+  ],
+  "mercedes-benz|slc 250": [
+   "17200",
+   "273"
+  ],
+  "mercedes-benz|slc 280": [
+   "17200",
+   "288"
+  ],
+  "mercedes-benz|slc 300": [
+   "17200",
+   "276"
+  ],
+  "mercedes-benz|slc 43 amg": [
+   "17200",
+   "277"
+  ],
+  "mercedes-benz|slk-klasse": [
+   "17200",
+   "g18"
+  ],
+  "mercedes-benz|slk 200": [
+   "17200",
+   "108"
+  ],
+  "mercedes-benz|slk 230": [
+   "17200",
+   "109"
+  ],
+  "mercedes-benz|slk 250": [
+   "17200",
+   "214"
+  ],
+  "mercedes-benz|slk 280": [
+   "17200",
+   "110"
+  ],
+  "mercedes-benz|slk 300": [
+   "17200",
+   "10"
+  ],
+  "mercedes-benz|slk 320": [
+   "17200",
+   "112"
+  ],
+  "mercedes-benz|slk 32 amg": [
+   "17200",
+   "111"
+  ],
+  "mercedes-benz|slk 350": [
+   "17200",
+   "113"
+  ],
+  "mercedes-benz|slk 55 amg": [
+   "17200",
+   "114"
+  ],
+  "mercedes-benz|sl-klasse": [
+   "17200",
+   "g17"
+  ],
+  "mercedes-benz|sl 230": [
+   "17200",
+   "371"
+  ],
+  "mercedes-benz|sl 250": [
+   "17200",
+   "369"
+  ],
+  "mercedes-benz|sl 280": [
+   "17200",
+   "95"
+  ],
+  "mercedes-benz|sl 300": [
+   "17200",
+   "96"
+  ],
+  "mercedes-benz|sl 320": [
+   "17200",
+   "97"
+  ],
+  "mercedes-benz|sl 350": [
+   "17200",
+   "98"
+  ],
+  "mercedes-benz|sl 380": [
+   "17200",
+   "99"
+  ],
+  "mercedes-benz|sl 400": [
+   "17200",
+   "237"
+  ],
+  "mercedes-benz|sl 420": [
+   "17200",
+   "100"
+  ],
+  "mercedes-benz|sl 43 amg": [
+   "17200",
+   "354"
+  ],
+  "mercedes-benz|sl 450": [
+   "17200",
+   "101"
+  ],
+  "mercedes-benz|sl 500": [
+   "17200",
+   "102"
+  ],
+  "mercedes-benz|sl 55 amg": [
+   "17200",
+   "103"
+  ],
+  "mercedes-benz|sl 560": [
+   "17200",
+   "104"
+  ],
+  "mercedes-benz|sl 600": [
+   "17200",
+   "105"
+  ],
+  "mercedes-benz|sl 60 amg": [
+   "17200",
+   "163"
+  ],
+  "mercedes-benz|sl 63 amg": [
+   "17200",
+   "199"
+  ],
+  "mercedes-benz|sl 65 amg": [
+   "17200",
+   "106"
+  ],
+  "mercedes-benz|sl 680": [
+   "17200",
+   "372"
+  ],
+  "mercedes-benz|sl 70 amg": [
+   "17200",
+   "164"
+  ],
+  "mercedes-benz|sl 73 amg": [
+   "17200",
+   "165"
+  ],
+  "mercedes-benz|slr": [
+   "17200",
+   "115"
+  ],
+  "mercedes-benz|sls amg": [
+   "17200",
+   "34"
+  ],
+  "mercedes-benz|sprinter": [
+   "17200",
+   "116"
+  ],
+  "mercedes-benz|t-klasse": [
+   "17200",
+   "355"
+  ],
+  "mercedes-benz|vaneo": [
+   "17200",
+   "122"
+  ],
+  "mercedes-benz|vario": [
+   "17200",
+   "123"
+  ],
+  "mercedes-benz|viano": [
+   "17200",
+   "124"
+  ],
+  "mercedes-benz|vito": [
+   "17200",
+   "125"
+  ],
+  "mercedes-benz|v-klasse": [
+   "17200",
+   "g19"
+  ],
+  "mercedes-benz|v 200": [
+   "17200",
+   "118"
+  ],
+  "mercedes-benz|v 220": [
+   "17200",
+   "119"
+  ],
+  "mercedes-benz|v 230": [
+   "17200",
+   "120"
+  ],
+  "mercedes-benz|v 250": [
+   "17200",
+   "235"
+  ],
+  "mercedes-benz|v 280": [
+   "17200",
+   "121"
+  ],
+  "mercedes-benz|v 300": [
+   "17200",
+   "323"
+  ],
+  "mercedes-benz|x-klasse": [
+   "17200",
+   "g65"
+  ],
+  "mercedes-benz|x 220": [
+   "17200",
+   "286"
+  ],
+  "mercedes-benz|x 250": [
+   "17200",
+   "287"
+  ],
+  "mercedes-benz|x 350": [
+   "17200",
+   "312"
+  ],
+  "mercedes-benz|andere": [
+   "17200",
+   "1"
+  ],
+  "audi|100": [
+   "1900",
+   "2"
+  ],
+  "audi|200": [
+   "1900",
+   "3"
+  ],
+  "audi|80": [
+   "1900",
+   "5"
+  ],
+  "audi|90": [
+   "1900",
+   "6"
+  ],
+  "audi|a1": [
+   "1900",
+   "25"
+  ],
+  "audi|a2": [
+   "1900",
+   "7"
+  ],
+  "audi|a3": [
+   "1900",
+   "8"
+  ],
+  "audi|a4": [
+   "1900",
+   "9"
+  ],
+  "audi|a4 allroad": [
+   "1900",
+   "33"
+  ],
+  "audi|a5": [
+   "1900",
+   "31"
+  ],
+  "audi|a6": [
+   "1900",
+   "10"
+  ],
+  "audi|a6 allroad": [
+   "1900",
+   "12"
+  ],
+  "audi|a6 e-tron": [
+   "1900",
+   "66"
+  ],
+  "audi|a7": [
+   "1900",
+   "34"
+  ],
+  "audi|a8": [
+   "1900",
+   "11"
+  ],
+  "audi|cabriolet": [
+   "1900",
+   "13"
+  ],
+  "audi|coupé": [
+   "1900",
+   "14"
+  ],
+  "audi|e-tron": [
+   "1900",
+   "50"
+  ],
+  "audi|e-tron gt": [
+   "1900",
+   "58"
+  ],
+  "audi|q2": [
+   "1900",
+   "45"
+  ],
+  "audi|q3": [
+   "1900",
+   "37"
+  ],
+  "audi|q4": [
+   "1900",
+   "57"
+  ],
+  "audi|q4 e-tron": [
+   "1900",
+   "61"
+  ],
+  "audi|q5": [
+   "1900",
+   "32"
+  ],
+  "audi|q6 e-tron": [
+   "1900",
+   "63"
+  ],
+  "audi|q7": [
+   "1900",
+   "15"
+  ],
+  "audi|q8": [
+   "1900",
+   "46"
+  ],
+  "audi|q8 e-tron": [
+   "1900",
+   "65"
+  ],
+  "audi|quattro": [
+   "1900",
+   "16"
+  ],
+  "audi|r8": [
+   "1900",
+   "29"
+  ],
+  "audi|rs2": [
+   "1900",
+   "26"
+  ],
+  "audi|rs3": [
+   "1900",
+   "36"
+  ],
+  "audi|rs4": [
+   "1900",
+   "27"
+  ],
+  "audi|rs5": [
+   "1900",
+   "17"
+  ],
+  "audi|rs6": [
+   "1900",
+   "28"
+  ],
+  "audi|rs7": [
+   "1900",
+   "40"
+  ],
+  "audi|rs e-tron gt": [
+   "1900",
+   "60"
+  ],
+  "audi|rsq3": [
+   "1900",
+   "41"
+  ],
+  "audi|rsq8": [
+   "1900",
+   "55"
+  ],
+  "audi|s1": [
+   "1900",
+   "42"
+  ],
+  "audi|s2": [
+   "1900",
+   "18"
+  ],
+  "audi|s3": [
+   "1900",
+   "19"
+  ],
+  "audi|s4": [
+   "1900",
+   "20"
+  ],
+  "audi|s5": [
+   "1900",
+   "30"
+  ],
+  "audi|s6": [
+   "1900",
+   "21"
+  ],
+  "audi|s6 e-tron": [
+   "1900",
+   "67"
+  ],
+  "audi|s7": [
+   "1900",
+   "38"
+  ],
+  "audi|s8": [
+   "1900",
+   "22"
+  ],
+  "audi|sq2": [
+   "1900",
+   "47"
+  ],
+  "audi|sq5": [
+   "1900",
+   "39"
+  ],
+  "audi|sq6 e-tron": [
+   "1900",
+   "62"
+  ],
+  "audi|sq7": [
+   "1900",
+   "44"
+  ],
+  "audi|sq8": [
+   "1900",
+   "54"
+  ],
+  "audi|sq8 e-tron": [
+   "1900",
+   "64"
+  ],
+  "audi|tt (alle)": [
+   "1900",
+   "g38"
+  ],
+  "audi|tt": [
+   "1900",
+   "23"
+  ],
+  "audi|tt rs": [
+   "1900",
+   "35"
+  ],
+  "audi|tts": [
+   "1900",
+   "4"
+  ],
+  "audi|v8": [
+   "1900",
+   "24"
+  ],
+  "audi|andere": [
+   "1900",
+   "1"
+  ],
+  "volkswagen|181": [
+   "25200",
+   "2"
+  ],
+  "volkswagen|amarok": [
+   "25200",
+   "5"
+  ],
+  "volkswagen|arteon": [
+   "25200",
+   "64"
+  ],
+  "volkswagen|beetle": [
+   "25200",
+   "10"
+  ],
+  "volkswagen|bora": [
+   "25200",
+   "6"
+  ],
+  "volkswagen|buggy": [
+   "25200",
+   "7"
+  ],
+  "volkswagen|caddy": [
+   "25200",
+   "9"
+  ],
+  "volkswagen|caddy maxi": [
+   "25200",
+   "98"
+  ],
+  "volkswagen|cc": [
+   "25200",
+   "19"
+  ],
+  "volkswagen|corrado": [
+   "25200",
+   "12"
+  ],
+  "volkswagen|crafter": [
+   "25200",
+   "3"
+  ],
+  "volkswagen|eos": [
+   "25200",
+   "41"
+  ],
+  "volkswagen|e-up!": [
+   "25200",
+   "100"
+  ],
+  "volkswagen|fox": [
+   "25200",
+   "13"
+  ],
+  "volkswagen|golf": [
+   "25200",
+   "14"
+  ],
+  "volkswagen|golf plus": [
+   "25200",
+   "55"
+  ],
+  "volkswagen|golf sportsvan": [
+   "25200",
+   "40"
+  ],
+  "volkswagen|id.3": [
+   "25200",
+   "81"
+  ],
+  "volkswagen|id.4": [
+   "25200",
+   "82"
+  ],
+  "volkswagen|id.5": [
+   "25200",
+   "93"
+  ],
+  "volkswagen|id.6": [
+   "25200",
+   "96"
+  ],
+  "volkswagen|id.7": [
+   "25200",
+   "97"
+  ],
+  "volkswagen|id. buzz": [
+   "25200",
+   "94"
+  ],
+  "volkswagen|iltis": [
+   "25200",
+   "15"
+  ],
+  "volkswagen|jetta": [
+   "25200",
+   "16"
+  ],
+  "volkswagen|käfer": [
+   "25200",
+   "17"
+  ],
+  "volkswagen|karmann ghia": [
+   "25200",
+   "18"
+  ],
+  "volkswagen|lt": [
+   "25200",
+   "20"
+  ],
+  "volkswagen|lupo": [
+   "25200",
+   "21"
+  ],
+  "volkswagen|new beetle": [
+   "25200",
+   "24"
+  ],
+  "volkswagen|passat (alle)": [
+   "25200",
+   "g37"
+  ],
+  "volkswagen|passat": [
+   "25200",
+   "25"
+  ],
+  "volkswagen|passat alltrack": [
+   "25200",
+   "62"
+  ],
+  "volkswagen|passat cc": [
+   "25200",
+   "4"
+  ],
+  "volkswagen|passat variant": [
+   "25200",
+   "63"
+  ],
+  "volkswagen|phaeton": [
+   "25200",
+   "26"
+  ],
+  "volkswagen|polo": [
+   "25200",
+   "27"
+  ],
+  "volkswagen|routan": [
+   "25200",
+   "8"
+  ],
+  "volkswagen|santana": [
+   "25200",
+   "28"
+  ],
+  "volkswagen|scirocco": [
+   "25200",
+   "29"
+  ],
+  "volkswagen|sharan": [
+   "25200",
+   "30"
+  ],
+  "volkswagen|t1": [
+   "25200",
+   "42"
+  ],
+  "volkswagen|t2": [
+   "25200",
+   "31"
+  ],
+  "volkswagen|t3": [
+   "25200",
+   "g1"
+  ],
+  "volkswagen|t3 andere": [
+   "25200",
+   "46"
+  ],
+  "volkswagen|t3 caravelle": [
+   "25200",
+   "44"
+  ],
+  "volkswagen|t3 kombi": [
+   "25200",
+   "22"
+  ],
+  "volkswagen|t3 multivan": [
+   "25200",
+   "45"
+  ],
+  "volkswagen|t4": [
+   "25200",
+   "g2"
+  ],
+  "volkswagen|t4 andere": [
+   "25200",
+   "49"
+  ],
+  "volkswagen|t4 california": [
+   "25200",
+   "33"
+  ],
+  "volkswagen|t4 caravelle": [
+   "25200",
+   "47"
+  ],
+  "volkswagen|t4 kombi": [
+   "25200",
+   "23"
+  ],
+  "volkswagen|t4 multivan": [
+   "25200",
+   "48"
+  ],
+  "volkswagen|t5": [
+   "25200",
+   "g3"
+  ],
+  "volkswagen|t5 andere": [
+   "25200",
+   "53"
+  ],
+  "volkswagen|t5 california": [
+   "25200",
+   "34"
+  ],
+  "volkswagen|t5 caravelle": [
+   "25200",
+   "50"
+  ],
+  "volkswagen|t5 kombi": [
+   "25200",
+   "32"
+  ],
+  "volkswagen|t5 multivan": [
+   "25200",
+   "51"
+  ],
+  "volkswagen|t5 shuttle": [
+   "25200",
+   "52"
+  ],
+  "volkswagen|t5 transporter": [
+   "25200",
+   "61"
+  ],
+  "volkswagen|t6": [
+   "25200",
+   "g57"
+  ],
+  "volkswagen|t6 andere": [
+   "25200",
+   "59"
+  ],
+  "volkswagen|t6 california": [
+   "25200",
+   "58"
+  ],
+  "volkswagen|t6 caravelle": [
+   "25200",
+   "56"
+  ],
+  "volkswagen|t6 kombi": [
+   "25200",
+   "57"
+  ],
+  "volkswagen|t6 multivan": [
+   "25200",
+   "43"
+  ],
+  "volkswagen|t6 transporter": [
+   "25200",
+   "60"
+  ],
+  "volkswagen|t7": [
+   "25200",
+   "g68"
+  ],
+  "volkswagen|t7 andere": [
+   "25200",
+   "87"
+  ],
+  "volkswagen|t7 california": [
+   "25200",
+   "88"
+  ],
+  "volkswagen|t7 caravelle": [
+   "25200",
+   "89"
+  ],
+  "volkswagen|t7 kombi": [
+   "25200",
+   "90"
+  ],
+  "volkswagen|t7 multivan": [
+   "25200",
+   "91"
+  ],
+  "volkswagen|t7 transporter": [
+   "25200",
+   "92"
+  ],
+  "volkswagen|taigo": [
+   "25200",
+   "86"
+  ],
+  "volkswagen|taro": [
+   "25200",
+   "35"
+  ],
+  "volkswagen|tayron": [
+   "25200",
+   "99"
+  ],
+  "volkswagen|t-cross": [
+   "25200",
+   "75"
+  ],
+  "volkswagen|tiguan": [
+   "25200",
+   "54"
+  ],
+  "volkswagen|tiguan allspace": [
+   "25200",
+   "66"
+  ],
+  "volkswagen|touareg": [
+   "25200",
+   "36"
+  ],
+  "volkswagen|touran": [
+   "25200",
+   "37"
+  ],
+  "volkswagen|t-roc": [
+   "25200",
+   "65"
+  ],
+  "volkswagen|up!": [
+   "25200",
+   "11"
+  ],
+  "volkswagen|vento": [
+   "25200",
+   "39"
+  ],
+  "volkswagen|xl1": [
+   "25200",
+   "38"
+  ],
+  "volkswagen|andere": [
+   "25200",
+   "1"
+  ],
+  "peugeot|1007": [
+   "19300",
+   "2"
+  ],
+  "peugeot|104": [
+   "19300",
+   "3"
+  ],
+  "peugeot|106": [
+   "19300",
+   "4"
+  ],
+  "peugeot|107": [
+   "19300",
+   "5"
+  ],
+  "peugeot|108": [
+   "19300",
+   "47"
+  ],
+  "peugeot|2008": [
+   "19300",
+   "46"
+  ],
+  "peugeot|204": [
+   "19300",
+   "6"
+  ],
+  "peugeot|205": [
+   "19300",
+   "7"
+  ],
+  "peugeot|206": [
+   "19300",
+   "8"
+  ],
+  "peugeot|207": [
+   "19300",
+   "30"
+  ],
+  "peugeot|208": [
+   "19300",
+   "43"
+  ],
+  "peugeot|3008": [
+   "19300",
+   "26"
+  ],
+  "peugeot|301": [
+   "19300",
+   "45"
+  ],
+  "peugeot|304": [
+   "19300",
+   "9"
+  ],
+  "peugeot|305": [
+   "19300",
+   "10"
+  ],
+  "peugeot|306": [
+   "19300",
+   "11"
+  ],
+  "peugeot|307": [
+   "19300",
+   "12"
+  ],
+  "peugeot|308": [
+   "19300",
+   "32"
+  ],
+  "peugeot|309": [
+   "19300",
+   "13"
+  ],
+  "peugeot|4007": [
+   "19300",
+   "31"
+  ],
+  "peugeot|4008": [
+   "19300",
+   "44"
+  ],
+  "peugeot|404": [
+   "19300",
+   "14"
+  ],
+  "peugeot|405": [
+   "19300",
+   "15"
+  ],
+  "peugeot|406": [
+   "19300",
+   "16"
+  ],
+  "peugeot|407": [
+   "19300",
+   "17"
+  ],
+  "peugeot|408": [
+   "19300",
+   "37"
+  ],
+  "peugeot|5008": [
+   "19300",
+   "35"
+  ],
+  "peugeot|504": [
+   "19300",
+   "18"
+  ],
+  "peugeot|505": [
+   "19300",
+   "19"
+  ],
+  "peugeot|508": [
+   "19300",
+   "42"
+  ],
+  "peugeot|604": [
+   "19300",
+   "20"
+  ],
+  "peugeot|605": [
+   "19300",
+   "21"
+  ],
+  "peugeot|607": [
+   "19300",
+   "22"
+  ],
+  "peugeot|806": [
+   "19300",
+   "23"
+  ],
+  "peugeot|807": [
+   "19300",
+   "24"
+  ],
+  "peugeot|bipper": [
+   "19300",
+   "33"
+  ],
+  "peugeot|bipper tepee": [
+   "19300",
+   "39"
+  ],
+  "peugeot|boxer": [
+   "19300",
+   "25"
+  ],
+  "peugeot|e-2008": [
+   "19300",
+   "55"
+  ],
+  "peugeot|e-208": [
+   "19300",
+   "51"
+  ],
+  "peugeot|e-3008": [
+   "19300",
+   "56"
+  ],
+  "peugeot|e-308": [
+   "19300",
+   "57"
+  ],
+  "peugeot|e-408": [
+   "19300",
+   "58"
+  ],
+  "peugeot|e-5008": [
+   "19300",
+   "54"
+  ],
+  "peugeot|e-rifter": [
+   "19300",
+   "52"
+  ],
+  "peugeot|e-traveller": [
+   "19300",
+   "53"
+  ],
+  "peugeot|expert": [
+   "19300",
+   "27"
+  ],
+  "peugeot|expert tepee": [
+   "19300",
+   "40"
+  ],
+  "peugeot|ion": [
+   "19300",
+   "38"
+  ],
+  "peugeot|j5": [
+   "19300",
+   "28"
+  ],
+  "peugeot|partner": [
+   "19300",
+   "29"
+  ],
+  "peugeot|partner tepee": [
+   "19300",
+   "41"
+  ],
+  "peugeot|rcz": [
+   "19300",
+   "36"
+  ],
+  "peugeot|rifter": [
+   "19300",
+   "49"
+  ],
+  "peugeot|tepee": [
+   "19300",
+   "34"
+  ],
+  "peugeot|traveller": [
+   "19300",
+   "48"
+  ],
+  "peugeot|andere": [
+   "19300",
+   "1"
+  ],
+  "skoda|105": [
+   "22900",
+   "2"
+  ],
+  "skoda|120": [
+   "22900",
+   "3"
+  ],
+  "skoda|130": [
+   "22900",
+   "4"
+  ],
+  "skoda|135": [
+   "22900",
+   "5"
+  ],
+  "skoda|citigo": [
+   "22900",
+   "17"
+  ],
+  "skoda|elroq": [
+   "22900",
+   "26"
+  ],
+  "skoda|enyaq": [
+   "22900",
+   "25"
+  ],
+  "skoda|fabia": [
+   "22900",
+   "6"
+  ],
+  "skoda|favorit": [
+   "22900",
+   "7"
+  ],
+  "skoda|felicia": [
+   "22900",
+   "8"
+  ],
+  "skoda|forman": [
+   "22900",
+   "9"
+  ],
+  "skoda|kamiq": [
+   "22900",
+   "24"
+  ],
+  "skoda|karoq": [
+   "22900",
+   "20"
+  ],
+  "skoda|kodiaq": [
+   "22900",
+   "19"
+  ],
+  "skoda|octavia": [
+   "22900",
+   "10"
+  ],
+  "skoda|pick-up": [
+   "22900",
+   "14"
+  ],
+  "skoda|praktik": [
+   "22900",
+   "16"
+  ],
+  "skoda|rapid": [
+   "22900",
+   "18"
+  ],
+  "skoda|roomster": [
+   "22900",
+   "13"
+  ],
+  "skoda|scala": [
+   "22900",
+   "21"
+  ],
+  "skoda|superb": [
+   "22900",
+   "12"
+  ],
+  "skoda|yeti": [
+   "22900",
+   "15"
+  ],
+  "skoda|andere": [
+   "22900",
+   "1"
+  ],
+  "renault|alaskan": [
+   "20700",
+   "50"
+  ],
+  "renault|alpine a110": [
+   "20700",
+   "40"
+  ],
+  "renault|alpine a310": [
+   "20700",
+   "2"
+  ],
+  "renault|alpine v6": [
+   "20700",
+   "4"
+  ],
+  "renault|arkana": [
+   "20700",
+   "64"
+  ],
+  "renault|austral": [
+   "20700",
+   "65"
+  ],
+  "renault|avantime": [
+   "20700",
+   "5"
+  ],
+  "renault|captur": [
+   "20700",
+   "47"
+  ],
+  "renault|clio": [
+   "20700",
+   "6"
+  ],
+  "renault|coupe": [
+   "20700",
+   "7"
+  ],
+  "renault|espace": [
+   "20700",
+   "8"
+  ],
+  "renault|express": [
+   "20700",
+   "9"
+  ],
+  "renault|fluence": [
+   "20700",
+   "36"
+  ],
+  "renault|fuego": [
+   "20700",
+   "10"
+  ],
+  "renault|grand espace": [
+   "20700",
+   "11"
+  ],
+  "renault|grand kangoo": [
+   "20700",
+   "68"
+  ],
+  "renault|grand kangoo e-tech": [
+   "20700",
+   "70"
+  ],
+  "renault|grand modus": [
+   "20700",
+   "42"
+  ],
+  "renault|grand scenic": [
+   "20700",
+   "12"
+  ],
+  "renault|grand scenic e-tech": [
+   "20700",
+   "73"
+  ],
+  "renault|kadjar": [
+   "20700",
+   "48"
+  ],
+  "renault|kangoo": [
+   "20700",
+   "13"
+  ],
+  "renault|kangoo e-tech": [
+   "20700",
+   "69"
+  ],
+  "renault|koleos": [
+   "20700",
+   "41"
+  ],
+  "renault|laguna": [
+   "20700",
+   "14"
+  ],
+  "renault|latitude": [
+   "20700",
+   "44"
+  ],
+  "renault|mascott": [
+   "20700",
+   "15"
+  ],
+  "renault|master": [
+   "20700",
+   "16"
+  ],
+  "renault|megane": [
+   "20700",
+   "17"
+  ],
+  "renault|megane e-tech": [
+   "20700",
+   "71"
+  ],
+  "renault|modus": [
+   "20700",
+   "18"
+  ],
+  "renault|p 1400": [
+   "20700",
+   "19"
+  ],
+  "renault|r 11": [
+   "20700",
+   "20"
+  ],
+  "renault|r 14": [
+   "20700",
+   "21"
+  ],
+  "renault|r 18": [
+   "20700",
+   "22"
+  ],
+  "renault|r 19": [
+   "20700",
+   "23"
+  ],
+  "renault|r 20": [
+   "20700",
+   "24"
+  ],
+  "renault|r 21": [
+   "20700",
+   "25"
+  ],
+  "renault|r 25": [
+   "20700",
+   "26"
+  ],
+  "renault|r 30": [
+   "20700",
+   "27"
+  ],
+  "renault|r 4": [
+   "20700",
+   "28"
+  ],
+  "renault|r 5": [
+   "20700",
+   "29"
+  ],
+  "renault|r 6": [
+   "20700",
+   "30"
+  ],
+  "renault|r 9": [
+   "20700",
+   "31"
+  ],
+  "renault|rafale": [
+   "20700",
+   "66"
+  ],
+  "renault|rapid": [
+   "20700",
+   "32"
+  ],
+  "renault|safrane": [
+   "20700",
+   "33"
+  ],
+  "renault|scenic": [
+   "20700",
+   "34"
+  ],
+  "renault|scenic e-tech": [
+   "20700",
+   "72"
+  ],
+  "renault|spider": [
+   "20700",
+   "35"
+  ],
+  "renault|symbioz": [
+   "20700",
+   "67"
+  ],
+  "renault|talisman": [
+   "20700",
+   "49"
+  ],
+  "renault|trafic": [
+   "20700",
+   "37"
+  ],
+  "renault|twingo": [
+   "20700",
+   "38"
+  ],
+  "renault|twizy": [
+   "20700",
+   "45"
+  ],
+  "renault|vel satis": [
+   "20700",
+   "39"
+  ],
+  "renault|wind": [
+   "20700",
+   "43"
+  ],
+  "renault|zoe": [
+   "20700",
+   "46"
+  ],
+  "renault|andere": [
+   "20700",
+   "1"
+  ],
+  "ford|aerostar": [
+   "9000",
+   "2"
+  ],
+  "ford|b-max": [
+   "9000",
+   "54"
+  ],
+  "ford|bronco": [
+   "9000",
+   "3"
+  ],
+  "ford|bronco sport": [
+   "9000",
+   "119"
+  ],
+  "ford|capri": [
+   "9000",
+   "4"
+  ],
+  "ford|c-max": [
+   "9000",
+   "52"
+  ],
+  "ford|cougar": [
+   "9000",
+   "5"
+  ],
+  "ford|courier": [
+   "9000",
+   "6"
+  ],
+  "ford|crown": [
+   "9000",
+   "7"
+  ],
+  "ford|econoline": [
+   "9000",
+   "8"
+  ],
+  "ford|econovan": [
+   "9000",
+   "9"
+  ],
+  "ford|ecosport": [
+   "9000",
+   "56"
+  ],
+  "ford|edge": [
+   "9000",
+   "48"
+  ],
+  "ford|escape": [
+   "9000",
+   "10"
+  ],
+  "ford|escort": [
+   "9000",
+   "11"
+  ],
+  "ford|excursion": [
+   "9000",
+   "12"
+  ],
+  "ford|expedition": [
+   "9000",
+   "13"
+  ],
+  "ford|explorer": [
+   "9000",
+   "14"
+  ],
+  "ford|express": [
+   "9000",
+   "15"
+  ],
+  "ford|f 100": [
+   "9000",
+   "63"
+  ],
+  "ford|f 150": [
+   "9000",
+   "16"
+  ],
+  "ford|f 250": [
+   "9000",
+   "17"
+  ],
+  "ford|f 350": [
+   "9000",
+   "18"
+  ],
+  "ford|fairlane": [
+   "9000",
+   "45"
+  ],
+  "ford|falcon": [
+   "9000",
+   "46"
+  ],
+  "ford|fiesta": [
+   "9000",
+   "19"
+  ],
+  "ford|flex": [
+   "9000",
+   "53"
+  ],
+  "ford|focus": [
+   "9000",
+   "20"
+  ],
+  "ford|fusion": [
+   "9000",
+   "22"
+  ],
+  "ford|galaxy": [
+   "9000",
+   "23"
+  ],
+  "ford|granada": [
+   "9000",
+   "24"
+  ],
+  "ford|grand c-max": [
+   "9000",
+   "50"
+  ],
+  "ford|grand tourneo": [
+   "9000",
+   "59"
+  ],
+  "ford|gt": [
+   "9000",
+   "44"
+  ],
+  "ford|ka/ka+": [
+   "9000",
+   "25"
+  ],
+  "ford|kuga": [
+   "9000",
+   "49"
+  ],
+  "ford|maverick": [
+   "9000",
+   "27"
+  ],
+  "ford|mercury": [
+   "9000",
+   "28"
+  ],
+  "ford|mondeo": [
+   "9000",
+   "29"
+  ],
+  "ford|mustang": [
+   "9000",
+   "30"
+  ],
+  "ford|mustang mach-e": [
+   "9000",
+   "118"
+  ],
+  "ford|orion": [
+   "9000",
+   "31"
+  ],
+  "ford|probe": [
+   "9000",
+   "32"
+  ],
+  "ford|puma": [
+   "9000",
+   "33"
+  ],
+  "ford|puma gen-e": [
+   "9000",
+   "123"
+  ],
+  "ford|ranger": [
+   "9000",
+   "34"
+  ],
+  "ford|raptor": [
+   "9000",
+   "55"
+  ],
+  "ford|scorpio": [
+   "9000",
+   "35"
+  ],
+  "ford|sierra": [
+   "9000",
+   "36"
+  ],
+  "ford|s-max": [
+   "9000",
+   "47"
+  ],
+  "ford|sportka": [
+   "9000",
+   "26"
+  ],
+  "ford|streetka": [
+   "9000",
+   "37"
+  ],
+  "ford|taunus": [
+   "9000",
+   "38"
+  ],
+  "ford|taurus": [
+   "9000",
+   "39"
+  ],
+  "ford|thunderbird": [
+   "9000",
+   "40"
+  ],
+  "ford|tourneo (alle)": [
+   "9000",
+   "g61"
+  ],
+  "ford|tourneo": [
+   "9000",
+   "41"
+  ],
+  "ford|tourneo connect": [
+   "9000",
+   "61"
+  ],
+  "ford|tourneo courier": [
+   "9000",
+   "60"
+  ],
+  "ford|tourneo custom": [
+   "9000",
+   "62"
+  ],
+  "ford|transit": [
+   "9000",
+   "42"
+  ],
+  "ford|transit connect": [
+   "9000",
+   "51"
+  ],
+  "ford|transit courier": [
+   "9000",
+   "58"
+  ],
+  "ford|transit custom": [
+   "9000",
+   "57"
+  ],
+  "ford|windstar": [
+   "9000",
+   "43"
+  ],
+  "ford|andere": [
+   "9000",
+   "1"
+  ],
+  "opel|adam": [
+   "19000",
+   "38"
+  ],
+  "opel|agila": [
+   "19000",
+   "2"
+  ],
+  "opel|ampera": [
+   "19000",
+   "28"
+  ],
+  "opel|ampera-e": [
+   "19000",
+   "45"
+  ],
+  "opel|antara": [
+   "19000",
+   "34"
+  ],
+  "opel|arena": [
+   "19000",
+   "3"
+  ],
+  "opel|ascona": [
+   "19000",
+   "4"
+  ],
+  "opel|astra": [
+   "19000",
+   "5"
+  ],
+  "opel|astra electric": [
+   "19000",
+   "51"
+  ],
+  "opel|calibra": [
+   "19000",
+   "6"
+  ],
+  "opel|campo": [
+   "19000",
+   "7"
+  ],
+  "opel|cascada": [
+   "19000",
+   "39"
+  ],
+  "opel|cavalier": [
+   "19000",
+   "32"
+  ],
+  "opel|combo": [
+   "19000",
+   "8"
+  ],
+  "opel|combo electric": [
+   "19000",
+   "50"
+  ],
+  "opel|combo life": [
+   "19000",
+   "47"
+  ],
+  "opel|commodore": [
+   "19000",
+   "9"
+  ],
+  "opel|corsa": [
+   "19000",
+   "10"
+  ],
+  "opel|crossland (x)": [
+   "19000",
+   "42"
+  ],
+  "opel|diplomat": [
+   "19000",
+   "11"
+  ],
+  "opel|frontera": [
+   "19000",
+   "12"
+  ],
+  "opel|grandland (x)": [
+   "19000",
+   "43"
+  ],
+  "opel|gt": [
+   "19000",
+   "13"
+  ],
+  "opel|insignia": [
+   "19000",
+   "35"
+  ],
+  "opel|insignia ct": [
+   "19000",
+   "40"
+  ],
+  "opel|kadett": [
+   "19000",
+   "14"
+  ],
+  "opel|karl": [
+   "19000",
+   "41"
+  ],
+  "opel|manta": [
+   "19000",
+   "15"
+  ],
+  "opel|meriva": [
+   "19000",
+   "16"
+  ],
+  "opel|mokka": [
+   "19000",
+   "37"
+  ],
+  "opel|mokka-e": [
+   "19000",
+   "49"
+  ],
+  "opel|mokka x": [
+   "19000",
+   "44"
+  ],
+  "opel|monterey": [
+   "19000",
+   "17"
+  ],
+  "opel|monza": [
+   "19000",
+   "18"
+  ],
+  "opel|movano": [
+   "19000",
+   "19"
+  ],
+  "opel|nova": [
+   "19000",
+   "33"
+  ],
+  "opel|omega": [
+   "19000",
+   "20"
+  ],
+  "opel|pick up sportscap": [
+   "19000",
+   "21"
+  ],
+  "opel|rekord": [
+   "19000",
+   "22"
+  ],
+  "opel|rocks-e": [
+   "19000",
+   "48"
+  ],
+  "opel|senator": [
+   "19000",
+   "23"
+  ],
+  "opel|signum": [
+   "19000",
+   "24"
+  ],
+  "opel|sintra": [
+   "19000",
+   "25"
+  ],
+  "opel|speedster": [
+   "19000",
+   "26"
+  ],
+  "opel|tigra": [
+   "19000",
+   "27"
+  ],
+  "opel|vectra": [
+   "19000",
+   "29"
+  ],
+  "opel|vivaro": [
+   "19000",
+   "30"
+  ],
+  "opel|zafira": [
+   "19000",
+   "31"
+  ],
+  "opel|zafira electric": [
+   "19000",
+   "52"
+  ],
+  "opel|zafira life": [
+   "19000",
+   "46"
+  ],
+  "opel|zafira tourer": [
+   "19000",
+   "36"
+  ],
+  "opel|andere": [
+   "19000",
+   "1"
+  ],
+  "toyota|4-runner": [
+   "24100",
+   "2"
+  ],
+  "toyota|alphard": [
+   "24100",
+   "47"
+  ],
+  "toyota|auris": [
+   "24100",
+   "39"
+  ],
+  "toyota|auris touring sports": [
+   "24100",
+   "43"
+  ],
+  "toyota|avalon": [
+   "24100",
+   "3"
+  ],
+  "toyota|avensis": [
+   "24100",
+   "4"
+  ],
+  "toyota|avensis verso": [
+   "24100",
+   "14"
+  ],
+  "toyota|aygo (x)": [
+   "24100",
+   "5"
+  ],
+  "toyota|bz4x": [
+   "24100",
+   "87"
+  ],
+  "toyota|camry": [
+   "24100",
+   "6"
+  ],
+  "toyota|carina": [
+   "24100",
+   "7"
+  ],
+  "toyota|celica": [
+   "24100",
+   "8"
+  ],
+  "toyota|c-hr": [
+   "24100",
+   "48"
+  ],
+  "toyota|corolla": [
+   "24100",
+   "9"
+  ],
+  "toyota|corolla cross": [
+   "24100",
+   "88"
+  ],
+  "toyota|corolla verso": [
+   "24100",
+   "40"
+  ],
+  "toyota|cressida": [
+   "24100",
+   "10"
+  ],
+  "toyota|crown": [
+   "24100",
+   "11"
+  ],
+  "toyota|dyna": [
+   "24100",
+   "12"
+  ],
+  "toyota|fcv": [
+   "24100",
+   "45"
+  ],
+  "toyota|fj": [
+   "24100",
+   "38"
+  ],
+  "toyota|fortuner": [
+   "24100",
+   "49"
+  ],
+  "toyota|gr86": [
+   "24100",
+   "92"
+  ],
+  "toyota|gt86": [
+   "24100",
+   "31"
+  ],
+  "toyota|hiace": [
+   "24100",
+   "16"
+  ],
+  "toyota|highlander": [
+   "24100",
+   "15"
+  ],
+  "toyota|hilux": [
+   "24100",
+   "17"
+  ],
+  "toyota|iq": [
+   "24100",
+   "41"
+  ],
+  "toyota|land cruiser": [
+   "24100",
+   "19"
+  ],
+  "toyota|lite-ace": [
+   "24100",
+   "21"
+  ],
+  "toyota|matrix": [
+   "24100",
+   "18"
+  ],
+  "toyota|mirai": [
+   "24100",
+   "46"
+  ],
+  "toyota|mr 2": [
+   "24100",
+   "22"
+  ],
+  "toyota|paseo": [
+   "24100",
+   "23"
+  ],
+  "toyota|picnic": [
+   "24100",
+   "25"
+  ],
+  "toyota|previa": [
+   "24100",
+   "26"
+  ],
+  "toyota|prius": [
+   "24100",
+   "27"
+  ],
+  "toyota|prius+": [
+   "24100",
+   "42"
+  ],
+  "toyota|proace (verso)": [
+   "24100",
+   "44"
+  ],
+  "toyota|proace city": [
+   "24100",
+   "76"
+  ],
+  "toyota|proace max": [
+   "24100",
+   "99"
+  ],
+  "toyota|proace verso electric": [
+   "24100",
+   "98"
+  ],
+  "toyota|rav 4": [
+   "24100",
+   "28"
+  ],
+  "toyota|sequoia": [
+   "24100",
+   "29"
+  ],
+  "toyota|sienna": [
+   "24100",
+   "30"
+  ],
+  "toyota|starlet": [
+   "24100",
+   "32"
+  ],
+  "toyota|supra": [
+   "24100",
+   "33"
+  ],
+  "toyota|tacoma": [
+   "24100",
+   "37"
+  ],
+  "toyota|tercel": [
+   "24100",
+   "34"
+  ],
+  "toyota|tundra": [
+   "24100",
+   "35"
+  ],
+  "toyota|urban cruiser": [
+   "24100",
+   "13"
+  ],
+  "toyota|verso": [
+   "24100",
+   "20"
+  ],
+  "toyota|verso-s": [
+   "24100",
+   "24"
+  ],
+  "toyota|yaris": [
+   "24100",
+   "36"
+  ],
+  "toyota|yaris cross": [
+   "24100",
+   "78"
+  ],
+  "toyota|andere": [
+   "24100",
+   "1"
+  ],
+  "hyundai|accent": [
+   "11600",
+   "2"
+  ],
+  "hyundai|atos": [
+   "11600",
+   "3"
+  ],
+  "hyundai|azera": [
+   "11600",
+   "24"
+  ],
+  "hyundai|bayon": [
+   "11600",
+   "56"
+  ],
+  "hyundai|coupe": [
+   "11600",
+   "4"
+  ],
+  "hyundai|elantra": [
+   "11600",
+   "5"
+  ],
+  "hyundai|excel": [
+   "11600",
+   "6"
+  ],
+  "hyundai|galloper": [
+   "11600",
+   "7"
+  ],
+  "hyundai|genesis": [
+   "11600",
+   "15"
+  ],
+  "hyundai|getz": [
+   "11600",
+   "8"
+  ],
+  "hyundai|grandeur": [
+   "11600",
+   "9"
+  ],
+  "hyundai|grand santa fe": [
+   "11600",
+   "38"
+  ],
+  "hyundai|h-1": [
+   "11600",
+   "13"
+  ],
+  "hyundai|h 100": [
+   "11600",
+   "10"
+  ],
+  "hyundai|h-1 starex": [
+   "11600",
+   "14"
+  ],
+  "hyundai|h 200": [
+   "11600",
+   "11"
+  ],
+  "hyundai|h350": [
+   "11600",
+   "39"
+  ],
+  "hyundai|i10": [
+   "11600",
+   "31"
+  ],
+  "hyundai|i20": [
+   "11600",
+   "32"
+  ],
+  "hyundai|i30": [
+   "11600",
+   "30"
+  ],
+  "hyundai|i40": [
+   "11600",
+   "33"
+  ],
+  "hyundai|inster": [
+   "11600",
+   "62"
+  ],
+  "hyundai|ioniq": [
+   "11600",
+   "40"
+  ],
+  "hyundai|ioniq 5": [
+   "11600",
+   "58"
+  ],
+  "hyundai|ioniq 6": [
+   "11600",
+   "60"
+  ],
+  "hyundai|ioniq 9": [
+   "11600",
+   "65"
+  ],
+  "hyundai|ix20": [
+   "11600",
+   "36"
+  ],
+  "hyundai|ix35": [
+   "11600",
+   "12"
+  ],
+  "hyundai|ix55": [
+   "11600",
+   "35"
+  ],
+  "hyundai|kona": [
+   "11600",
+   "41"
+  ],
+  "hyundai|kona elektro": [
+   "11600",
+   "64"
+  ],
+  "hyundai|lantra": [
+   "11600",
+   "16"
+  ],
+  "hyundai|matrix": [
+   "11600",
+   "17"
+  ],
+  "hyundai|nexo": [
+   "11600",
+   "49"
+  ],
+  "hyundai|pony": [
+   "11600",
+   "18"
+  ],
+  "hyundai|santa fe": [
+   "11600",
+   "19"
+  ],
+  "hyundai|santamo": [
+   "11600",
+   "20"
+  ],
+  "hyundai|s-coupe": [
+   "11600",
+   "22"
+  ],
+  "hyundai|sonata": [
+   "11600",
+   "23"
+  ],
+  "hyundai|staria": [
+   "11600",
+   "59"
+  ],
+  "hyundai|terracan": [
+   "11600",
+   "25"
+  ],
+  "hyundai|trajet": [
+   "11600",
+   "26"
+  ],
+  "hyundai|tucson": [
+   "11600",
+   "27"
+  ],
+  "hyundai|veloster": [
+   "11600",
+   "37"
+  ],
+  "hyundai|veracruz": [
+   "11600",
+   "21"
+  ],
+  "hyundai|xg 30": [
+   "11600",
+   "28"
+  ],
+  "hyundai|xg 350": [
+   "11600",
+   "29"
+  ],
+  "hyundai|andere": [
+   "11600",
+   "1"
+  ],
+  "citroën|2 cv": [
+   "5900",
+   "2"
+  ],
+  "citroën|ami": [
+   "5900",
+   "52"
+  ],
+  "citroën|ax": [
+   "5900",
+   "4"
+  ],
+  "citroën|berlingo": [
+   "5900",
+   "5"
+  ],
+  "citroën|bx": [
+   "5900",
+   "6"
+  ],
+  "citroën|c1": [
+   "5900",
+   "7"
+  ],
+  "citroën|c2": [
+   "5900",
+   "9"
+  ],
+  "citroën|c3": [
+   "5900",
+   "11"
+  ],
+  "citroën|c3 aircross": [
+   "5900",
+   "41"
+  ],
+  "citroën|c3 picasso": [
+   "5900",
+   "8"
+  ],
+  "citroën|c4": [
+   "5900",
+   "12"
+  ],
+  "citroën|c4 aircross": [
+   "5900",
+   "36"
+  ],
+  "citroën|c4 cactus": [
+   "5900",
+   "37"
+  ],
+  "citroën|c4 picasso": [
+   "5900",
+   "32"
+  ],
+  "citroën|c4 spacetourer": [
+   "5900",
+   "43"
+  ],
+  "citroën|c4 x": [
+   "5900",
+   "49"
+  ],
+  "citroën|c5": [
+   "5900",
+   "13"
+  ],
+  "citroën|c5 aircross": [
+   "5900",
+   "44"
+  ],
+  "citroën|c5 x": [
+   "5900",
+   "48"
+  ],
+  "citroën|c6": [
+   "5900",
+   "14"
+  ],
+  "citroën|c8": [
+   "5900",
+   "15"
+  ],
+  "citroën|c-crosser": [
+   "5900",
+   "33"
+  ],
+  "citroën|c-elysée": [
+   "5900",
+   "38"
+  ],
+  "citroën|cx": [
+   "5900",
+   "16"
+  ],
+  "citroën|c-zero": [
+   "5900",
+   "31"
+  ],
+  "citroën|ds": [
+   "5900",
+   "17"
+  ],
+  "citroën|ds3": [
+   "5900",
+   "20"
+  ],
+  "citroën|ds4": [
+   "5900",
+   "22"
+  ],
+  "citroën|ds4 crossback": [
+   "5900",
+   "40"
+  ],
+  "citroën|ds5": [
+   "5900",
+   "35"
+  ],
+  "citroën|ë-berlingo": [
+   "5900",
+   "50"
+  ],
+  "citroën|ë-c3": [
+   "5900",
+   "55"
+  ],
+  "citroën|ë-c3 aircross": [
+   "5900",
+   "51"
+  ],
+  "citroën|ë-c4": [
+   "5900",
+   "53"
+  ],
+  "citroën|ë-c4 x": [
+   "5900",
+   "54"
+  ],
+  "citroën|e-mehari": [
+   "5900",
+   "42"
+  ],
+  "citroën|ë-spacetourer": [
+   "5900",
+   "56"
+  ],
+  "citroën|evasion": [
+   "5900",
+   "18"
+  ],
+  "citroën|grand c4 picasso / spacetourer": [
+   "5900",
+   "34"
+  ],
+  "citroën|gsa": [
+   "5900",
+   "19"
+  ],
+  "citroën|jumper": [
+   "5900",
+   "10"
+  ],
+  "citroën|jumpy": [
+   "5900",
+   "21"
+  ],
+  "citroën|nemo": [
+   "5900",
+   "3"
+  ],
+  "citroën|saxo": [
+   "5900",
+   "23"
+  ],
+  "citroën|sm": [
+   "5900",
+   "24"
+  ],
+  "citroën|spacetourer": [
+   "5900",
+   "39"
+  ],
+  "citroën|visa": [
+   "5900",
+   "25"
+  ],
+  "citroën|xantia": [
+   "5900",
+   "26"
+  ],
+  "citroën|xm": [
+   "5900",
+   "27"
+  ],
+  "citroën|xsara": [
+   "5900",
+   "28"
+  ],
+  "citroën|xsara picasso": [
+   "5900",
+   "29"
+  ],
+  "citroën|zx": [
+   "5900",
+   "30"
+  ],
+  "citroën|andere": [
+   "5900",
+   "1"
+  ],
+  "seat|alhambra": [
+   "22500",
+   "2"
+  ],
+  "seat|altea": [
+   "22500",
+   "3"
+  ],
+  "seat|arona": [
+   "22500",
+   "16"
+  ],
+  "seat|arosa": [
+   "22500",
+   "4"
+  ],
+  "seat|ateca": [
+   "22500",
+   "13"
+  ],
+  "seat|cordoba": [
+   "22500",
+   "5"
+  ],
+  "seat|exeo": [
+   "22500",
+   "6"
+  ],
+  "seat|ibiza": [
+   "22500",
+   "7"
+  ],
+  "seat|inca": [
+   "22500",
+   "8"
+  ],
+  "seat|leon": [
+   "22500",
+   "9"
+  ],
+  "seat|malaga": [
+   "22500",
+   "10"
+  ],
+  "seat|marbella": [
+   "22500",
+   "11"
+  ],
+  "seat|mii": [
+   "22500",
+   "12"
+  ],
+  "seat|tarraco": [
+   "22500",
+   "17"
+  ],
+  "seat|terra": [
+   "22500",
+   "14"
+  ],
+  "seat|toledo": [
+   "22500",
+   "15"
+  ],
+  "seat|andere": [
+   "22500",
+   "1"
+  ],
+  "fiat|124": [
+   "8800",
+   "2"
+  ],
+  "fiat|124 spider": [
+   "8800",
+   "54"
+  ],
+  "fiat|126": [
+   "8800",
+   "4"
+  ],
+  "fiat|127": [
+   "8800",
+   "5"
+  ],
+  "fiat|130": [
+   "8800",
+   "6"
+  ],
+  "fiat|131": [
+   "8800",
+   "7"
+  ],
+  "fiat|500": [
+   "8800",
+   "9"
+  ],
+  "fiat|500c": [
+   "8800",
+   "49"
+  ],
+  "fiat|500e": [
+   "8800",
+   "74"
+  ],
+  "fiat|500l": [
+   "8800",
+   "48"
+  ],
+  "fiat|500l cross": [
+   "8800",
+   "60"
+  ],
+  "fiat|500l living": [
+   "8800",
+   "51"
+  ],
+  "fiat|500l trekking": [
+   "8800",
+   "52"
+  ],
+  "fiat|500l urban": [
+   "8800",
+   "59"
+  ],
+  "fiat|500l wagon": [
+   "8800",
+   "58"
+  ],
+  "fiat|500s": [
+   "8800",
+   "57"
+  ],
+  "fiat|500x": [
+   "8800",
+   "53"
+  ],
+  "fiat|600": [
+   "8800",
+   "64"
+  ],
+  "fiat|600e": [
+   "8800",
+   "75"
+  ],
+  "fiat|albea": [
+   "8800",
+   "25"
+  ],
+  "fiat|barchetta": [
+   "8800",
+   "10"
+  ],
+  "fiat|brava": [
+   "8800",
+   "11"
+  ],
+  "fiat|bravo": [
+   "8800",
+   "12"
+  ],
+  "fiat|cinquecento": [
+   "8800",
+   "14"
+  ],
+  "fiat|coupe": [
+   "8800",
+   "15"
+  ],
+  "fiat|croma": [
+   "8800",
+   "16"
+  ],
+  "fiat|dino": [
+   "8800",
+   "17"
+  ],
+  "fiat|doblo": [
+   "8800",
+   "18"
+  ],
+  "fiat|ducato": [
+   "8800",
+   "19"
+  ],
+  "fiat|fiorino": [
+   "8800",
+   "21"
+  ],
+  "fiat|freemont": [
+   "8800",
+   "47"
+  ],
+  "fiat|fullback": [
+   "8800",
+   "55"
+  ],
+  "fiat|grande panda": [
+   "8800",
+   "77"
+  ],
+  "fiat|grande punto": [
+   "8800",
+   "44"
+  ],
+  "fiat|idea": [
+   "8800",
+   "22"
+  ],
+  "fiat|linea": [
+   "8800",
+   "46"
+  ],
+  "fiat|marea": [
+   "8800",
+   "23"
+  ],
+  "fiat|marengo": [
+   "8800",
+   "24"
+  ],
+  "fiat|multipla": [
+   "8800",
+   "26"
+  ],
+  "fiat|new panda": [
+   "8800",
+   "50"
+  ],
+  "fiat|palio": [
+   "8800",
+   "27"
+  ],
+  "fiat|panda": [
+   "8800",
+   "28"
+  ],
+  "fiat|punto": [
+   "8800",
+   "30"
+  ],
+  "fiat|punto evo": [
+   "8800",
+   "38"
+  ],
+  "fiat|qubo": [
+   "8800",
+   "13"
+  ],
+  "fiat|regata": [
+   "8800",
+   "31"
+  ],
+  "fiat|ritmo": [
+   "8800",
+   "32"
+  ],
+  "fiat|scudo": [
+   "8800",
+   "33"
+  ],
+  "fiat|sedici": [
+   "8800",
+   "45"
+  ],
+  "fiat|seicento": [
+   "8800",
+   "34"
+  ],
+  "fiat|siena": [
+   "8800",
+   "29"
+  ],
+  "fiat|spider europa": [
+   "8800",
+   "35"
+  ],
+  "fiat|stilo": [
+   "8800",
+   "36"
+  ],
+  "fiat|strada": [
+   "8800",
+   "37"
+  ],
+  "fiat|talento": [
+   "8800",
+   "56"
+  ],
+  "fiat|tempra": [
+   "8800",
+   "39"
+  ],
+  "fiat|tipo": [
+   "8800",
+   "40"
+  ],
+  "fiat|topolino": [
+   "8800",
+   "76"
+  ],
+  "fiat|ulysse": [
+   "8800",
+   "41"
+  ],
+  "fiat|uno": [
+   "8800",
+   "42"
+  ],
+  "fiat|x 1/9": [
+   "8800",
+   "43"
+  ],
+  "fiat|andere": [
+   "8800",
+   "1"
+  ],
+  "kia|besta": [
+   "13200",
+   "2"
+  ],
+  "kia|borrego": [
+   "13200",
+   "28"
+  ],
+  "kia|carens": [
+   "13200",
+   "3"
+  ],
+  "kia|carnival": [
+   "13200",
+   "4"
+  ],
+  "kia|cee'd / ceed": [
+   "13200",
+   "26"
+  ],
+  "kia|cee'd sportswagon": [
+   "13200",
+   "31"
+  ],
+  "kia|cerato": [
+   "13200",
+   "5"
+  ],
+  "kia|clarus": [
+   "13200",
+   "6"
+  ],
+  "kia|elan": [
+   "13200",
+   "7"
+  ],
+  "kia|ev3": [
+   "13200",
+   "62"
+  ],
+  "kia|ev4": [
+   "13200",
+   "64"
+  ],
+  "kia|ev5": [
+   "13200",
+   "65"
+  ],
+  "kia|ev6": [
+   "13200",
+   "52"
+  ],
+  "kia|ev9": [
+   "13200",
+   "61"
+  ],
+  "kia|joice": [
+   "13200",
+   "8"
+  ],
+  "kia|k2500": [
+   "13200",
+   "9"
+  ],
+  "kia|k2700": [
+   "13200",
+   "10"
+  ],
+  "kia|k4": [
+   "13200",
+   "66"
+  ],
+  "kia|leo": [
+   "13200",
+   "11"
+  ],
+  "kia|magentis": [
+   "13200",
+   "12"
+  ],
+  "kia|mentor": [
+   "13200",
+   "13"
+  ],
+  "kia|mini": [
+   "13200",
+   "30"
+  ],
+  "kia|niro": [
+   "13200",
+   "34"
+  ],
+  "kia|niro ev": [
+   "13200",
+   "54"
+  ],
+  "kia|opirus": [
+   "13200",
+   "14"
+  ],
+  "kia|optima": [
+   "13200",
+   "33"
+  ],
+  "kia|picanto": [
+   "13200",
+   "15"
+  ],
+  "kia|pregio": [
+   "13200",
+   "16"
+  ],
+  "kia|pride": [
+   "13200",
+   "17"
+  ],
+  "kia|pro cee'd / proceed": [
+   "13200",
+   "27"
+  ],
+  "kia|pv5": [
+   "13200",
+   "63"
+  ],
+  "kia|retona": [
+   "13200",
+   "18"
+  ],
+  "kia|rio": [
+   "13200",
+   "19"
+  ],
+  "kia|roadster": [
+   "13200",
+   "20"
+  ],
+  "kia|rocsta": [
+   "13200",
+   "21"
+  ],
+  "kia|sephia": [
+   "13200",
+   "22"
+  ],
+  "kia|shuma": [
+   "13200",
+   "23"
+  ],
+  "kia|sorento": [
+   "13200",
+   "24"
+  ],
+  "kia|soul": [
+   "13200",
+   "29"
+  ],
+  "kia|sportage": [
+   "13200",
+   "25"
+  ],
+  "kia|stinger": [
+   "13200",
+   "35"
+  ],
+  "kia|stonic": [
+   "13200",
+   "36"
+  ],
+  "kia|venga": [
+   "13200",
+   "32"
+  ],
+  "kia|xceed": [
+   "13200",
+   "49"
+  ],
+  "kia|andere": [
+   "13200",
+   "1"
+  ],
+  "porsche|356": [
+   "20100",
+   "2"
+  ],
+  "porsche|911er reihe": [
+   "20100",
+   "g40"
+  ],
+  "porsche|911 urmodell": [
+   "20100",
+   "3"
+  ],
+  "porsche|930": [
+   "20100",
+   "24"
+  ],
+  "porsche|964": [
+   "20100",
+   "5"
+  ],
+  "porsche|991": [
+   "20100",
+   "21"
+  ],
+  "porsche|992": [
+   "20100",
+   "28"
+  ],
+  "porsche|993": [
+   "20100",
+   "6"
+  ],
+  "porsche|996": [
+   "20100",
+   "7"
+  ],
+  "porsche|997": [
+   "20100",
+   "17"
+  ],
+  "porsche|912": [
+   "20100",
+   "8"
+  ],
+  "porsche|914": [
+   "20100",
+   "9"
+  ],
+  "porsche|918": [
+   "20100",
+   "23"
+  ],
+  "porsche|924": [
+   "20100",
+   "10"
+  ],
+  "porsche|928": [
+   "20100",
+   "11"
+  ],
+  "porsche|944": [
+   "20100",
+   "12"
+  ],
+  "porsche|959": [
+   "20100",
+   "13"
+  ],
+  "porsche|962": [
+   "20100",
+   "14"
+  ],
+  "porsche|968": [
+   "20100",
+   "15"
+  ],
+  "porsche|boxster": [
+   "20100",
+   "16"
+  ],
+  "porsche|carrera gt": [
+   "20100",
+   "20"
+  ],
+  "porsche|cayenne": [
+   "20100",
+   "18"
+  ],
+  "porsche|cayman": [
+   "20100",
+   "19"
+  ],
+  "porsche|macan": [
+   "20100",
+   "22"
+  ],
+  "porsche|panamera": [
+   "20100",
+   "4"
+  ],
+  "porsche|taycan": [
+   "20100",
+   "30"
+  ],
+  "porsche|andere": [
+   "20100",
+   "1"
+  ],
+  "volvo|240": [
+   "25100",
+   "2"
+  ],
+  "volvo|244": [
+   "25100",
+   "3"
+  ],
+  "volvo|245": [
+   "25100",
+   "4"
+  ],
+  "volvo|262": [
+   "25100",
+   "5"
+  ],
+  "volvo|264": [
+   "25100",
+   "6"
+  ],
+  "volvo|340": [
+   "25100",
+   "7"
+  ],
+  "volvo|360": [
+   "25100",
+   "8"
+  ],
+  "volvo|440": [
+   "25100",
+   "9"
+  ],
+  "volvo|460": [
+   "25100",
+   "10"
+  ],
+  "volvo|480": [
+   "25100",
+   "11"
+  ],
+  "volvo|740": [
+   "25100",
+   "12"
+  ],
+  "volvo|744": [
+   "25100",
+   "13"
+  ],
+  "volvo|745": [
+   "25100",
+   "14"
+  ],
+  "volvo|760": [
+   "25100",
+   "15"
+  ],
+  "volvo|780": [
+   "25100",
+   "17"
+  ],
+  "volvo|850": [
+   "25100",
+   "18"
+  ],
+  "volvo|855": [
+   "25100",
+   "19"
+  ],
+  "volvo|940": [
+   "25100",
+   "20"
+  ],
+  "volvo|944": [
+   "25100",
+   "21"
+  ],
+  "volvo|945": [
+   "25100",
+   "22"
+  ],
+  "volvo|960": [
+   "25100",
+   "23"
+  ],
+  "volvo|965": [
+   "25100",
+   "24"
+  ],
+  "volvo|amazon": [
+   "25100",
+   "38"
+  ],
+  "volvo|c30": [
+   "25100",
+   "39"
+  ],
+  "volvo|c40": [
+   "25100",
+   "47"
+  ],
+  "volvo|c70": [
+   "25100",
+   "25"
+  ],
+  "volvo|ec40": [
+   "25100",
+   "51"
+  ],
+  "volvo|es90": [
+   "25100",
+   "52"
+  ],
+  "volvo|ex30": [
+   "25100",
+   "49"
+  ],
+  "volvo|ex40": [
+   "25100",
+   "50"
+  ],
+  "volvo|ex60": [
+   "25100",
+   "53"
+  ],
+  "volvo|ex90": [
+   "25100",
+   "48"
+  ],
+  "volvo|polar": [
+   "25100",
+   "26"
+  ],
+  "volvo|s40": [
+   "25100",
+   "27"
+  ],
+  "volvo|s60": [
+   "25100",
+   "28"
+  ],
+  "volvo|s60 cross country": [
+   "25100",
+   "42"
+  ],
+  "volvo|s70": [
+   "25100",
+   "29"
+  ],
+  "volvo|s80": [
+   "25100",
+   "30"
+  ],
+  "volvo|s90": [
+   "25100",
+   "31"
+  ],
+  "volvo|v40": [
+   "25100",
+   "32"
+  ],
+  "volvo|v40 cross country": [
+   "25100",
+   "41"
+  ],
+  "volvo|v50": [
+   "25100",
+   "33"
+  ],
+  "volvo|v60": [
+   "25100",
+   "16"
+  ],
+  "volvo|v60 cross country": [
+   "25100",
+   "43"
+  ],
+  "volvo|v70": [
+   "25100",
+   "34"
+  ],
+  "volvo|v90": [
+   "25100",
+   "35"
+  ],
+  "volvo|v90 cross country": [
+   "25100",
+   "44"
+  ],
+  "volvo|xc40": [
+   "25100",
+   "45"
+  ],
+  "volvo|xc60": [
+   "25100",
+   "40"
+  ],
+  "volvo|xc70": [
+   "25100",
+   "36"
+  ],
+  "volvo|xc90": [
+   "25100",
+   "37"
+  ],
+  "volvo|andere": [
+   "25100",
+   "1"
+  ],
+  "mini|aceman": [
+   "17500",
+   "g73"
+  ],
+  "mini|aceman e": [
+   "17500",
+   "56"
+  ],
+  "mini|aceman se": [
+   "17500",
+   "57"
+  ],
+  "mini|john cooper works aceman": [
+   "17500",
+   "58"
+  ],
+  "mini|cabrio serie": [
+   "17500",
+   "g47"
+  ],
+  "mini|cooper cabrio": [
+   "17500",
+   "22"
+  ],
+  "mini|cooper d cabrio": [
+   "17500",
+   "23"
+  ],
+  "mini|cooper s cabrio": [
+   "17500",
+   "24"
+  ],
+  "mini|cooper sd cabrio": [
+   "17500",
+   "25"
+  ],
+  "mini|john cooper works cabrio": [
+   "17500",
+   "26"
+  ],
+  "mini|one cabrio": [
+   "17500",
+   "21"
+  ],
+  "mini|clubman serie": [
+   "17500",
+   "g48"
+  ],
+  "mini|cooper clubman": [
+   "17500",
+   "8"
+  ],
+  "mini|cooper d clubman": [
+   "17500",
+   "30"
+  ],
+  "mini|cooper s clubman": [
+   "17500",
+   "31"
+  ],
+  "mini|cooper sd clubman": [
+   "17500",
+   "32"
+  ],
+  "mini|john cooper works clubman": [
+   "17500",
+   "33"
+  ],
+  "mini|one clubman": [
+   "17500",
+   "27"
+  ],
+  "mini|one d clubman": [
+   "17500",
+   "28"
+  ],
+  "mini|clubvan": [
+   "17500",
+   "17"
+  ],
+  "mini|countryman serie": [
+   "17500",
+   "g49"
+  ],
+  "mini|cooper countryman": [
+   "17500",
+   "5"
+  ],
+  "mini|cooper sd countryman": [
+   "17500",
+   "39"
+  ],
+  "mini|countryman c (cooper)": [
+   "17500",
+   "53"
+  ],
+  "mini|countryman d (cooper)": [
+   "17500",
+   "37"
+  ],
+  "mini|countryman e (cooper)": [
+   "17500",
+   "51"
+  ],
+  "mini|countryman s (cooper)": [
+   "17500",
+   "38"
+  ],
+  "mini|countryman se (cooper)": [
+   "17500",
+   "50"
+  ],
+  "mini|john cooper works countryman": [
+   "17500",
+   "40"
+  ],
+  "mini|one countryman": [
+   "17500",
+   "34"
+  ],
+  "mini|one d countryman": [
+   "17500",
+   "35"
+  ],
+  "mini|coupe serie": [
+   "17500",
+   "g50"
+  ],
+  "mini|cooper coupé": [
+   "17500",
+   "11"
+  ],
+  "mini|cooper s coupé": [
+   "17500",
+   "12"
+  ],
+  "mini|cooper sd coupé": [
+   "17500",
+   "18"
+  ],
+  "mini|john cooper works coupé": [
+   "17500",
+   "13"
+  ],
+  "mini|mini": [
+   "17500",
+   "g46"
+  ],
+  "mini|1000": [
+   "17500",
+   "2"
+  ],
+  "mini|1300": [
+   "17500",
+   "3"
+  ],
+  "mini|cooper": [
+   "17500",
+   "4"
+  ],
+  "mini|cooper c": [
+   "17500",
+   "54"
+  ],
+  "mini|cooper d": [
+   "17500",
+   "20"
+  ],
+  "mini|cooper e": [
+   "17500",
+   "52"
+  ],
+  "mini|cooper s": [
+   "17500",
+   "7"
+  ],
+  "mini|cooper sd": [
+   "17500",
+   "10"
+  ],
+  "mini|cooper se": [
+   "17500",
+   "49"
+  ],
+  "mini|john cooper works": [
+   "17500",
+   "9"
+  ],
+  "mini|one": [
+   "17500",
+   "6"
+  ],
+  "mini|one d": [
+   "17500",
+   "19"
+  ],
+  "mini|one first": [
+   "17500",
+   "29"
+  ],
+  "mini|paceman serie": [
+   "17500",
+   "g51"
+  ],
+  "mini|cooper d paceman": [
+   "17500",
+   "42"
+  ],
+  "mini|cooper paceman": [
+   "17500",
+   "41"
+  ],
+  "mini|cooper sd paceman": [
+   "17500",
+   "44"
+  ],
+  "mini|cooper s paceman": [
+   "17500",
+   "43"
+  ],
+  "mini|john cooper works paceman": [
+   "17500",
+   "45"
+  ],
+  "mini|roadster serie": [
+   "17500",
+   "g52"
+  ],
+  "mini|cooper roadster": [
+   "17500",
+   "14"
+  ],
+  "mini|cooper sd roadster": [
+   "17500",
+   "46"
+  ],
+  "mini|cooper s roadster": [
+   "17500",
+   "15"
+  ],
+  "mini|john cooper works roadster": [
+   "17500",
+   "16"
+  ],
+  "mini|andere": [
+   "17500",
+   "1"
+  ],
+  "tesla|model 3": [
+   "135",
+   "5"
+  ],
+  "tesla|model s": [
+   "135",
+   "3"
+  ],
+  "tesla|model x": [
+   "135",
+   "4"
+  ],
+  "tesla|model y": [
+   "135",
+   "6"
+  ],
+  "tesla|roadster": [
+   "135",
+   "2"
+  ],
+  "tesla|andere": [
+   "135",
+   "1"
+  ],
+  "mazda|121": [
+   "16800",
+   "2"
+  ],
+  "mazda|2": [
+   "16800",
+   "3"
+  ],
+  "mazda|2 hybrid": [
+   "16800",
+   "67"
+  ],
+  "mazda|3": [
+   "16800",
+   "4"
+  ],
+  "mazda|323": [
+   "16800",
+   "5"
+  ],
+  "mazda|5": [
+   "16800",
+   "6"
+  ],
+  "mazda|6": [
+   "16800",
+   "7"
+  ],
+  "mazda|626": [
+   "16800",
+   "8"
+  ],
+  "mazda|6e": [
+   "16800",
+   "69"
+  ],
+  "mazda|929": [
+   "16800",
+   "9"
+  ],
+  "mazda|bongo": [
+   "16800",
+   "23"
+  ],
+  "mazda|b series": [
+   "16800",
+   "10"
+  ],
+  "mazda|bt-50": [
+   "16800",
+   "28"
+  ],
+  "mazda|cx-3": [
+   "16800",
+   "34"
+  ],
+  "mazda|cx-30": [
+   "16800",
+   "42"
+  ],
+  "mazda|cx-5": [
+   "16800",
+   "33"
+  ],
+  "mazda|cx-60": [
+   "16800",
+   "63"
+  ],
+  "mazda|cx‑6e": [
+   "16800",
+   "70"
+  ],
+  "mazda|cx-7": [
+   "16800",
+   "26"
+  ],
+  "mazda|cx-80": [
+   "16800",
+   "68"
+  ],
+  "mazda|cx-9": [
+   "16800",
+   "27"
+  ],
+  "mazda|demio": [
+   "16800",
+   "11"
+  ],
+  "mazda|e series": [
+   "16800",
+   "12"
+  ],
+  "mazda|millenia": [
+   "16800",
+   "24"
+  ],
+  "mazda|mpv": [
+   "16800",
+   "13"
+  ],
+  "mazda|mx-3": [
+   "16800",
+   "14"
+  ],
+  "mazda|mx-30": [
+   "16800",
+   "60"
+  ],
+  "mazda|mx-5": [
+   "16800",
+   "15"
+  ],
+  "mazda|mx-6": [
+   "16800",
+   "16"
+  ],
+  "mazda|premacy": [
+   "16800",
+   "17"
+  ],
+  "mazda|protege": [
+   "16800",
+   "25"
+  ],
+  "mazda|rx-6": [
+   "16800",
+   "18"
+  ],
+  "mazda|rx-7": [
+   "16800",
+   "19"
+  ],
+  "mazda|rx-8": [
+   "16800",
+   "20"
+  ],
+  "mazda|tribute": [
+   "16800",
+   "21"
+  ],
+  "mazda|xedos": [
+   "16800",
+   "22"
+  ],
+  "mazda|andere": [
+   "16800",
+   "1"
+  ],
+  "nissan|100 nx": [
+   "18700",
+   "42"
+  ],
+  "nissan|200 sx": [
+   "18700",
+   "43"
+  ],
+  "nissan|240 sx": [
+   "18700",
+   "44"
+  ],
+  "nissan|280 zx": [
+   "18700",
+   "4"
+  ],
+  "nissan|300 zx": [
+   "18700",
+   "5"
+  ],
+  "nissan|350z": [
+   "18700",
+   "6"
+  ],
+  "nissan|370z": [
+   "18700",
+   "26"
+  ],
+  "nissan|almera": [
+   "18700",
+   "7"
+  ],
+  "nissan|almera tino": [
+   "18700",
+   "8"
+  ],
+  "nissan|altima": [
+   "18700",
+   "45"
+  ],
+  "nissan|ariya": [
+   "18700",
+   "87"
+  ],
+  "nissan|armada": [
+   "18700",
+   "9"
+  ],
+  "nissan|bluebird": [
+   "18700",
+   "10"
+  ],
+  "nissan|cabstar": [
+   "18700",
+   "11"
+  ],
+  "nissan|cargo": [
+   "18700",
+   "12"
+  ],
+  "nissan|cherry": [
+   "18700",
+   "13"
+  ],
+  "nissan|cube": [
+   "18700",
+   "3"
+  ],
+  "nissan|e-nv200": [
+   "18700",
+   "59"
+  ],
+  "nissan|evalia": [
+   "18700",
+   "57"
+  ],
+  "nissan|frontier": [
+   "18700",
+   "14"
+  ],
+  "nissan|gt-r": [
+   "18700",
+   "49"
+  ],
+  "nissan|interstar": [
+   "18700",
+   "15"
+  ],
+  "nissan|juke": [
+   "18700",
+   "52"
+  ],
+  "nissan|king cab": [
+   "18700",
+   "16"
+  ],
+  "nissan|kubistar": [
+   "18700",
+   "17"
+  ],
+  "nissan|laurel": [
+   "18700",
+   "18"
+  ],
+  "nissan|leaf": [
+   "18700",
+   "53"
+  ],
+  "nissan|maxima": [
+   "18700",
+   "19"
+  ],
+  "nissan|micra": [
+   "18700",
+   "20"
+  ],
+  "nissan|murano": [
+   "18700",
+   "21"
+  ],
+  "nissan|navara": [
+   "18700",
+   "22"
+  ],
+  "nissan|note": [
+   "18700",
+   "23"
+  ],
+  "nissan|np 300": [
+   "18700",
+   "2"
+  ],
+  "nissan|nv200": [
+   "18700",
+   "54"
+  ],
+  "nissan|nv250": [
+   "18700",
+   "82"
+  ],
+  "nissan|nv300": [
+   "18700",
+   "60"
+  ],
+  "nissan|nv400": [
+   "18700",
+   "56"
+  ],
+  "nissan|pathfinder": [
+   "18700",
+   "24"
+  ],
+  "nissan|patrol": [
+   "18700",
+   "25"
+  ],
+  "nissan|pickup": [
+   "18700",
+   "55"
+  ],
+  "nissan|pixo": [
+   "18700",
+   "36"
+  ],
+  "nissan|prairie": [
+   "18700",
+   "27"
+  ],
+  "nissan|primastar": [
+   "18700",
+   "28"
+  ],
+  "nissan|primera": [
+   "18700",
+   "29"
+  ],
+  "nissan|pulsar": [
+   "18700",
+   "58"
+  ],
+  "nissan|qashqai": [
+   "18700",
+   "47"
+  ],
+  "nissan|qashqai+2": [
+   "18700",
+   "50"
+  ],
+  "nissan|quest": [
+   "18700",
+   "30"
+  ],
+  "nissan|sentra": [
+   "18700",
+   "46"
+  ],
+  "nissan|serena": [
+   "18700",
+   "31"
+  ],
+  "nissan|silvia": [
+   "18700",
+   "32"
+  ],
+  "nissan|skyline": [
+   "18700",
+   "33"
+  ],
+  "nissan|sunny": [
+   "18700",
+   "34"
+  ],
+  "nissan|terrano": [
+   "18700",
+   "35"
+  ],
+  "nissan|tiida": [
+   "18700",
+   "48"
+  ],
+  "nissan|titan": [
+   "18700",
+   "37"
+  ],
+  "nissan|townstar": [
+   "18700",
+   "86"
+  ],
+  "nissan|trade": [
+   "18700",
+   "38"
+  ],
+  "nissan|urvan": [
+   "18700",
+   "39"
+  ],
+  "nissan|vanette": [
+   "18700",
+   "40"
+  ],
+  "nissan|x-trail": [
+   "18700",
+   "41"
+  ],
+  "nissan|andere": [
+   "18700",
+   "1"
+  ],
+  "dacia|bigster": [
+   "6600",
+   "27"
+  ],
+  "dacia|dokker": [
+   "6600",
+   "5"
+  ],
+  "dacia|duster": [
+   "6600",
+   "2"
+  ],
+  "dacia|jogger": [
+   "6600",
+   "26"
+  ],
+  "dacia|lodgy": [
+   "6600",
+   "3"
+  ],
+  "dacia|logan": [
+   "6600",
+   "6"
+  ],
+  "dacia|logan pick-up": [
+   "6600",
+   "4"
+  ],
+  "dacia|pick up": [
+   "6600",
+   "7"
+  ],
+  "dacia|sandero": [
+   "6600",
+   "24"
+  ],
+  "dacia|spring": [
+   "6600",
+   "25"
+  ],
+  "dacia|andere": [
+   "6600",
+   "1"
+  ],
+  "cupra|arona": [
+   "3",
+   "4"
+  ],
+  "cupra|ateca": [
+   "3",
+   "2"
+  ],
+  "cupra|born": [
+   "3",
+   "7"
+  ],
+  "cupra|formentor": [
+   "3",
+   "5"
+  ],
+  "cupra|ibiza": [
+   "3",
+   "3"
+  ],
+  "cupra|leon": [
+   "3",
+   "6"
+  ],
+  "cupra|tavascan": [
+   "3",
+   "8"
+  ],
+  "cupra|terramar": [
+   "3",
+   "9"
+  ],
+  "cupra|andere": [
+   "3",
+   "1"
+  ],
+  "honda|accord": [
+   "11000",
+   "2"
+  ],
+  "honda|aerodeck": [
+   "11000",
+   "21"
+  ],
+  "honda|city": [
+   "11000",
+   "22"
+  ],
+  "honda|civic": [
+   "11000",
+   "3"
+  ],
+  "honda|clarity": [
+   "11000",
+   "25"
+  ],
+  "honda|concerto": [
+   "11000",
+   "4"
+  ],
+  "honda|cr-v": [
+   "11000",
+   "5"
+  ],
+  "honda|crx": [
+   "11000",
+   "6"
+  ],
+  "honda|cr-z": [
+   "11000",
+   "24"
+  ],
+  "honda|e": [
+   "11000",
+   "39"
+  ],
+  "honda|e:ny1": [
+   "11000",
+   "557"
+  ],
+  "honda|element": [
+   "11000",
+   "7"
+  ],
+  "honda|fr-v": [
+   "11000",
+   "8"
+  ],
+  "honda|hr-v": [
+   "11000",
+   "9"
+  ],
+  "honda|insight": [
+   "11000",
+   "10"
+  ],
+  "honda|integra": [
+   "11000",
+   "11"
+  ],
+  "honda|jazz": [
+   "11000",
+   "12"
+  ],
+  "honda|legend": [
+   "11000",
+   "13"
+  ],
+  "honda|logo": [
+   "11000",
+   "14"
+  ],
+  "honda|nsx": [
+   "11000",
+   "15"
+  ],
+  "honda|odyssey": [
+   "11000",
+   "16"
+  ],
+  "honda|pilot": [
+   "11000",
+   "23"
+  ],
+  "honda|prelude": [
+   "11000",
+   "17"
+  ],
+  "honda|ridgeline": [
+   "11000",
+   "26"
+  ],
+  "honda|s2000": [
+   "11000",
+   "18"
+  ],
+  "honda|shuttle": [
+   "11000",
+   "19"
+  ],
+  "honda|stream": [
+   "11000",
+   "20"
+  ],
+  "honda|zr-v": [
+   "11000",
+   "558"
+  ],
+  "honda|andere": [
+   "11000",
+   "1"
+  ],
+  "suzuki|(sx4) s-cross": [
+   "23600",
+   "12"
+  ],
+  "suzuki|across": [
+   "23600",
+   "342"
+  ],
+  "suzuki|alto": [
+   "23600",
+   "2"
+  ],
+  "suzuki|baleno": [
+   "23600",
+   "3"
+  ],
+  "suzuki|cappuccino": [
+   "23600",
+   "4"
+  ],
+  "suzuki|carry": [
+   "23600",
+   "5"
+  ],
+  "suzuki|celerio": [
+   "23600",
+   "13"
+  ],
+  "suzuki|e vitara": [
+   "23600",
+   "375"
+  ],
+  "suzuki|grand vitara": [
+   "23600",
+   "6"
+  ],
+  "suzuki|ignis": [
+   "23600",
+   "7"
+  ],
+  "suzuki|ik-2": [
+   "23600",
+   "14"
+  ],
+  "suzuki|jimny": [
+   "23600",
+   "8"
+  ],
+  "suzuki|kizashi": [
+   "23600",
+   "11"
+  ],
+  "suzuki|liana": [
+   "23600",
+   "9"
+  ],
+  "suzuki|lj": [
+   "23600",
+   "10"
+  ],
+  "suzuki|sj samurai": [
+   "23600",
+   "17"
+  ],
+  "suzuki|splash": [
+   "23600",
+   "24"
+  ],
+  "suzuki|super-carry": [
+   "23600",
+   "18"
+  ],
+  "suzuki|swace": [
+   "23600",
+   "341"
+  ],
+  "suzuki|swift": [
+   "23600",
+   "19"
+  ],
+  "suzuki|sx4": [
+   "23600",
+   "23"
+  ],
+  "suzuki|vitara": [
+   "23600",
+   "20"
+  ],
+  "suzuki|wagon r+": [
+   "23600",
+   "21"
+  ],
+  "suzuki|x-90": [
+   "23600",
+   "22"
+  ],
+  "suzuki|andere": [
+   "23600",
+   "1"
+  ],
+  "jaguar|daimler": [
+   "12400",
+   "2"
+  ],
+  "jaguar|e-pace": [
+   "12400",
+   "8"
+  ],
+  "jaguar|e-type": [
+   "12400",
+   "20"
+  ],
+  "jaguar|f-pace": [
+   "12400",
+   "6"
+  ],
+  "jaguar|f-type": [
+   "12400",
+   "3"
+  ],
+  "jaguar|i-pace": [
+   "12400",
+   "18"
+  ],
+  "jaguar|mk ii": [
+   "12400",
+   "5"
+  ],
+  "jaguar|s-type": [
+   "12400",
+   "7"
+  ],
+  "jaguar|xe": [
+   "12400",
+   "4"
+  ],
+  "jaguar|xf": [
+   "12400",
+   "24"
+  ],
+  "jaguar|xj": [
+   "12400",
+   "9"
+  ],
+  "jaguar|xj12": [
+   "12400",
+   "10"
+  ],
+  "jaguar|xj40": [
+   "12400",
+   "11"
+  ],
+  "jaguar|xj6": [
+   "12400",
+   "12"
+  ],
+  "jaguar|xj8": [
+   "12400",
+   "13"
+  ],
+  "jaguar|xjr": [
+   "12400",
+   "14"
+  ],
+  "jaguar|xjs": [
+   "12400",
+   "15"
+  ],
+  "jaguar|xjsc": [
+   "12400",
+   "16"
+  ],
+  "jaguar|xk": [
+   "12400",
+   "23"
+  ],
+  "jaguar|xk8": [
+   "12400",
+   "17"
+  ],
+  "jaguar|xkr": [
+   "12400",
+   "22"
+  ],
+  "jaguar|x-type": [
+   "12400",
+   "19"
+  ],
+  "jaguar|andere": [
+   "12400",
+   "1"
+  ],
+  "land rover|defender": [
+   "14800",
+   "2"
+  ],
+  "land rover|discovery": [
+   "14800",
+   "3"
+  ],
+  "land rover|discovery sport": [
+   "14800",
+   "11"
+  ],
+  "land rover|freelander": [
+   "14800",
+   "4"
+  ],
+  "land rover|range rover": [
+   "14800",
+   "5"
+  ],
+  "land rover|range rover evoque": [
+   "14800",
+   "10"
+  ],
+  "land rover|range rover sport": [
+   "14800",
+   "6"
+  ],
+  "land rover|range rover velar": [
+   "14800",
+   "12"
+  ],
+  "land rover|serie i": [
+   "14800",
+   "7"
+  ],
+  "land rover|serie ii": [
+   "14800",
+   "8"
+  ],
+  "land rover|serie iii": [
+   "14800",
+   "9"
+  ],
+  "land rover|andere": [
+   "14800",
+   "1"
+  ],
+  "mitsubishi|3000 gt": [
+   "17700",
+   "2"
+  ],
+  "mitsubishi|asx": [
+   "17700",
+   "21"
+  ],
+  "mitsubishi|canter": [
+   "17700",
+   "4"
+  ],
+  "mitsubishi|carisma": [
+   "17700",
+   "5"
+  ],
+  "mitsubishi|colt": [
+   "17700",
+   "6"
+  ],
+  "mitsubishi|cordia": [
+   "17700",
+   "7"
+  ],
+  "mitsubishi|cosmos": [
+   "17700",
+   "8"
+  ],
+  "mitsubishi|diamante": [
+   "17700",
+   "32"
+  ],
+  "mitsubishi|eclipse": [
+   "17700",
+   "9"
+  ],
+  "mitsubishi|eclipse cross": [
+   "17700",
+   "36"
+  ],
+  "mitsubishi|galant": [
+   "17700",
+   "10"
+  ],
+  "mitsubishi|galloper": [
+   "17700",
+   "11"
+  ],
+  "mitsubishi|grandis": [
+   "17700",
+   "12"
+  ],
+  "mitsubishi|i-miev": [
+   "17700",
+   "25"
+  ],
+  "mitsubishi|l200": [
+   "17700",
+   "13"
+  ],
+  "mitsubishi|l300": [
+   "17700",
+   "14"
+  ],
+  "mitsubishi|l400": [
+   "17700",
+   "15"
+  ],
+  "mitsubishi|lancer": [
+   "17700",
+   "16"
+  ],
+  "mitsubishi|mirage": [
+   "17700",
+   "34"
+  ],
+  "mitsubishi|montero": [
+   "17700",
+   "17"
+  ],
+  "mitsubishi|outlander": [
+   "17700",
+   "18"
+  ],
+  "mitsubishi|pajero": [
+   "17700",
+   "19"
+  ],
+  "mitsubishi|pajero pinin": [
+   "17700",
+   "20"
+  ],
+  "mitsubishi|pick-up": [
+   "17700",
+   "33"
+  ],
+  "mitsubishi|plug-in hybrid outlander": [
+   "17700",
+   "35"
+  ],
+  "mitsubishi|santamo": [
+   "17700",
+   "22"
+  ],
+  "mitsubishi|sapporo": [
+   "17700",
+   "23"
+  ],
+  "mitsubishi|sigma": [
+   "17700",
+   "24"
+  ],
+  "mitsubishi|space gear": [
+   "17700",
+   "26"
+  ],
+  "mitsubishi|space runner": [
+   "17700",
+   "27"
+  ],
+  "mitsubishi|space star": [
+   "17700",
+   "28"
+  ],
+  "mitsubishi|space wagon": [
+   "17700",
+   "29"
+  ],
+  "mitsubishi|starion": [
+   "17700",
+   "30"
+  ],
+  "mitsubishi|tredia": [
+   "17700",
+   "31"
+  ],
+  "mitsubishi|andere": [
+   "17700",
+   "1"
+  ],
+  "smart|#1": [
+   "23000",
+   "6"
+  ],
+  "smart|#3": [
+   "23000",
+   "7"
+  ],
+  "smart|#5": [
+   "23000",
+   "8"
+  ],
+  "smart|crossblade": [
+   "23000",
+   "2"
+  ],
+  "smart|forfour": [
+   "23000",
+   "3"
+  ],
+  "smart|fortwo": [
+   "23000",
+   "4"
+  ],
+  "smart|roadster": [
+   "23000",
+   "5"
+  ],
+  "smart|andere": [
+   "23000",
+   "1"
+  ],
+  "lexus|ct 200h": [
+   "15200",
+   "30"
+  ],
+  "lexus|es-serie": [
+   "15200",
+   "g36"
+  ],
+  "lexus|es 300": [
+   "15200",
+   "17"
+  ],
+  "lexus|es 330": [
+   "15200",
+   "26"
+  ],
+  "lexus|es 350": [
+   "15200",
+   "23"
+  ],
+  "lexus|gs-serie": [
+   "15200",
+   "g32"
+  ],
+  "lexus|gs 250": [
+   "15200",
+   "31"
+  ],
+  "lexus|gs 300": [
+   "15200",
+   "2"
+  ],
+  "lexus|gs 350": [
+   "15200",
+   "27"
+  ],
+  "lexus|gs 430": [
+   "15200",
+   "3"
+  ],
+  "lexus|gs 450": [
+   "15200",
+   "18"
+  ],
+  "lexus|gs 460": [
+   "15200",
+   "24"
+  ],
+  "lexus|gs f": [
+   "15200",
+   "37"
+  ],
+  "lexus|gx series": [
+   "15200",
+   "g67"
+  ],
+  "lexus|gx 460": [
+   "15200",
+   "61"
+  ],
+  "lexus|gx 470": [
+   "15200",
+   "4"
+  ],
+  "lexus|gx 550": [
+   "15200",
+   "73"
+  ],
+  "lexus|is-serie": [
+   "15200",
+   "g28"
+  ],
+  "lexus|is 200": [
+   "15200",
+   "5"
+  ],
+  "lexus|is 220": [
+   "15200",
+   "15"
+  ],
+  "lexus|is 250": [
+   "15200",
+   "16"
+  ],
+  "lexus|is 300": [
+   "15200",
+   "6"
+  ],
+  "lexus|is 350": [
+   "15200",
+   "28"
+  ],
+  "lexus|is-f": [
+   "15200",
+   "21"
+  ],
+  "lexus|lbx": [
+   "15200",
+   "72"
+  ],
+  "lexus|lc 500": [
+   "15200",
+   "41"
+  ],
+  "lexus|lc 500h": [
+   "15200",
+   "42"
+  ],
+  "lexus|lfa": [
+   "15200",
+   "36"
+  ],
+  "lexus|lm": [
+   "15200",
+   "69"
+  ],
+  "lexus|ls-serie": [
+   "15200",
+   "g33"
+  ],
+  "lexus|ls 400": [
+   "15200",
+   "7"
+  ],
+  "lexus|ls 430": [
+   "15200",
+   "8"
+  ],
+  "lexus|ls 460": [
+   "15200",
+   "19"
+  ],
+  "lexus|ls 500": [
+   "15200",
+   "43"
+  ],
+  "lexus|ls 600": [
+   "15200",
+   "20"
+  ],
+  "lexus|lx-serie": [
+   "15200",
+   "g34"
+  ],
+  "lexus|lx 450": [
+   "15200",
+   "60"
+  ],
+  "lexus|lx 470": [
+   "15200",
+   "9"
+  ],
+  "lexus|lx 500": [
+   "15200",
+   "70"
+  ],
+  "lexus|lx 570": [
+   "15200",
+   "25"
+  ],
+  "lexus|lx 600": [
+   "15200",
+   "71"
+  ],
+  "lexus|lx 700": [
+   "15200",
+   "74"
+  ],
+  "lexus|nx-serie": [
+   "15200",
+   "g56"
+  ],
+  "lexus|nx 200": [
+   "15200",
+   "32"
+  ],
+  "lexus|nx 300": [
+   "15200",
+   "33"
+  ],
+  "lexus|nx 350h": [
+   "15200",
+   "62"
+  ],
+  "lexus|nx 450h": [
+   "15200",
+   "63"
+  ],
+  "lexus|rc-serie": [
+   "15200",
+   "g63"
+  ],
+  "lexus|rc 200": [
+   "15200",
+   "35"
+  ],
+  "lexus|rc 300": [
+   "15200",
+   "38"
+  ],
+  "lexus|rc 350": [
+   "15200",
+   "40"
+  ],
+  "lexus|rc f": [
+   "15200",
+   "34"
+  ],
+  "lexus|rx-serie": [
+   "15200",
+   "g35"
+  ],
+  "lexus|rx 200": [
+   "15200",
+   "39"
+  ],
+  "lexus|rx 300": [
+   "15200",
+   "10"
+  ],
+  "lexus|rx 330": [
+   "15200",
+   "11"
+  ],
+  "lexus|rx 350": [
+   "15200",
+   "22"
+  ],
+  "lexus|rx 400": [
+   "15200",
+   "12"
+  ],
+  "lexus|rx 450": [
+   "15200",
+   "29"
+  ],
+  "lexus|rx 500": [
+   "15200",
+   "64"
+  ],
+  "lexus|rz": [
+   "15200",
+   "65"
+  ],
+  "lexus|sc 400": [
+   "15200",
+   "13"
+  ],
+  "lexus|sc 430": [
+   "15200",
+   "14"
+  ],
+  "lexus|ux": [
+   "15200",
+   "49"
+  ],
+  "lexus|andere": [
+   "15200",
+   "1"
+  ]
+ },
+ "brand_models": {
+  "bmw": [
+   [
+    "1er Reihe",
+    "g20"
+   ],
+   [
+    "114",
+    "73"
+   ],
+   [
+    "116",
+    "2"
+   ],
+   [
+    "118",
+    "3"
+   ],
+   [
+    "120",
+    "4"
+   ],
+   [
+    "123",
+    "59"
+   ],
+   [
+    "125",
+    "61"
+   ],
+   [
+    "128",
+    "328"
+   ],
+   [
+    "130",
+    "5"
+   ],
+   [
+    "135",
+    "58"
+   ],
+   [
+    "1er M Coupé",
+    "87"
+   ],
+   [
+    "2002",
+    "71"
+   ],
+   [
+    "2er Reihe",
+    "g55"
+   ],
+   [
+    "214 Active Tourer",
+    "110"
+   ],
+   [
+    "214 Gran Tourer",
+    "116"
+   ],
+   [
+    "216",
+    "106"
+   ],
+   [
+    "216 Active Tourer",
+    "111"
+   ],
+   [
+    "216 Gran Coupé",
+    "345"
+   ],
+   [
+    "216 Gran Tourer",
+    "114"
+   ],
+   [
+    "218",
+    "90"
+   ],
+   [
+    "218 Active Tourer",
+    "107"
+   ],
+   [
+    "218 Gran Coupé",
+    "343"
+   ],
+   [
+    "218 Gran Tourer",
+    "112"
+   ],
+   [
+    "220",
+    "84"
+   ],
+   [
+    "220 Active Tourer",
+    "108"
+   ],
+   [
+    "220 Gran Coupé",
+    "344"
+   ],
+   [
+    "220 Gran Tourer",
+    "113"
+   ],
+   [
+    "223",
+    "351"
+   ],
+   [
+    "223 Active Tourer",
+    "333"
+   ],
+   [
+    "223 Gran Coupé",
+    "350"
+   ],
+   [
+    "225",
+    "91"
+   ],
+   [
+    "225 Active Tourer",
+    "109"
+   ],
+   [
+    "228",
+    "104"
+   ],
+   [
+    "230",
+    "125"
+   ],
+   [
+    "230 Active Tourer",
+    "334"
+   ],
+   [
+    "2er Gran Coupé",
+    "322"
+   ],
+   [
+    "3er Reihe",
+    "g21"
+   ],
+   [
+    "315",
+    "7"
+   ],
+   [
+    "316",
+    "8"
+   ],
+   [
+    "318",
+    "9"
+   ],
+   [
+    "318 Gran Turismo",
+    "75"
+   ],
+   [
+    "320",
+    "10"
+   ],
+   [
+    "320 Gran Turismo",
+    "76"
+   ],
+   [
+    "323",
+    "11"
+   ],
+   [
+    "324",
+    "12"
+   ],
+   [
+    "325",
+    "13"
+   ],
+   [
+    "325 Gran Turismo",
+    "88"
+   ],
+   [
+    "328",
+    "14"
+   ],
+   [
+    "328 Gran Turismo",
+    "77"
+   ],
+   [
+    "330",
+    "15"
+   ],
+   [
+    "330 Gran Turismo",
+    "103"
+   ],
+   [
+    "335",
+    "56"
+   ],
+   [
+    "335 Gran Turismo",
+    "78"
+   ],
+   [
+    "340",
+    "118"
+   ],
+   [
+    "340 Gran Turismo",
+    "130"
+   ],
+   [
+    "ActiveHybrid 3",
+    "72"
+   ],
+   [
+    "4er Reihe",
+    "g53"
+   ],
+   [
+    "418",
+    "115"
+   ],
+   [
+    "418 Gran Coupé",
+    "98"
+   ],
+   [
+    "420",
+    "80"
+   ],
+   [
+    "420 Gran Coupé",
+    "99"
+   ],
+   [
+    "425",
+    "102"
+   ],
+   [
+    "425 Gran Coupé",
+    "124"
+   ],
+   [
+    "428",
+    "81"
+   ],
+   [
+    "428 Gran Coupé",
+    "100"
+   ],
+   [
+    "430",
+    "83"
+   ],
+   [
+    "430 Gran Coupé",
+    "105"
+   ],
+   [
+    "435",
+    "82"
+   ],
+   [
+    "435 Gran Coupé",
+    "101"
+   ],
+   [
+    "440",
+    "120"
+   ],
+   [
+    "440 Gran Coupé",
+    "121"
+   ],
+   [
+    "5er Reihe",
+    "g22"
+   ],
+   [
+    "518",
+    "16"
+   ],
+   [
+    "520",
+    "17"
+   ],
+   [
+    "520 Gran Turismo",
+    "74"
+   ],
+   [
+    "523",
+    "18"
+   ],
+   [
+    "524",
+    "19"
+   ],
+   [
+    "525",
+    "20"
+   ],
+   [
+    "528",
+    "21"
+   ],
+   [
+    "530",
+    "22"
+   ],
+   [
+    "530 Gran Turismo",
+    "65"
+   ],
+   [
+    "535",
+    "23"
+   ],
+   [
+    "535 Gran Turismo",
+    "66"
+   ],
+   [
+    "540",
+    "24"
+   ],
+   [
+    "545",
+    "25"
+   ],
+   [
+    "550",
+    "26"
+   ],
+   [
+    "550 Gran Turismo",
+    "67"
+   ],
+   [
+    "ActiveHybrid 5",
+    "70"
+   ],
+   [
+    "6er Reihe",
+    "g23"
+   ],
+   [
+    "620 Gran Turismo",
+    "144"
+   ],
+   [
+    "628",
+    "27"
+   ],
+   [
+    "630",
+    "28"
+   ],
+   [
+    "630 Gran Turismo",
+    "127"
+   ],
+   [
+    "633",
+    "29"
+   ],
+   [
+    "635",
+    "30"
+   ],
+   [
+    "640",
+    "68"
+   ],
+   [
+    "640 Gran Coupé",
+    "94"
+   ],
+   [
+    "640 Gran Turismo",
+    "128"
+   ],
+   [
+    "645",
+    "31"
+   ],
+   [
+    "650",
+    "32"
+   ],
+   [
+    "650 Gran Coupé",
+    "95"
+   ],
+   [
+    "7er Reihe",
+    "g24"
+   ],
+   [
+    "725",
+    "33"
+   ],
+   [
+    "728",
+    "34"
+   ],
+   [
+    "730",
+    "35"
+   ],
+   [
+    "732",
+    "36"
+   ],
+   [
+    "735",
+    "37"
+   ],
+   [
+    "740",
+    "38"
+   ],
+   [
+    "745",
+    "39"
+   ],
+   [
+    "750",
+    "40"
+   ],
+   [
+    "760",
+    "41"
+   ],
+   [
+    "ActiveHybrid 7",
+    "63"
+   ],
+   [
+    "840",
+    "42"
+   ],
+   [
+    "850",
+    "43"
+   ],
+   [
+    "i3",
+    "79"
+   ],
+   [
+    "i4",
+    "330"
+   ],
+   [
+    "i5",
+    "341"
+   ],
+   [
+    "i7",
+    "336"
+   ],
+   [
+    "i8",
+    "89"
+   ],
+   [
+    "iX",
+    "331"
+   ],
+   [
+    "iX1",
+    "337"
+   ],
+   [
+    "iX2",
+    "346"
+   ],
+   [
+    "iX3",
+    "329"
+   ],
+   [
+    "M-Modelle",
+    "g25"
+   ],
+   [
+    "M135",
+    "69"
+   ],
+   [
+    "M140i",
+    "122"
+   ],
+   [
+    "M2",
+    "117"
+   ],
+   [
+    "M235",
+    "85"
+   ],
+   [
+    "M240i",
+    "123"
+   ],
+   [
+    "M3",
+    "45"
+   ],
+   [
+    "M340d",
+    "342"
+   ],
+   [
+    "M340i",
+    "152"
+   ],
+   [
+    "M4",
+    "93"
+   ],
+   [
+    "M440",
+    "335"
+   ],
+   [
+    "M5",
+    "46"
+   ],
+   [
+    "M550",
+    "86"
+   ],
+   [
+    "M6",
+    "47"
+   ],
+   [
+    "M760",
+    "126"
+   ],
+   [
+    "M8",
+    "154"
+   ],
+   [
+    "M850",
+    "140"
+   ],
+   [
+    "X-Reihe",
+    "g26"
+   ],
+   [
+    "ActiveHybrid X6",
+    "64"
+   ],
+   [
+    "X1",
+    "6"
+   ],
+   [
+    "X2",
+    "129"
+   ],
+   [
+    "X3",
+    "48"
+   ],
+   [
+    "X3 M",
+    "145"
+   ],
+   [
+    "X3 M40",
+    "153"
+   ],
+   [
+    "X3 M50",
+    "348"
+   ],
+   [
+    "X4",
+    "92"
+   ],
+   [
+    "X4 M",
+    "146"
+   ],
+   [
+    "X4 M40",
+    "119"
+   ],
+   [
+    "X5",
+    "49"
+   ],
+   [
+    "X5 M",
+    "53"
+   ],
+   [
+    "X5 M50",
+    "96"
+   ],
+   [
+    "X5 M60",
+    "339"
+   ],
+   [
+    "X6",
+    "60"
+   ],
+   [
+    "X6 M",
+    "62"
+   ],
+   [
+    "X6 M50",
+    "97"
+   ],
+   [
+    "X6 M60",
+    "340"
+   ],
+   [
+    "X7",
+    "143"
+   ],
+   [
+    "X7 M50",
+    "332"
+   ],
+   [
+    "X7 M60",
+    "347"
+   ],
+   [
+    "XM",
+    "338"
+   ],
+   [
+    "Z-Reihe",
+    "g27"
+   ],
+   [
+    "Z1",
+    "50"
+   ],
+   [
+    "Z3",
+    "51"
+   ],
+   [
+    "Z3 M",
+    "57"
+   ],
+   [
+    "Z4",
+    "52"
+   ],
+   [
+    "Z4 M",
+    "55"
+   ],
+   [
+    "Z4 M40",
+    "349"
+   ],
+   [
+    "Z8",
+    "54"
+   ],
+   [
+    "Andere",
+    "1"
+   ]
+  ],
+  "mercedes-benz": [
+   [
+    "190",
+    "126"
+   ],
+   [
+    "200",
+    "127"
+   ],
+   [
+    "220",
+    "128"
+   ],
+   [
+    "230",
+    "129"
+   ],
+   [
+    "240",
+    "130"
+   ],
+   [
+    "250",
+    "131"
+   ],
+   [
+    "260",
+    "132"
+   ],
+   [
+    "270",
+    "133"
+   ],
+   [
+    "280",
+    "134"
+   ],
+   [
+    "290",
+    "135"
+   ],
+   [
+    "300",
+    "136"
+   ],
+   [
+    "320",
+    "137"
+   ],
+   [
+    "350",
+    "138"
+   ],
+   [
+    "380",
+    "139"
+   ],
+   [
+    "400",
+    "140"
+   ],
+   [
+    "416",
+    "141"
+   ],
+   [
+    "420",
+    "142"
+   ],
+   [
+    "450",
+    "143"
+   ],
+   [
+    "500",
+    "144"
+   ],
+   [
+    "560",
+    "145"
+   ],
+   [
+    "600",
+    "146"
+   ],
+   [
+    "A-Klasse",
+    "g4"
+   ],
+   [
+    "A 140",
+    "2"
+   ],
+   [
+    "A 150",
+    "3"
+   ],
+   [
+    "A 160",
+    "4"
+   ],
+   [
+    "A 170",
+    "5"
+   ],
+   [
+    "A 180",
+    "6"
+   ],
+   [
+    "A 190",
+    "7"
+   ],
+   [
+    "A 200",
+    "8"
+   ],
+   [
+    "A 210",
+    "9"
+   ],
+   [
+    "A 220",
+    "221"
+   ],
+   [
+    "A 250",
+    "220"
+   ],
+   [
+    "A 35 AMG",
+    "298"
+   ],
+   [
+    "A 45 AMG",
+    "229"
+   ],
+   [
+    "B-Klasse",
+    "g5"
+   ],
+   [
+    "B 150",
+    "12"
+   ],
+   [
+    "B 160",
+    "11"
+   ],
+   [
+    "B 170",
+    "13"
+   ],
+   [
+    "B 180",
+    "14"
+   ],
+   [
+    "B 200",
+    "15"
+   ],
+   [
+    "B 220",
+    "222"
+   ],
+   [
+    "B 250",
+    "223"
+   ],
+   [
+    "B Electric Drive",
+    "241"
+   ],
+   [
+    "CE-Klasse",
+    "g7"
+   ],
+   [
+    "CE 200",
+    "32"
+   ],
+   [
+    "CE 220",
+    "167"
+   ],
+   [
+    "CE 230",
+    "216"
+   ],
+   [
+    "CE 280",
+    "217"
+   ],
+   [
+    "CE 300",
+    "33"
+   ],
+   [
+    "CE 320",
+    "234"
+   ],
+   [
+    "Citan",
+    "224"
+   ],
+   [
+    "C-Klasse",
+    "g6"
+   ],
+   [
+    "C 160",
+    "16"
+   ],
+   [
+    "C 180",
+    "17"
+   ],
+   [
+    "C 200",
+    "18"
+   ],
+   [
+    "C 220",
+    "19"
+   ],
+   [
+    "C 230",
+    "20"
+   ],
+   [
+    "C 240",
+    "21"
+   ],
+   [
+    "C 250",
+    "22"
+   ],
+   [
+    "C 270",
+    "23"
+   ],
+   [
+    "C 280",
+    "24"
+   ],
+   [
+    "C 300",
+    "44"
+   ],
+   [
+    "C 30 AMG",
+    "25"
+   ],
+   [
+    "C 320",
+    "27"
+   ],
+   [
+    "C 32 AMG",
+    "26"
+   ],
+   [
+    "C 350",
+    "28"
+   ],
+   [
+    "C 36 AMG",
+    "29"
+   ],
+   [
+    "C 400",
+    "245"
+   ],
+   [
+    "C 43 AMG",
+    "30"
+   ],
+   [
+    "C 450 AMG",
+    "246"
+   ],
+   [
+    "C 55 AMG",
+    "31"
+   ],
+   [
+    "C 63 AMG",
+    "198"
+   ],
+   [
+    "CLA-Klasse",
+    "g45"
+   ],
+   [
+    "CLA 180",
+    "225"
+   ],
+   [
+    "CLA 180 Shooting Brake",
+    "255"
+   ],
+   [
+    "CLA 200",
+    "226"
+   ],
+   [
+    "CLA 200 Shooting Brake",
+    "256"
+   ],
+   [
+    "CLA 220",
+    "227"
+   ],
+   [
+    "CLA 220 Shooting Brake",
+    "257"
+   ],
+   [
+    "CLA 250",
+    "228"
+   ],
+   [
+    "CLA 250 Shooting Brake",
+    "258"
+   ],
+   [
+    "CLA 350",
+    "375"
+   ],
+   [
+    "CLA 35 AMG",
+    "326"
+   ],
+   [
+    "CLA 35 AMG Shooting Brake",
+    "353"
+   ],
+   [
+    "CLA 45 AMG",
+    "230"
+   ],
+   [
+    "CLA 45 AMG Shooting Brake",
+    "259"
+   ],
+   [
+    "CLA Shooting Brake",
+    "248"
+   ],
+   [
+    "CLC-Klasse",
+    "g30"
+   ],
+   [
+    "CLC 160",
+    "46"
+   ],
+   [
+    "CLC 180",
+    "200"
+   ],
+   [
+    "CLC 200",
+    "201"
+   ],
+   [
+    "CLC 220",
+    "202"
+   ],
+   [
+    "CLC 230",
+    "203"
+   ],
+   [
+    "CLC 250",
+    "107"
+   ],
+   [
+    "CLC 350",
+    "204"
+   ],
+   [
+    "CLE-Klasse",
+    "g69"
+   ],
+   [
+    "CLE 180",
+    "367"
+   ],
+   [
+    "CLE 200",
+    "357"
+   ],
+   [
+    "CLE 220",
+    "360"
+   ],
+   [
+    "CLE 300",
+    "361"
+   ],
+   [
+    "CLE 450",
+    "362"
+   ],
+   [
+    "CLE 53 AMG",
+    "363"
+   ],
+   [
+    "CLK-Klasse",
+    "g9"
+   ],
+   [
+    "CLK 200",
+    "168"
+   ],
+   [
+    "CLK 220",
+    "169"
+   ],
+   [
+    "CLK 230",
+    "186"
+   ],
+   [
+    "CLK 240",
+    "187"
+   ],
+   [
+    "CLK 270",
+    "188"
+   ],
+   [
+    "CLK 280",
+    "170"
+   ],
+   [
+    "CLK 320",
+    "171"
+   ],
+   [
+    "CLK 350",
+    "172"
+   ],
+   [
+    "CLK 430",
+    "173"
+   ],
+   [
+    "CLK 500",
+    "174"
+   ],
+   [
+    "CLK 55 AMG",
+    "45"
+   ],
+   [
+    "CLK 63 AMG",
+    "189"
+   ],
+   [
+    "CL-Klasse",
+    "g8"
+   ],
+   [
+    "CL 160",
+    "210"
+   ],
+   [
+    "CL 180",
+    "35"
+   ],
+   [
+    "CL 200",
+    "36"
+   ],
+   [
+    "CL 220",
+    "37"
+   ],
+   [
+    "CL 230",
+    "38"
+   ],
+   [
+    "CL 320",
+    "211"
+   ],
+   [
+    "CL 420",
+    "39"
+   ],
+   [
+    "CL 500",
+    "40"
+   ],
+   [
+    "CL 55 AMG",
+    "41"
+   ],
+   [
+    "CL 600",
+    "42"
+   ],
+   [
+    "CL 63 AMG",
+    "197"
+   ],
+   [
+    "CL 65 AMG",
+    "43"
+   ],
+   [
+    "CLS-Klasse",
+    "g10"
+   ],
+   [
+    "CLS 220",
+    "240"
+   ],
+   [
+    "CLS 220 Shooting Brake",
+    "260"
+   ],
+   [
+    "CLS 250",
+    "212"
+   ],
+   [
+    "CLS 250 Shooting Brake",
+    "261"
+   ],
+   [
+    "CLS 280",
+    "205"
+   ],
+   [
+    "CLS 300",
+    "117"
+   ],
+   [
+    "CLS 320",
+    "147"
+   ],
+   [
+    "CLS 350",
+    "148"
+   ],
+   [
+    "CLS 350 Shooting Brake",
+    "262"
+   ],
+   [
+    "CLS 400",
+    "239"
+   ],
+   [
+    "CLS 400 Shooting Brake",
+    "263"
+   ],
+   [
+    "CLS 450",
+    "289"
+   ],
+   [
+    "CLS 500",
+    "149"
+   ],
+   [
+    "CLS 500 Shooting Brake",
+    "264"
+   ],
+   [
+    "CLS 53 AMG",
+    "297"
+   ],
+   [
+    "CLS 55 AMG",
+    "150"
+   ],
+   [
+    "CLS 63 AMG",
+    "176"
+   ],
+   [
+    "CLS 63 AMG Shooting Brake",
+    "265"
+   ],
+   [
+    "CLS Shooting Brake",
+    "249"
+   ],
+   [
+    "eCitan",
+    "374"
+   ],
+   [
+    "E-Klasse",
+    "g11"
+   ],
+   [
+    "E 200",
+    "47"
+   ],
+   [
+    "E 220",
+    "48"
+   ],
+   [
+    "E 230",
+    "49"
+   ],
+   [
+    "E 240",
+    "50"
+   ],
+   [
+    "E 250",
+    "51"
+   ],
+   [
+    "E 260",
+    "52"
+   ],
+   [
+    "E 270",
+    "53"
+   ],
+   [
+    "E 280",
+    "54"
+   ],
+   [
+    "E 290",
+    "55"
+   ],
+   [
+    "E 300",
+    "56"
+   ],
+   [
+    "E 320",
+    "57"
+   ],
+   [
+    "E 350",
+    "58"
+   ],
+   [
+    "E 36 AMG",
+    "59"
+   ],
+   [
+    "E 400",
+    "60"
+   ],
+   [
+    "E 420",
+    "61"
+   ],
+   [
+    "E 430",
+    "62"
+   ],
+   [
+    "E 43 AMG",
+    "272"
+   ],
+   [
+    "E 450",
+    "321"
+   ],
+   [
+    "E 50",
+    "177"
+   ],
+   [
+    "E 500",
+    "64"
+   ],
+   [
+    "E 53 AMG",
+    "296"
+   ],
+   [
+    "E 55 AMG",
+    "178"
+   ],
+   [
+    "E 60 AMG",
+    "66"
+   ],
+   [
+    "E 63 AMG",
+    "179"
+   ],
+   [
+    "EQA",
+    "346"
+   ],
+   [
+    "EQB",
+    "350"
+   ],
+   [
+    "EQC",
+    "322"
+   ],
+   [
+    "EQE",
+    "352"
+   ],
+   [
+    "EQE SUV",
+    "358"
+   ],
+   [
+    "EQS",
+    "351"
+   ],
+   [
+    "EQS SUV",
+    "359"
+   ],
+   [
+    "EQT",
+    "356"
+   ],
+   [
+    "EQV",
+    "344"
+   ],
+   [
+    "eSprinter",
+    "373"
+   ],
+   [
+    "eVito",
+    "370"
+   ],
+   [
+    "G-Klasse",
+    "g12"
+   ],
+   [
+    "G 230",
+    "152"
+   ],
+   [
+    "G 240",
+    "151"
+   ],
+   [
+    "G 250",
+    "153"
+   ],
+   [
+    "G 270",
+    "154"
+   ],
+   [
+    "G 280",
+    "155"
+   ],
+   [
+    "G 290",
+    "156"
+   ],
+   [
+    "G 300",
+    "157"
+   ],
+   [
+    "G 320",
+    "158"
+   ],
+   [
+    "G 350",
+    "160"
+   ],
+   [
+    "G 400",
+    "159"
+   ],
+   [
+    "G 450",
+    "364"
+   ],
+   [
+    "G 500",
+    "161"
+   ],
+   [
+    "G 55 AMG",
+    "68"
+   ],
+   [
+    "G 580",
+    "366"
+   ],
+   [
+    "G 63 AMG",
+    "218"
+   ],
+   [
+    "G 65 AMG",
+    "219"
+   ],
+   [
+    "GLA-Klasse",
+    "g54"
+   ],
+   [
+    "GLA 180",
+    "238"
+   ],
+   [
+    "GLA 200",
+    "231"
+   ],
+   [
+    "GLA 220",
+    "232"
+   ],
+   [
+    "GLA 250",
+    "233"
+   ],
+   [
+    "GLA 35 AMG",
+    "343"
+   ],
+   [
+    "GLA 45 AMG",
+    "236"
+   ],
+   [
+    "GLB-Klasse",
+    "g66"
+   ],
+   [
+    "GLB 180",
+    "335"
+   ],
+   [
+    "GLB 200",
+    "328"
+   ],
+   [
+    "GLB 220",
+    "336"
+   ],
+   [
+    "GLB 250",
+    "329"
+   ],
+   [
+    "GLB 35 AMG",
+    "339"
+   ],
+   [
+    "GLC-Klasse",
+    "g59"
+   ],
+   [
+    "GLC 200",
+    "325"
+   ],
+   [
+    "GLC 220",
+    "253"
+   ],
+   [
+    "GLC 250",
+    "254"
+   ],
+   [
+    "GLC 300",
+    "284"
+   ],
+   [
+    "GLC 350",
+    "278"
+   ],
+   [
+    "GLC 400",
+    "334"
+   ],
+   [
+    "GLC 43 AMG",
+    "279"
+   ],
+   [
+    "GLC 450",
+    "365"
+   ],
+   [
+    "GLC 63 AMG",
+    "283"
+   ],
+   [
+    "GLE-Klasse",
+    "g58"
+   ],
+   [
+    "GLE 250",
+    "266"
+   ],
+   [
+    "GLE 300",
+    "324"
+   ],
+   [
+    "GLE 350",
+    "251"
+   ],
+   [
+    "GLE 400",
+    "252"
+   ],
+   [
+    "GLE 43 AMG",
+    "280"
+   ],
+   [
+    "GLE 450",
+    "243"
+   ],
+   [
+    "GLE 500",
+    "267"
+   ],
+   [
+    "GLE 53 AMG",
+    "337"
+   ],
+   [
+    "GLE 580",
+    "341"
+   ],
+   [
+    "GLE 63 AMG",
+    "250"
+   ],
+   [
+    "GLK-Klasse",
+    "g31"
+   ],
+   [
+    "GLK 200",
+    "175"
+   ],
+   [
+    "GLK 220",
+    "206"
+   ],
+   [
+    "GLK 250",
+    "63"
+   ],
+   [
+    "GLK 280",
+    "207"
+   ],
+   [
+    "GLK 300",
+    "65"
+   ],
+   [
+    "GLK 320",
+    "208"
+   ],
+   [
+    "GLK 350",
+    "209"
+   ],
+   [
+    "GL-Klasse",
+    "g13"
+   ],
+   [
+    "GL 320",
+    "180"
+   ],
+   [
+    "GL 350",
+    "166"
+   ],
+   [
+    "GL 400",
+    "244"
+   ],
+   [
+    "GL 420",
+    "181"
+   ],
+   [
+    "GL 450",
+    "182"
+   ],
+   [
+    "GL 500",
+    "183"
+   ],
+   [
+    "GL 55 AMG",
+    "196"
+   ],
+   [
+    "GL 63 AMG",
+    "195"
+   ],
+   [
+    "GLS-Klasse",
+    "g60"
+   ],
+   [
+    "GLS 350",
+    "268"
+   ],
+   [
+    "GLS 400",
+    "269"
+   ],
+   [
+    "GLS 450",
+    "340"
+   ],
+   [
+    "GLS 500",
+    "270"
+   ],
+   [
+    "GLS 580",
+    "338"
+   ],
+   [
+    "GLS 600",
+    "342"
+   ],
+   [
+    "GLS 63",
+    "271"
+   ],
+   [
+    "GT-Klasse",
+    "g64"
+   ],
+   [
+    "AMG GT",
+    "242"
+   ],
+   [
+    "AMG GT C",
+    "282"
+   ],
+   [
+    "AMG GT R",
+    "281"
+   ],
+   [
+    "AMG GT S",
+    "247"
+   ],
+   [
+    "MB 100",
+    "70"
+   ],
+   [
+    "ML-Klasse",
+    "g14"
+   ],
+   [
+    "ML 230",
+    "71"
+   ],
+   [
+    "ML 250",
+    "215"
+   ],
+   [
+    "ML 270",
+    "72"
+   ],
+   [
+    "ML 280",
+    "73"
+   ],
+   [
+    "ML 300",
+    "67"
+   ],
+   [
+    "ML 320",
+    "74"
+   ],
+   [
+    "ML 350",
+    "75"
+   ],
+   [
+    "ML 400",
+    "76"
+   ],
+   [
+    "ML 420",
+    "192"
+   ],
+   [
+    "ML 430",
+    "77"
+   ],
+   [
+    "ML 450",
+    "69"
+   ],
+   [
+    "ML 500",
+    "78"
+   ],
+   [
+    "ML 55 AMG",
+    "79"
+   ],
+   [
+    "ML 63 AMG",
+    "162"
+   ],
+   [
+    "R-Klasse",
+    "g15"
+   ],
+   [
+    "R 280",
+    "190"
+   ],
+   [
+    "R 300",
+    "92"
+   ],
+   [
+    "R 320",
+    "80"
+   ],
+   [
+    "R 350",
+    "81"
+   ],
+   [
+    "R 500",
+    "82"
+   ],
+   [
+    "R 63 AMG",
+    "184"
+   ],
+   [
+    "S-Klasse",
+    "g16"
+   ],
+   [
+    "S 250",
+    "213"
+   ],
+   [
+    "S 260",
+    "185"
+   ],
+   [
+    "S 280",
+    "83"
+   ],
+   [
+    "S 300",
+    "84"
+   ],
+   [
+    "S 320",
+    "85"
+   ],
+   [
+    "S 350",
+    "86"
+   ],
+   [
+    "S 400",
+    "87"
+   ],
+   [
+    "S 420",
+    "88"
+   ],
+   [
+    "S 430",
+    "89"
+   ],
+   [
+    "S 450",
+    "191"
+   ],
+   [
+    "S 500",
+    "90"
+   ],
+   [
+    "S 55",
+    "91"
+   ],
+   [
+    "S 550",
+    "193"
+   ],
+   [
+    "S 560",
+    "285"
+   ],
+   [
+    "S 580",
+    "348"
+   ],
+   [
+    "S 600",
+    "93"
+   ],
+   [
+    "S 63 AMG",
+    "194"
+   ],
+   [
+    "S 650",
+    "294"
+   ],
+   [
+    "S 65 AMG",
+    "94"
+   ],
+   [
+    "S 680",
+    "349"
+   ],
+   [
+    "SLC-Klasse",
+    "g62"
+   ],
+   [
+    "SLC 180",
+    "274"
+   ],
+   [
+    "SLC 200",
+    "275"
+   ],
+   [
+    "SLC 250",
+    "273"
+   ],
+   [
+    "SLC 280",
+    "288"
+   ],
+   [
+    "SLC 300",
+    "276"
+   ],
+   [
+    "SLC 43 AMG",
+    "277"
+   ],
+   [
+    "SLK-Klasse",
+    "g18"
+   ],
+   [
+    "SLK 200",
+    "108"
+   ],
+   [
+    "SLK 230",
+    "109"
+   ],
+   [
+    "SLK 250",
+    "214"
+   ],
+   [
+    "SLK 280",
+    "110"
+   ],
+   [
+    "SLK 300",
+    "10"
+   ],
+   [
+    "SLK 320",
+    "112"
+   ],
+   [
+    "SLK 32 AMG",
+    "111"
+   ],
+   [
+    "SLK 350",
+    "113"
+   ],
+   [
+    "SLK 55 AMG",
+    "114"
+   ],
+   [
+    "SL-Klasse",
+    "g17"
+   ],
+   [
+    "SL 230",
+    "371"
+   ],
+   [
+    "SL 250",
+    "369"
+   ],
+   [
+    "SL 280",
+    "95"
+   ],
+   [
+    "SL 300",
+    "96"
+   ],
+   [
+    "SL 320",
+    "97"
+   ],
+   [
+    "SL 350",
+    "98"
+   ],
+   [
+    "SL 380",
+    "99"
+   ],
+   [
+    "SL 400",
+    "237"
+   ],
+   [
+    "SL 420",
+    "100"
+   ],
+   [
+    "SL 43 AMG",
+    "354"
+   ],
+   [
+    "SL 450",
+    "101"
+   ],
+   [
+    "SL 500",
+    "102"
+   ],
+   [
+    "SL 55 AMG",
+    "103"
+   ],
+   [
+    "SL 560",
+    "104"
+   ],
+   [
+    "SL 600",
+    "105"
+   ],
+   [
+    "SL 60 AMG",
+    "163"
+   ],
+   [
+    "SL 63 AMG",
+    "199"
+   ],
+   [
+    "SL 65 AMG",
+    "106"
+   ],
+   [
+    "SL 680",
+    "372"
+   ],
+   [
+    "SL 70 AMG",
+    "164"
+   ],
+   [
+    "SL 73 AMG",
+    "165"
+   ],
+   [
+    "SLR",
+    "115"
+   ],
+   [
+    "SLS AMG",
+    "34"
+   ],
+   [
+    "Sprinter",
+    "116"
+   ],
+   [
+    "T-Klasse",
+    "355"
+   ],
+   [
+    "Vaneo",
+    "122"
+   ],
+   [
+    "Vario",
+    "123"
+   ],
+   [
+    "Viano",
+    "124"
+   ],
+   [
+    "Vito",
+    "125"
+   ],
+   [
+    "V-Klasse",
+    "g19"
+   ],
+   [
+    "V 200",
+    "118"
+   ],
+   [
+    "V 220",
+    "119"
+   ],
+   [
+    "V 230",
+    "120"
+   ],
+   [
+    "V 250",
+    "235"
+   ],
+   [
+    "V 280",
+    "121"
+   ],
+   [
+    "V 300",
+    "323"
+   ],
+   [
+    "X-Klasse",
+    "g65"
+   ],
+   [
+    "X 220",
+    "286"
+   ],
+   [
+    "X 250",
+    "287"
+   ],
+   [
+    "X 350",
+    "312"
+   ],
+   [
+    "Andere",
+    "1"
+   ]
+  ],
+  "audi": [
+   [
+    "100",
+    "2"
+   ],
+   [
+    "200",
+    "3"
+   ],
+   [
+    "80",
+    "5"
+   ],
+   [
+    "90",
+    "6"
+   ],
+   [
+    "A1",
+    "25"
+   ],
+   [
+    "A2",
+    "7"
+   ],
+   [
+    "A3",
+    "8"
+   ],
+   [
+    "A4",
+    "9"
+   ],
+   [
+    "A4 Allroad",
+    "33"
+   ],
+   [
+    "A5",
+    "31"
+   ],
+   [
+    "A6",
+    "10"
+   ],
+   [
+    "A6 Allroad",
+    "12"
+   ],
+   [
+    "A6 e-tron",
+    "66"
+   ],
+   [
+    "A7",
+    "34"
+   ],
+   [
+    "A8",
+    "11"
+   ],
+   [
+    "Cabriolet",
+    "13"
+   ],
+   [
+    "Coupé",
+    "14"
+   ],
+   [
+    "e-tron",
+    "50"
+   ],
+   [
+    "e-tron GT",
+    "58"
+   ],
+   [
+    "Q2",
+    "45"
+   ],
+   [
+    "Q3",
+    "37"
+   ],
+   [
+    "Q4",
+    "57"
+   ],
+   [
+    "Q4 e-tron",
+    "61"
+   ],
+   [
+    "Q5",
+    "32"
+   ],
+   [
+    "Q6 e-tron",
+    "63"
+   ],
+   [
+    "Q7",
+    "15"
+   ],
+   [
+    "Q8",
+    "46"
+   ],
+   [
+    "Q8 e-tron",
+    "65"
+   ],
+   [
+    "quattro",
+    "16"
+   ],
+   [
+    "R8",
+    "29"
+   ],
+   [
+    "RS2",
+    "26"
+   ],
+   [
+    "RS3",
+    "36"
+   ],
+   [
+    "RS4",
+    "27"
+   ],
+   [
+    "RS5",
+    "17"
+   ],
+   [
+    "RS6",
+    "28"
+   ],
+   [
+    "RS7",
+    "40"
+   ],
+   [
+    "RS e-tron GT",
+    "60"
+   ],
+   [
+    "RSQ3",
+    "41"
+   ],
+   [
+    "RSQ8",
+    "55"
+   ],
+   [
+    "S1",
+    "42"
+   ],
+   [
+    "S2",
+    "18"
+   ],
+   [
+    "S3",
+    "19"
+   ],
+   [
+    "S4",
+    "20"
+   ],
+   [
+    "S5",
+    "30"
+   ],
+   [
+    "S6",
+    "21"
+   ],
+   [
+    "S6 e-tron",
+    "67"
+   ],
+   [
+    "S7",
+    "38"
+   ],
+   [
+    "S8",
+    "22"
+   ],
+   [
+    "SQ2",
+    "47"
+   ],
+   [
+    "SQ5",
+    "39"
+   ],
+   [
+    "SQ6 e-tron",
+    "62"
+   ],
+   [
+    "SQ7",
+    "44"
+   ],
+   [
+    "SQ8",
+    "54"
+   ],
+   [
+    "SQ8 e-tron",
+    "64"
+   ],
+   [
+    "TT (alle)",
+    "g38"
+   ],
+   [
+    "TT",
+    "23"
+   ],
+   [
+    "TT RS",
+    "35"
+   ],
+   [
+    "TTS",
+    "4"
+   ],
+   [
+    "V8",
+    "24"
+   ],
+   [
+    "Andere",
+    "1"
+   ]
+  ],
+  "volkswagen": [
+   [
+    "181",
+    "2"
+   ],
+   [
+    "Amarok",
+    "5"
+   ],
+   [
+    "Arteon",
+    "64"
+   ],
+   [
+    "Beetle",
+    "10"
+   ],
+   [
+    "Bora",
+    "6"
+   ],
+   [
+    "Buggy",
+    "7"
+   ],
+   [
+    "Caddy",
+    "9"
+   ],
+   [
+    "Caddy Maxi",
+    "98"
+   ],
+   [
+    "CC",
+    "19"
+   ],
+   [
+    "Corrado",
+    "12"
+   ],
+   [
+    "Crafter",
+    "3"
+   ],
+   [
+    "Eos",
+    "41"
+   ],
+   [
+    "e-up!",
+    "100"
+   ],
+   [
+    "Fox",
+    "13"
+   ],
+   [
+    "Golf",
+    "g29"
+   ],
+   [
+    "Golf",
+    "14"
+   ],
+   [
+    "Golf Plus",
+    "55"
+   ],
+   [
+    "Golf Sportsvan",
+    "40"
+   ],
+   [
+    "ID.3",
+    "81"
+   ],
+   [
+    "ID.4",
+    "82"
+   ],
+   [
+    "ID.5",
+    "93"
+   ],
+   [
+    "ID.6",
+    "96"
+   ],
+   [
+    "ID.7",
+    "97"
+   ],
+   [
+    "ID. Buzz",
+    "94"
+   ],
+   [
+    "Iltis",
+    "15"
+   ],
+   [
+    "Jetta",
+    "16"
+   ],
+   [
+    "Käfer",
+    "17"
+   ],
+   [
+    "Karmann Ghia",
+    "18"
+   ],
+   [
+    "LT",
+    "20"
+   ],
+   [
+    "Lupo",
+    "21"
+   ],
+   [
+    "New Beetle",
+    "24"
+   ],
+   [
+    "Passat (alle)",
+    "g37"
+   ],
+   [
+    "Passat",
+    "25"
+   ],
+   [
+    "Passat Alltrack",
+    "62"
+   ],
+   [
+    "Passat CC",
+    "4"
+   ],
+   [
+    "Passat Variant",
+    "63"
+   ],
+   [
+    "Phaeton",
+    "26"
+   ],
+   [
+    "Polo",
+    "27"
+   ],
+   [
+    "Routan",
+    "8"
+   ],
+   [
+    "Santana",
+    "28"
+   ],
+   [
+    "Scirocco",
+    "29"
+   ],
+   [
+    "Sharan",
+    "30"
+   ],
+   [
+    "T1",
+    "42"
+   ],
+   [
+    "T2",
+    "31"
+   ],
+   [
+    "T3",
+    "g1"
+   ],
+   [
+    "T3 andere",
+    "46"
+   ],
+   [
+    "T3 Caravelle",
+    "44"
+   ],
+   [
+    "T3 Kombi",
+    "22"
+   ],
+   [
+    "T3 Multivan",
+    "45"
+   ],
+   [
+    "T4",
+    "g2"
+   ],
+   [
+    "T4 andere",
+    "49"
+   ],
+   [
+    "T4 California",
+    "33"
+   ],
+   [
+    "T4 Caravelle",
+    "47"
+   ],
+   [
+    "T4 Kombi",
+    "23"
+   ],
+   [
+    "T4 Multivan",
+    "48"
+   ],
+   [
+    "T5",
+    "g3"
+   ],
+   [
+    "T5 andere",
+    "53"
+   ],
+   [
+    "T5 California",
+    "34"
+   ],
+   [
+    "T5 Caravelle",
+    "50"
+   ],
+   [
+    "T5 Kombi",
+    "32"
+   ],
+   [
+    "T5 Multivan",
+    "51"
+   ],
+   [
+    "T5 Shuttle",
+    "52"
+   ],
+   [
+    "T5 Transporter",
+    "61"
+   ],
+   [
+    "T6",
+    "g57"
+   ],
+   [
+    "T6 andere",
+    "59"
+   ],
+   [
+    "T6 California",
+    "58"
+   ],
+   [
+    "T6 Caravelle",
+    "56"
+   ],
+   [
+    "T6 Kombi",
+    "57"
+   ],
+   [
+    "T6 Multivan",
+    "43"
+   ],
+   [
+    "T6 Transporter",
+    "60"
+   ],
+   [
+    "T7",
+    "g68"
+   ],
+   [
+    "T7 andere",
+    "87"
+   ],
+   [
+    "T7 California",
+    "88"
+   ],
+   [
+    "T7 Caravelle",
+    "89"
+   ],
+   [
+    "T7 Kombi",
+    "90"
+   ],
+   [
+    "T7 Multivan",
+    "91"
+   ],
+   [
+    "T7 Transporter",
+    "92"
+   ],
+   [
+    "Taigo",
+    "86"
+   ],
+   [
+    "Taro",
+    "35"
+   ],
+   [
+    "Tayron",
+    "99"
+   ],
+   [
+    "T-Cross",
+    "75"
+   ],
+   [
+    "Tiguan",
+    "54"
+   ],
+   [
+    "Tiguan Allspace",
+    "66"
+   ],
+   [
+    "Touareg",
+    "36"
+   ],
+   [
+    "Touran",
+    "37"
+   ],
+   [
+    "T-Roc",
+    "65"
+   ],
+   [
+    "up!",
+    "11"
+   ],
+   [
+    "Vento",
+    "39"
+   ],
+   [
+    "XL1",
+    "38"
+   ],
+   [
+    "Andere",
+    "1"
+   ]
+  ],
+  "peugeot": [
+   [
+    "1007",
+    "2"
+   ],
+   [
+    "104",
+    "3"
+   ],
+   [
+    "106",
+    "4"
+   ],
+   [
+    "107",
+    "5"
+   ],
+   [
+    "108",
+    "47"
+   ],
+   [
+    "2008",
+    "46"
+   ],
+   [
+    "204",
+    "6"
+   ],
+   [
+    "205",
+    "7"
+   ],
+   [
+    "206",
+    "8"
+   ],
+   [
+    "207",
+    "30"
+   ],
+   [
+    "208",
+    "43"
+   ],
+   [
+    "3008",
+    "26"
+   ],
+   [
+    "301",
+    "45"
+   ],
+   [
+    "304",
+    "9"
+   ],
+   [
+    "305",
+    "10"
+   ],
+   [
+    "306",
+    "11"
+   ],
+   [
+    "307",
+    "12"
+   ],
+   [
+    "308",
+    "32"
+   ],
+   [
+    "309",
+    "13"
+   ],
+   [
+    "4007",
+    "31"
+   ],
+   [
+    "4008",
+    "44"
+   ],
+   [
+    "404",
+    "14"
+   ],
+   [
+    "405",
+    "15"
+   ],
+   [
+    "406",
+    "16"
+   ],
+   [
+    "407",
+    "17"
+   ],
+   [
+    "408",
+    "37"
+   ],
+   [
+    "5008",
+    "35"
+   ],
+   [
+    "504",
+    "18"
+   ],
+   [
+    "505",
+    "19"
+   ],
+   [
+    "508",
+    "42"
+   ],
+   [
+    "604",
+    "20"
+   ],
+   [
+    "605",
+    "21"
+   ],
+   [
+    "607",
+    "22"
+   ],
+   [
+    "806",
+    "23"
+   ],
+   [
+    "807",
+    "24"
+   ],
+   [
+    "Bipper",
+    "33"
+   ],
+   [
+    "Bipper Tepee",
+    "39"
+   ],
+   [
+    "Boxer",
+    "25"
+   ],
+   [
+    "e-2008",
+    "55"
+   ],
+   [
+    "e-208",
+    "51"
+   ],
+   [
+    "e-3008",
+    "56"
+   ],
+   [
+    "e-308",
+    "57"
+   ],
+   [
+    "e-408",
+    "58"
+   ],
+   [
+    "e-5008",
+    "54"
+   ],
+   [
+    "e-Rifter",
+    "52"
+   ],
+   [
+    "e-Traveller",
+    "53"
+   ],
+   [
+    "Expert",
+    "27"
+   ],
+   [
+    "Expert Tepee",
+    "40"
+   ],
+   [
+    "iOn",
+    "38"
+   ],
+   [
+    "J5",
+    "28"
+   ],
+   [
+    "Partner",
+    "29"
+   ],
+   [
+    "Partner Tepee",
+    "41"
+   ],
+   [
+    "RCZ",
+    "36"
+   ],
+   [
+    "Rifter",
+    "49"
+   ],
+   [
+    "TePee",
+    "34"
+   ],
+   [
+    "Traveller",
+    "48"
+   ],
+   [
+    "Andere",
+    "1"
+   ]
+  ],
+  "skoda": [
+   [
+    "105",
+    "2"
+   ],
+   [
+    "120",
+    "3"
+   ],
+   [
+    "130",
+    "4"
+   ],
+   [
+    "135",
+    "5"
+   ],
+   [
+    "Citigo",
+    "17"
+   ],
+   [
+    "Elroq",
+    "26"
+   ],
+   [
+    "Enyaq",
+    "25"
+   ],
+   [
+    "Fabia",
+    "6"
+   ],
+   [
+    "Favorit",
+    "7"
+   ],
+   [
+    "Felicia",
+    "8"
+   ],
+   [
+    "Forman",
+    "9"
+   ],
+   [
+    "Kamiq",
+    "24"
+   ],
+   [
+    "Karoq",
+    "20"
+   ],
+   [
+    "Kodiaq",
+    "19"
+   ],
+   [
+    "Octavia",
+    "10"
+   ],
+   [
+    "Pick-up",
+    "14"
+   ],
+   [
+    "Praktik",
+    "16"
+   ],
+   [
+    "Rapid",
+    "18"
+   ],
+   [
+    "Roomster",
+    "13"
+   ],
+   [
+    "Scala",
+    "21"
+   ],
+   [
+    "Superb",
+    "12"
+   ],
+   [
+    "Yeti",
+    "15"
+   ],
+   [
+    "Andere",
+    "1"
+   ]
+  ],
+  "renault": [
+   [
+    "Alaskan",
+    "50"
+   ],
+   [
+    "Alpine A110",
+    "40"
+   ],
+   [
+    "Alpine A310",
+    "2"
+   ],
+   [
+    "Alpine V6",
+    "4"
+   ],
+   [
+    "Arkana",
+    "64"
+   ],
+   [
+    "Austral",
+    "65"
+   ],
+   [
+    "Avantime",
+    "5"
+   ],
+   [
+    "Captur",
+    "47"
+   ],
+   [
+    "Clio",
+    "6"
+   ],
+   [
+    "Coupe",
+    "7"
+   ],
+   [
+    "Espace",
+    "8"
+   ],
+   [
+    "Express",
+    "9"
+   ],
+   [
+    "Fluence",
+    "36"
+   ],
+   [
+    "Fuego",
+    "10"
+   ],
+   [
+    "Grand Espace",
+    "11"
+   ],
+   [
+    "Grand Kangoo",
+    "68"
+   ],
+   [
+    "Grand Kangoo E-TECH",
+    "70"
+   ],
+   [
+    "Grand Modus",
+    "42"
+   ],
+   [
+    "Grand Scenic",
+    "12"
+   ],
+   [
+    "Grand Scenic E-Tech",
+    "73"
+   ],
+   [
+    "Kadjar",
+    "48"
+   ],
+   [
+    "Kangoo",
+    "13"
+   ],
+   [
+    "Kangoo E-TECH",
+    "69"
+   ],
+   [
+    "Koleos",
+    "41"
+   ],
+   [
+    "Laguna",
+    "14"
+   ],
+   [
+    "Latitude",
+    "44"
+   ],
+   [
+    "Mascott",
+    "15"
+   ],
+   [
+    "Master",
+    "16"
+   ],
+   [
+    "Megane",
+    "17"
+   ],
+   [
+    "Megane E-TECH",
+    "71"
+   ],
+   [
+    "Modus",
+    "18"
+   ],
+   [
+    "P 1400",
+    "19"
+   ],
+   [
+    "R 11",
+    "20"
+   ],
+   [
+    "R 14",
+    "21"
+   ],
+   [
+    "R 18",
+    "22"
+   ],
+   [
+    "R 19",
+    "23"
+   ],
+   [
+    "R 20",
+    "24"
+   ],
+   [
+    "R 21",
+    "25"
+   ],
+   [
+    "R 25",
+    "26"
+   ],
+   [
+    "R 30",
+    "27"
+   ],
+   [
+    "R 4",
+    "28"
+   ],
+   [
+    "R 5",
+    "29"
+   ],
+   [
+    "R 6",
+    "30"
+   ],
+   [
+    "R 9",
+    "31"
+   ],
+   [
+    "Rafale",
+    "66"
+   ],
+   [
+    "Rapid",
+    "32"
+   ],
+   [
+    "Safrane",
+    "33"
+   ],
+   [
+    "Scenic",
+    "34"
+   ],
+   [
+    "Scenic E-TECH",
+    "72"
+   ],
+   [
+    "Spider",
+    "35"
+   ],
+   [
+    "Symbioz",
+    "67"
+   ],
+   [
+    "Talisman",
+    "49"
+   ],
+   [
+    "Trafic",
+    "37"
+   ],
+   [
+    "Twingo",
+    "38"
+   ],
+   [
+    "Twizy",
+    "45"
+   ],
+   [
+    "Vel Satis",
+    "39"
+   ],
+   [
+    "Wind",
+    "43"
+   ],
+   [
+    "ZOE",
+    "46"
+   ],
+   [
+    "Andere",
+    "1"
+   ]
+  ],
+  "ford": [
+   [
+    "Aerostar",
+    "2"
+   ],
+   [
+    "B-Max",
+    "54"
+   ],
+   [
+    "Bronco",
+    "3"
+   ],
+   [
+    "Bronco Sport",
+    "119"
+   ],
+   [
+    "Capri",
+    "4"
+   ],
+   [
+    "C-Max",
+    "52"
+   ],
+   [
+    "Cougar",
+    "5"
+   ],
+   [
+    "Courier",
+    "6"
+   ],
+   [
+    "Crown",
+    "7"
+   ],
+   [
+    "Econoline",
+    "8"
+   ],
+   [
+    "Econovan",
+    "9"
+   ],
+   [
+    "EcoSport",
+    "56"
+   ],
+   [
+    "Edge",
+    "48"
+   ],
+   [
+    "Escape",
+    "10"
+   ],
+   [
+    "Escort",
+    "11"
+   ],
+   [
+    "Excursion",
+    "12"
+   ],
+   [
+    "Expedition",
+    "13"
+   ],
+   [
+    "Explorer",
+    "14"
+   ],
+   [
+    "Express",
+    "15"
+   ],
+   [
+    "F 100",
+    "63"
+   ],
+   [
+    "F 150",
+    "16"
+   ],
+   [
+    "F 250",
+    "17"
+   ],
+   [
+    "F 350",
+    "18"
+   ],
+   [
+    "Fairlane",
+    "45"
+   ],
+   [
+    "Falcon",
+    "46"
+   ],
+   [
+    "Fiesta",
+    "19"
+   ],
+   [
+    "Flex",
+    "53"
+   ],
+   [
+    "Focus",
+    "20"
+   ],
+   [
+    "Fusion",
+    "22"
+   ],
+   [
+    "Galaxy",
+    "23"
+   ],
+   [
+    "Granada",
+    "24"
+   ],
+   [
+    "Grand C-Max",
+    "50"
+   ],
+   [
+    "Grand Tourneo",
+    "59"
+   ],
+   [
+    "GT",
+    "44"
+   ],
+   [
+    "Ka/Ka+",
+    "25"
+   ],
+   [
+    "Kuga",
+    "49"
+   ],
+   [
+    "Maverick",
+    "27"
+   ],
+   [
+    "Mercury",
+    "28"
+   ],
+   [
+    "Mondeo",
+    "29"
+   ],
+   [
+    "Mustang",
+    "30"
+   ],
+   [
+    "Mustang Mach-E",
+    "118"
+   ],
+   [
+    "Orion",
+    "31"
+   ],
+   [
+    "Probe",
+    "32"
+   ],
+   [
+    "Puma",
+    "33"
+   ],
+   [
+    "Puma Gen-E",
+    "123"
+   ],
+   [
+    "Ranger",
+    "34"
+   ],
+   [
+    "Raptor",
+    "55"
+   ],
+   [
+    "Scorpio",
+    "35"
+   ],
+   [
+    "Sierra",
+    "36"
+   ],
+   [
+    "S-Max",
+    "47"
+   ],
+   [
+    "Sportka",
+    "26"
+   ],
+   [
+    "Streetka",
+    "37"
+   ],
+   [
+    "Taunus",
+    "38"
+   ],
+   [
+    "Taurus",
+    "39"
+   ],
+   [
+    "Thunderbird",
+    "40"
+   ],
+   [
+    "Tourneo (alle)",
+    "g61"
+   ],
+   [
+    "Tourneo",
+    "41"
+   ],
+   [
+    "Tourneo Connect",
+    "61"
+   ],
+   [
+    "Tourneo Courier",
+    "60"
+   ],
+   [
+    "Tourneo Custom",
+    "62"
+   ],
+   [
+    "Transit",
+    "g39"
+   ],
+   [
+    "Transit",
+    "42"
+   ],
+   [
+    "Transit Connect",
+    "51"
+   ],
+   [
+    "Transit Courier",
+    "58"
+   ],
+   [
+    "Transit Custom",
+    "57"
+   ],
+   [
+    "Windstar",
+    "43"
+   ],
+   [
+    "Andere",
+    "1"
+   ]
+  ],
+  "opel": [
+   [
+    "Adam",
+    "38"
+   ],
+   [
+    "Agila",
+    "2"
+   ],
+   [
+    "Ampera",
+    "28"
+   ],
+   [
+    "Ampera-e",
+    "45"
+   ],
+   [
+    "Antara",
+    "34"
+   ],
+   [
+    "Arena",
+    "3"
+   ],
+   [
+    "Ascona",
+    "4"
+   ],
+   [
+    "Astra",
+    "5"
+   ],
+   [
+    "Astra Electric",
+    "51"
+   ],
+   [
+    "Calibra",
+    "6"
+   ],
+   [
+    "Campo",
+    "7"
+   ],
+   [
+    "Cascada",
+    "39"
+   ],
+   [
+    "Cavalier",
+    "32"
+   ],
+   [
+    "Combo",
+    "8"
+   ],
+   [
+    "Combo Electric",
+    "50"
+   ],
+   [
+    "Combo Life",
+    "47"
+   ],
+   [
+    "Commodore",
+    "9"
+   ],
+   [
+    "Corsa",
+    "10"
+   ],
+   [
+    "Crossland (X)",
+    "42"
+   ],
+   [
+    "Diplomat",
+    "11"
+   ],
+   [
+    "Frontera",
+    "12"
+   ],
+   [
+    "Grandland (X)",
+    "43"
+   ],
+   [
+    "GT",
+    "13"
+   ],
+   [
+    "Insignia",
+    "35"
+   ],
+   [
+    "Insignia CT",
+    "40"
+   ],
+   [
+    "Kadett",
+    "14"
+   ],
+   [
+    "Karl",
+    "41"
+   ],
+   [
+    "Manta",
+    "15"
+   ],
+   [
+    "Meriva",
+    "16"
+   ],
+   [
+    "Mokka",
+    "37"
+   ],
+   [
+    "Mokka-e",
+    "49"
+   ],
+   [
+    "Mokka X",
+    "44"
+   ],
+   [
+    "Monterey",
+    "17"
+   ],
+   [
+    "Monza",
+    "18"
+   ],
+   [
+    "Movano",
+    "19"
+   ],
+   [
+    "Nova",
+    "33"
+   ],
+   [
+    "Omega",
+    "20"
+   ],
+   [
+    "Pick Up Sportscap",
+    "21"
+   ],
+   [
+    "Rekord",
+    "22"
+   ],
+   [
+    "Rocks-e",
+    "48"
+   ],
+   [
+    "Senator",
+    "23"
+   ],
+   [
+    "Signum",
+    "24"
+   ],
+   [
+    "Sintra",
+    "25"
+   ],
+   [
+    "Speedster",
+    "26"
+   ],
+   [
+    "Tigra",
+    "27"
+   ],
+   [
+    "Vectra",
+    "29"
+   ],
+   [
+    "Vivaro",
+    "30"
+   ],
+   [
+    "Zafira",
+    "31"
+   ],
+   [
+    "Zafira Electric",
+    "52"
+   ],
+   [
+    "Zafira Life",
+    "46"
+   ],
+   [
+    "Zafira Tourer",
+    "36"
+   ],
+   [
+    "Andere",
+    "1"
+   ]
+  ],
+  "toyota": [
+   [
+    "4-Runner",
+    "2"
+   ],
+   [
+    "Alphard",
+    "47"
+   ],
+   [
+    "Auris",
+    "39"
+   ],
+   [
+    "Auris Touring Sports",
+    "43"
+   ],
+   [
+    "Avalon",
+    "3"
+   ],
+   [
+    "Avensis",
+    "4"
+   ],
+   [
+    "Avensis Verso",
+    "14"
+   ],
+   [
+    "Aygo (X)",
+    "5"
+   ],
+   [
+    "bZ4X",
+    "87"
+   ],
+   [
+    "Camry",
+    "6"
+   ],
+   [
+    "Carina",
+    "7"
+   ],
+   [
+    "Celica",
+    "8"
+   ],
+   [
+    "C-HR",
+    "48"
+   ],
+   [
+    "Corolla",
+    "9"
+   ],
+   [
+    "Corolla Cross",
+    "88"
+   ],
+   [
+    "Corolla Verso",
+    "40"
+   ],
+   [
+    "Cressida",
+    "10"
+   ],
+   [
+    "Crown",
+    "11"
+   ],
+   [
+    "Dyna",
+    "12"
+   ],
+   [
+    "FCV",
+    "45"
+   ],
+   [
+    "FJ",
+    "38"
+   ],
+   [
+    "Fortuner",
+    "49"
+   ],
+   [
+    "GR86",
+    "92"
+   ],
+   [
+    "GT86",
+    "31"
+   ],
+   [
+    "Hiace",
+    "16"
+   ],
+   [
+    "Highlander",
+    "15"
+   ],
+   [
+    "Hilux",
+    "17"
+   ],
+   [
+    "IQ",
+    "41"
+   ],
+   [
+    "Land Cruiser",
+    "19"
+   ],
+   [
+    "Lite-Ace",
+    "21"
+   ],
+   [
+    "Matrix",
+    "18"
+   ],
+   [
+    "Mirai",
+    "46"
+   ],
+   [
+    "MR 2",
+    "22"
+   ],
+   [
+    "Paseo",
+    "23"
+   ],
+   [
+    "Picnic",
+    "25"
+   ],
+   [
+    "Previa",
+    "26"
+   ],
+   [
+    "Prius",
+    "27"
+   ],
+   [
+    "Prius+",
+    "42"
+   ],
+   [
+    "Proace (Verso)",
+    "44"
+   ],
+   [
+    "Proace City",
+    "76"
+   ],
+   [
+    "Proace Max",
+    "99"
+   ],
+   [
+    "Proace Verso Electric",
+    "98"
+   ],
+   [
+    "RAV 4",
+    "28"
+   ],
+   [
+    "Sequoia",
+    "29"
+   ],
+   [
+    "Sienna",
+    "30"
+   ],
+   [
+    "Starlet",
+    "32"
+   ],
+   [
+    "Supra",
+    "33"
+   ],
+   [
+    "Tacoma",
+    "37"
+   ],
+   [
+    "Tercel",
+    "34"
+   ],
+   [
+    "Tundra",
+    "35"
+   ],
+   [
+    "Urban Cruiser",
+    "13"
+   ],
+   [
+    "Verso",
+    "20"
+   ],
+   [
+    "Verso-S",
+    "24"
+   ],
+   [
+    "Yaris",
+    "36"
+   ],
+   [
+    "Yaris Cross",
+    "78"
+   ],
+   [
+    "Andere",
+    "1"
+   ]
+  ],
+  "hyundai": [
+   [
+    "Accent",
+    "2"
+   ],
+   [
+    "Atos",
+    "3"
+   ],
+   [
+    "Azera",
+    "24"
+   ],
+   [
+    "BAYON",
+    "56"
+   ],
+   [
+    "Coupe",
+    "4"
+   ],
+   [
+    "Elantra",
+    "5"
+   ],
+   [
+    "Excel",
+    "6"
+   ],
+   [
+    "Galloper",
+    "7"
+   ],
+   [
+    "Genesis",
+    "15"
+   ],
+   [
+    "Getz",
+    "8"
+   ],
+   [
+    "Grandeur",
+    "9"
+   ],
+   [
+    "Grand Santa Fe",
+    "38"
+   ],
+   [
+    "H-1",
+    "13"
+   ],
+   [
+    "H 100",
+    "10"
+   ],
+   [
+    "H-1 Starex",
+    "14"
+   ],
+   [
+    "H 200",
+    "11"
+   ],
+   [
+    "H350",
+    "39"
+   ],
+   [
+    "i10",
+    "31"
+   ],
+   [
+    "i20",
+    "32"
+   ],
+   [
+    "i30",
+    "30"
+   ],
+   [
+    "i40",
+    "33"
+   ],
+   [
+    "INSTER",
+    "62"
+   ],
+   [
+    "IONIQ",
+    "40"
+   ],
+   [
+    "IONIQ 5",
+    "58"
+   ],
+   [
+    "IONIQ 6",
+    "60"
+   ],
+   [
+    "IONIQ 9",
+    "65"
+   ],
+   [
+    "ix20",
+    "36"
+   ],
+   [
+    "ix35",
+    "12"
+   ],
+   [
+    "ix55",
+    "35"
+   ],
+   [
+    "KONA",
+    "41"
+   ],
+   [
+    "KONA Elektro",
+    "64"
+   ],
+   [
+    "Lantra",
+    "16"
+   ],
+   [
+    "Matrix",
+    "17"
+   ],
+   [
+    "NEXO",
+    "49"
+   ],
+   [
+    "Pony",
+    "18"
+   ],
+   [
+    "SANTA FE",
+    "19"
+   ],
+   [
+    "Santamo",
+    "20"
+   ],
+   [
+    "S-Coupe",
+    "22"
+   ],
+   [
+    "SONATA",
+    "23"
+   ],
+   [
+    "STARIA",
+    "59"
+   ],
+   [
+    "Terracan",
+    "25"
+   ],
+   [
+    "Trajet",
+    "26"
+   ],
+   [
+    "TUCSON",
+    "27"
+   ],
+   [
+    "Veloster",
+    "37"
+   ],
+   [
+    "Veracruz",
+    "21"
+   ],
+   [
+    "XG 30",
+    "28"
+   ],
+   [
+    "XG 350",
+    "29"
+   ],
+   [
+    "Andere",
+    "1"
+   ]
+  ],
+  "citroën": [
+   [
+    "2 CV",
+    "2"
+   ],
+   [
+    "AMI",
+    "52"
+   ],
+   [
+    "AX",
+    "4"
+   ],
+   [
+    "Berlingo",
+    "5"
+   ],
+   [
+    "BX",
+    "6"
+   ],
+   [
+    "C1",
+    "7"
+   ],
+   [
+    "C2",
+    "9"
+   ],
+   [
+    "C3",
+    "11"
+   ],
+   [
+    "C3 Aircross",
+    "41"
+   ],
+   [
+    "C3 Picasso",
+    "8"
+   ],
+   [
+    "C4",
+    "12"
+   ],
+   [
+    "C4 Aircross",
+    "36"
+   ],
+   [
+    "C4 Cactus",
+    "37"
+   ],
+   [
+    "C4 Picasso",
+    "32"
+   ],
+   [
+    "C4 SpaceTourer",
+    "43"
+   ],
+   [
+    "C4 X",
+    "49"
+   ],
+   [
+    "C5",
+    "13"
+   ],
+   [
+    "C5 Aircross",
+    "44"
+   ],
+   [
+    "C5 X",
+    "48"
+   ],
+   [
+    "C6",
+    "14"
+   ],
+   [
+    "C8",
+    "15"
+   ],
+   [
+    "C-Crosser",
+    "33"
+   ],
+   [
+    "C-Elysée",
+    "38"
+   ],
+   [
+    "CX",
+    "16"
+   ],
+   [
+    "C-Zero",
+    "31"
+   ],
+   [
+    "DS",
+    "17"
+   ],
+   [
+    "DS3",
+    "20"
+   ],
+   [
+    "DS4",
+    "22"
+   ],
+   [
+    "DS4 Crossback",
+    "40"
+   ],
+   [
+    "DS5",
+    "35"
+   ],
+   [
+    "ë-Berlingo",
+    "50"
+   ],
+   [
+    "ë-C3",
+    "55"
+   ],
+   [
+    "ë-C3 Aircross",
+    "51"
+   ],
+   [
+    "ë-C4",
+    "53"
+   ],
+   [
+    "ë-C4 X",
+    "54"
+   ],
+   [
+    "E-MEHARI",
+    "42"
+   ],
+   [
+    "ë-Spacetourer",
+    "56"
+   ],
+   [
+    "Evasion",
+    "18"
+   ],
+   [
+    "Grand C4 Picasso / SpaceTourer",
+    "34"
+   ],
+   [
+    "GSA",
+    "19"
+   ],
+   [
+    "Jumper",
+    "10"
+   ],
+   [
+    "Jumpy",
+    "21"
+   ],
+   [
+    "Nemo",
+    "3"
+   ],
+   [
+    "SAXO",
+    "23"
+   ],
+   [
+    "SM",
+    "24"
+   ],
+   [
+    "SpaceTourer",
+    "39"
+   ],
+   [
+    "Visa",
+    "25"
+   ],
+   [
+    "Xantia",
+    "26"
+   ],
+   [
+    "XM",
+    "27"
+   ],
+   [
+    "Xsara",
+    "28"
+   ],
+   [
+    "Xsara Picasso",
+    "29"
+   ],
+   [
+    "ZX",
+    "30"
+   ],
+   [
+    "Andere",
+    "1"
+   ]
+  ],
+  "seat": [
+   [
+    "Alhambra",
+    "2"
+   ],
+   [
+    "Altea",
+    "3"
+   ],
+   [
+    "Arona",
+    "16"
+   ],
+   [
+    "Arosa",
+    "4"
+   ],
+   [
+    "Ateca",
+    "13"
+   ],
+   [
+    "Cordoba",
+    "5"
+   ],
+   [
+    "Exeo",
+    "6"
+   ],
+   [
+    "Ibiza",
+    "7"
+   ],
+   [
+    "Inca",
+    "8"
+   ],
+   [
+    "Leon",
+    "9"
+   ],
+   [
+    "Malaga",
+    "10"
+   ],
+   [
+    "Marbella",
+    "11"
+   ],
+   [
+    "Mii",
+    "12"
+   ],
+   [
+    "Tarraco",
+    "17"
+   ],
+   [
+    "Terra",
+    "14"
+   ],
+   [
+    "Toledo",
+    "15"
+   ],
+   [
+    "Andere",
+    "1"
+   ]
+  ],
+  "fiat": [
+   [
+    "124",
+    "2"
+   ],
+   [
+    "124 Spider",
+    "54"
+   ],
+   [
+    "126",
+    "4"
+   ],
+   [
+    "127",
+    "5"
+   ],
+   [
+    "130",
+    "6"
+   ],
+   [
+    "131",
+    "7"
+   ],
+   [
+    "500",
+    "9"
+   ],
+   [
+    "500C",
+    "49"
+   ],
+   [
+    "500e",
+    "74"
+   ],
+   [
+    "500L",
+    "48"
+   ],
+   [
+    "500L Cross",
+    "60"
+   ],
+   [
+    "500L Living",
+    "51"
+   ],
+   [
+    "500L Trekking",
+    "52"
+   ],
+   [
+    "500L Urban",
+    "59"
+   ],
+   [
+    "500L Wagon",
+    "58"
+   ],
+   [
+    "500S",
+    "57"
+   ],
+   [
+    "500X",
+    "53"
+   ],
+   [
+    "600",
+    "64"
+   ],
+   [
+    "600e",
+    "75"
+   ],
+   [
+    "Albea",
+    "25"
+   ],
+   [
+    "Barchetta",
+    "10"
+   ],
+   [
+    "Brava",
+    "11"
+   ],
+   [
+    "Bravo",
+    "12"
+   ],
+   [
+    "Cinquecento",
+    "14"
+   ],
+   [
+    "Coupe",
+    "15"
+   ],
+   [
+    "Croma",
+    "16"
+   ],
+   [
+    "Dino",
+    "17"
+   ],
+   [
+    "Doblo",
+    "18"
+   ],
+   [
+    "Ducato",
+    "19"
+   ],
+   [
+    "Fiorino",
+    "21"
+   ],
+   [
+    "Freemont",
+    "47"
+   ],
+   [
+    "Fullback",
+    "55"
+   ],
+   [
+    "Grande Panda",
+    "77"
+   ],
+   [
+    "Grande Punto",
+    "44"
+   ],
+   [
+    "Idea",
+    "22"
+   ],
+   [
+    "Linea",
+    "46"
+   ],
+   [
+    "Marea",
+    "23"
+   ],
+   [
+    "Marengo",
+    "24"
+   ],
+   [
+    "Multipla",
+    "26"
+   ],
+   [
+    "New Panda",
+    "50"
+   ],
+   [
+    "Palio",
+    "27"
+   ],
+   [
+    "Panda",
+    "28"
+   ],
+   [
+    "Punto",
+    "30"
+   ],
+   [
+    "Punto Evo",
+    "38"
+   ],
+   [
+    "Qubo",
+    "13"
+   ],
+   [
+    "Regata",
+    "31"
+   ],
+   [
+    "Ritmo",
+    "32"
+   ],
+   [
+    "Scudo",
+    "33"
+   ],
+   [
+    "Sedici",
+    "45"
+   ],
+   [
+    "Seicento",
+    "34"
+   ],
+   [
+    "Siena",
+    "29"
+   ],
+   [
+    "Spider Europa",
+    "35"
+   ],
+   [
+    "Stilo",
+    "36"
+   ],
+   [
+    "Strada",
+    "37"
+   ],
+   [
+    "Talento",
+    "56"
+   ],
+   [
+    "Tempra",
+    "39"
+   ],
+   [
+    "Tipo",
+    "40"
+   ],
+   [
+    "Topolino",
+    "76"
+   ],
+   [
+    "Ulysse",
+    "41"
+   ],
+   [
+    "Uno",
+    "42"
+   ],
+   [
+    "X 1/9",
+    "43"
+   ],
+   [
+    "Andere",
+    "1"
+   ]
+  ],
+  "kia": [
+   [
+    "Besta",
+    "2"
+   ],
+   [
+    "Borrego",
+    "28"
+   ],
+   [
+    "Carens",
+    "3"
+   ],
+   [
+    "Carnival",
+    "4"
+   ],
+   [
+    "cee'd / Ceed",
+    "26"
+   ],
+   [
+    "cee'd Sportswagon",
+    "31"
+   ],
+   [
+    "Cerato",
+    "5"
+   ],
+   [
+    "Clarus",
+    "6"
+   ],
+   [
+    "Elan",
+    "7"
+   ],
+   [
+    "EV3",
+    "62"
+   ],
+   [
+    "EV4",
+    "64"
+   ],
+   [
+    "EV5",
+    "65"
+   ],
+   [
+    "EV6",
+    "52"
+   ],
+   [
+    "EV9",
+    "61"
+   ],
+   [
+    "Joice",
+    "8"
+   ],
+   [
+    "K2500",
+    "9"
+   ],
+   [
+    "K2700",
+    "10"
+   ],
+   [
+    "K4",
+    "66"
+   ],
+   [
+    "Leo",
+    "11"
+   ],
+   [
+    "Magentis",
+    "12"
+   ],
+   [
+    "Mentor",
+    "13"
+   ],
+   [
+    "Mini",
+    "30"
+   ],
+   [
+    "Niro",
+    "34"
+   ],
+   [
+    "Niro EV",
+    "54"
+   ],
+   [
+    "Opirus",
+    "14"
+   ],
+   [
+    "Optima",
+    "33"
+   ],
+   [
+    "Picanto",
+    "15"
+   ],
+   [
+    "Pregio",
+    "16"
+   ],
+   [
+    "Pride",
+    "17"
+   ],
+   [
+    "pro cee'd / ProCeed",
+    "27"
+   ],
+   [
+    "PV5",
+    "63"
+   ],
+   [
+    "Retona",
+    "18"
+   ],
+   [
+    "Rio",
+    "19"
+   ],
+   [
+    "Roadster",
+    "20"
+   ],
+   [
+    "Rocsta",
+    "21"
+   ],
+   [
+    "Sephia",
+    "22"
+   ],
+   [
+    "Shuma",
+    "23"
+   ],
+   [
+    "Sorento",
+    "24"
+   ],
+   [
+    "Soul",
+    "29"
+   ],
+   [
+    "Sportage",
+    "25"
+   ],
+   [
+    "Stinger",
+    "35"
+   ],
+   [
+    "Stonic",
+    "36"
+   ],
+   [
+    "Venga",
+    "32"
+   ],
+   [
+    "XCeed",
+    "49"
+   ],
+   [
+    "Andere",
+    "1"
+   ]
+  ],
+  "porsche": [
+   [
+    "356",
+    "2"
+   ],
+   [
+    "911er Reihe",
+    "g40"
+   ],
+   [
+    "911 Urmodell",
+    "3"
+   ],
+   [
+    "930",
+    "24"
+   ],
+   [
+    "964",
+    "5"
+   ],
+   [
+    "991",
+    "21"
+   ],
+   [
+    "992",
+    "28"
+   ],
+   [
+    "993",
+    "6"
+   ],
+   [
+    "996",
+    "7"
+   ],
+   [
+    "997",
+    "17"
+   ],
+   [
+    "912",
+    "8"
+   ],
+   [
+    "914",
+    "9"
+   ],
+   [
+    "918",
+    "23"
+   ],
+   [
+    "924",
+    "10"
+   ],
+   [
+    "928",
+    "11"
+   ],
+   [
+    "944",
+    "12"
+   ],
+   [
+    "959",
+    "13"
+   ],
+   [
+    "962",
+    "14"
+   ],
+   [
+    "968",
+    "15"
+   ],
+   [
+    "Boxster",
+    "16"
+   ],
+   [
+    "Carrera GT",
+    "20"
+   ],
+   [
+    "Cayenne",
+    "18"
+   ],
+   [
+    "Cayman",
+    "19"
+   ],
+   [
+    "Macan",
+    "22"
+   ],
+   [
+    "Panamera",
+    "4"
+   ],
+   [
+    "Taycan",
+    "30"
+   ],
+   [
+    "Andere",
+    "1"
+   ]
+  ],
+  "volvo": [
+   [
+    "240",
+    "2"
+   ],
+   [
+    "244",
+    "3"
+   ],
+   [
+    "245",
+    "4"
+   ],
+   [
+    "262",
+    "5"
+   ],
+   [
+    "264",
+    "6"
+   ],
+   [
+    "340",
+    "7"
+   ],
+   [
+    "360",
+    "8"
+   ],
+   [
+    "440",
+    "9"
+   ],
+   [
+    "460",
+    "10"
+   ],
+   [
+    "480",
+    "11"
+   ],
+   [
+    "740",
+    "12"
+   ],
+   [
+    "744",
+    "13"
+   ],
+   [
+    "745",
+    "14"
+   ],
+   [
+    "760",
+    "15"
+   ],
+   [
+    "780",
+    "17"
+   ],
+   [
+    "850",
+    "18"
+   ],
+   [
+    "855",
+    "19"
+   ],
+   [
+    "940",
+    "20"
+   ],
+   [
+    "944",
+    "21"
+   ],
+   [
+    "945",
+    "22"
+   ],
+   [
+    "960",
+    "23"
+   ],
+   [
+    "965",
+    "24"
+   ],
+   [
+    "Amazon",
+    "38"
+   ],
+   [
+    "C30",
+    "39"
+   ],
+   [
+    "C40",
+    "47"
+   ],
+   [
+    "C70",
+    "25"
+   ],
+   [
+    "EC40",
+    "51"
+   ],
+   [
+    "ES90",
+    "52"
+   ],
+   [
+    "EX30",
+    "49"
+   ],
+   [
+    "EX40",
+    "50"
+   ],
+   [
+    "EX60",
+    "53"
+   ],
+   [
+    "EX90",
+    "48"
+   ],
+   [
+    "Polar",
+    "26"
+   ],
+   [
+    "S40",
+    "27"
+   ],
+   [
+    "S60",
+    "28"
+   ],
+   [
+    "S60 Cross Country",
+    "42"
+   ],
+   [
+    "S70",
+    "29"
+   ],
+   [
+    "S80",
+    "30"
+   ],
+   [
+    "S90",
+    "31"
+   ],
+   [
+    "V40",
+    "32"
+   ],
+   [
+    "V40 Cross Country",
+    "41"
+   ],
+   [
+    "V50",
+    "33"
+   ],
+   [
+    "V60",
+    "16"
+   ],
+   [
+    "V60 Cross Country",
+    "43"
+   ],
+   [
+    "V70",
+    "34"
+   ],
+   [
+    "V90",
+    "35"
+   ],
+   [
+    "V90 Cross Country",
+    "44"
+   ],
+   [
+    "XC40",
+    "45"
+   ],
+   [
+    "XC60",
+    "40"
+   ],
+   [
+    "XC70",
+    "36"
+   ],
+   [
+    "XC90",
+    "37"
+   ],
+   [
+    "Andere",
+    "1"
+   ]
+  ],
+  "mini": [
+   [
+    "Aceman",
+    "55"
+   ],
+   [
+    "Aceman",
+    "g73"
+   ],
+   [
+    "Aceman E",
+    "56"
+   ],
+   [
+    "Aceman SE",
+    "57"
+   ],
+   [
+    "John Cooper Works Aceman",
+    "58"
+   ],
+   [
+    "Cabrio Serie",
+    "g47"
+   ],
+   [
+    "Cooper Cabrio",
+    "22"
+   ],
+   [
+    "Cooper D Cabrio",
+    "23"
+   ],
+   [
+    "Cooper S Cabrio",
+    "24"
+   ],
+   [
+    "Cooper SD Cabrio",
+    "25"
+   ],
+   [
+    "John Cooper Works Cabrio",
+    "26"
+   ],
+   [
+    "One Cabrio",
+    "21"
+   ],
+   [
+    "Clubman Serie",
+    "g48"
+   ],
+   [
+    "Cooper Clubman",
+    "8"
+   ],
+   [
+    "Cooper D Clubman",
+    "30"
+   ],
+   [
+    "Cooper S Clubman",
+    "31"
+   ],
+   [
+    "Cooper SD Clubman",
+    "32"
+   ],
+   [
+    "John Cooper Works Clubman",
+    "33"
+   ],
+   [
+    "One Clubman",
+    "27"
+   ],
+   [
+    "One D Clubman",
+    "28"
+   ],
+   [
+    "Clubvan",
+    "17"
+   ],
+   [
+    "Countryman Serie",
+    "g49"
+   ],
+   [
+    "Cooper Countryman",
+    "5"
+   ],
+   [
+    "Cooper SD Countryman",
+    "39"
+   ],
+   [
+    "Countryman C (Cooper)",
+    "53"
+   ],
+   [
+    "Countryman D (Cooper)",
+    "37"
+   ],
+   [
+    "Countryman E (Cooper)",
+    "51"
+   ],
+   [
+    "Countryman S (Cooper)",
+    "38"
+   ],
+   [
+    "Countryman SE (Cooper)",
+    "50"
+   ],
+   [
+    "John Cooper Works Countryman",
+    "40"
+   ],
+   [
+    "One Countryman",
+    "34"
+   ],
+   [
+    "One D Countryman",
+    "35"
+   ],
+   [
+    "Coupe Serie",
+    "g50"
+   ],
+   [
+    "Cooper Coupé",
+    "11"
+   ],
+   [
+    "Cooper S Coupé",
+    "12"
+   ],
+   [
+    "Cooper SD Coupé",
+    "18"
+   ],
+   [
+    "John Cooper Works Coupé",
+    "13"
+   ],
+   [
+    "MINI",
+    "g46"
+   ],
+   [
+    "1000",
+    "2"
+   ],
+   [
+    "1300",
+    "3"
+   ],
+   [
+    "Cooper",
+    "4"
+   ],
+   [
+    "Cooper C",
+    "54"
+   ],
+   [
+    "Cooper D",
+    "20"
+   ],
+   [
+    "Cooper E",
+    "52"
+   ],
+   [
+    "Cooper S",
+    "7"
+   ],
+   [
+    "Cooper SD",
+    "10"
+   ],
+   [
+    "Cooper SE",
+    "49"
+   ],
+   [
+    "John Cooper Works",
+    "9"
+   ],
+   [
+    "ONE",
+    "6"
+   ],
+   [
+    "One D",
+    "19"
+   ],
+   [
+    "One First",
+    "29"
+   ],
+   [
+    "Paceman Serie",
+    "g51"
+   ],
+   [
+    "Cooper D Paceman",
+    "42"
+   ],
+   [
+    "Cooper Paceman",
+    "41"
+   ],
+   [
+    "Cooper SD Paceman",
+    "44"
+   ],
+   [
+    "Cooper S Paceman",
+    "43"
+   ],
+   [
+    "John Cooper Works Paceman",
+    "45"
+   ],
+   [
+    "Roadster Serie",
+    "g52"
+   ],
+   [
+    "Cooper Roadster",
+    "14"
+   ],
+   [
+    "Cooper SD Roadster",
+    "46"
+   ],
+   [
+    "Cooper S Roadster",
+    "15"
+   ],
+   [
+    "John Cooper Works Roadster",
+    "16"
+   ],
+   [
+    "Andere",
+    "1"
+   ]
+  ],
+  "tesla": [
+   [
+    "Model 3",
+    "5"
+   ],
+   [
+    "Model S",
+    "3"
+   ],
+   [
+    "Model X",
+    "4"
+   ],
+   [
+    "Model Y",
+    "6"
+   ],
+   [
+    "Roadster",
+    "2"
+   ],
+   [
+    "Andere",
+    "1"
+   ]
+  ],
+  "mazda": [
+   [
+    "121",
+    "2"
+   ],
+   [
+    "2",
+    "3"
+   ],
+   [
+    "2 Hybrid",
+    "67"
+   ],
+   [
+    "3",
+    "4"
+   ],
+   [
+    "323",
+    "5"
+   ],
+   [
+    "5",
+    "6"
+   ],
+   [
+    "6",
+    "7"
+   ],
+   [
+    "626",
+    "8"
+   ],
+   [
+    "6e",
+    "69"
+   ],
+   [
+    "929",
+    "9"
+   ],
+   [
+    "Bongo",
+    "23"
+   ],
+   [
+    "B series",
+    "10"
+   ],
+   [
+    "BT-50",
+    "28"
+   ],
+   [
+    "CX-3",
+    "34"
+   ],
+   [
+    "CX-30",
+    "42"
+   ],
+   [
+    "CX-5",
+    "33"
+   ],
+   [
+    "CX-60",
+    "63"
+   ],
+   [
+    "CX‑6e",
+    "70"
+   ],
+   [
+    "CX-7",
+    "26"
+   ],
+   [
+    "CX-80",
+    "68"
+   ],
+   [
+    "CX-9",
+    "27"
+   ],
+   [
+    "Demio",
+    "11"
+   ],
+   [
+    "E series",
+    "12"
+   ],
+   [
+    "Millenia",
+    "24"
+   ],
+   [
+    "MPV",
+    "13"
+   ],
+   [
+    "MX-3",
+    "14"
+   ],
+   [
+    "MX-30",
+    "60"
+   ],
+   [
+    "MX-5",
+    "15"
+   ],
+   [
+    "MX-6",
+    "16"
+   ],
+   [
+    "Premacy",
+    "17"
+   ],
+   [
+    "Protege",
+    "25"
+   ],
+   [
+    "RX-6",
+    "18"
+   ],
+   [
+    "RX-7",
+    "19"
+   ],
+   [
+    "RX-8",
+    "20"
+   ],
+   [
+    "Tribute",
+    "21"
+   ],
+   [
+    "Xedos",
+    "22"
+   ],
+   [
+    "Andere",
+    "1"
+   ]
+  ],
+  "nissan": [
+   [
+    "100 NX",
+    "42"
+   ],
+   [
+    "200 SX",
+    "43"
+   ],
+   [
+    "240 SX",
+    "44"
+   ],
+   [
+    "280 ZX",
+    "4"
+   ],
+   [
+    "300 ZX",
+    "5"
+   ],
+   [
+    "350Z",
+    "6"
+   ],
+   [
+    "370Z",
+    "26"
+   ],
+   [
+    "Almera",
+    "7"
+   ],
+   [
+    "Almera Tino",
+    "8"
+   ],
+   [
+    "Altima",
+    "45"
+   ],
+   [
+    "Ariya",
+    "87"
+   ],
+   [
+    "Armada",
+    "9"
+   ],
+   [
+    "Bluebird",
+    "10"
+   ],
+   [
+    "Cabstar",
+    "11"
+   ],
+   [
+    "Cargo",
+    "12"
+   ],
+   [
+    "Cherry",
+    "13"
+   ],
+   [
+    "Cube",
+    "3"
+   ],
+   [
+    "e-NV200",
+    "59"
+   ],
+   [
+    "Evalia",
+    "57"
+   ],
+   [
+    "Frontier",
+    "14"
+   ],
+   [
+    "GT-R",
+    "49"
+   ],
+   [
+    "Interstar",
+    "15"
+   ],
+   [
+    "Juke",
+    "52"
+   ],
+   [
+    "King Cab",
+    "16"
+   ],
+   [
+    "Kubistar",
+    "17"
+   ],
+   [
+    "Laurel",
+    "18"
+   ],
+   [
+    "Leaf",
+    "53"
+   ],
+   [
+    "Maxima",
+    "19"
+   ],
+   [
+    "Micra",
+    "20"
+   ],
+   [
+    "Murano",
+    "21"
+   ],
+   [
+    "Navara",
+    "22"
+   ],
+   [
+    "Note",
+    "23"
+   ],
+   [
+    "NP 300",
+    "2"
+   ],
+   [
+    "NV200",
+    "54"
+   ],
+   [
+    "NV250",
+    "82"
+   ],
+   [
+    "NV300",
+    "60"
+   ],
+   [
+    "NV400",
+    "56"
+   ],
+   [
+    "Pathfinder",
+    "24"
+   ],
+   [
+    "Patrol",
+    "25"
+   ],
+   [
+    "PickUp",
+    "55"
+   ],
+   [
+    "Pixo",
+    "36"
+   ],
+   [
+    "Prairie",
+    "27"
+   ],
+   [
+    "Primastar",
+    "28"
+   ],
+   [
+    "Primera",
+    "29"
+   ],
+   [
+    "Pulsar",
+    "58"
+   ],
+   [
+    "Qashqai",
+    "47"
+   ],
+   [
+    "Qashqai+2",
+    "50"
+   ],
+   [
+    "Quest",
+    "30"
+   ],
+   [
+    "Sentra",
+    "46"
+   ],
+   [
+    "Serena",
+    "31"
+   ],
+   [
+    "Silvia",
+    "32"
+   ],
+   [
+    "Skyline",
+    "33"
+   ],
+   [
+    "Sunny",
+    "34"
+   ],
+   [
+    "Terrano",
+    "35"
+   ],
+   [
+    "Tiida",
+    "48"
+   ],
+   [
+    "Titan",
+    "37"
+   ],
+   [
+    "Townstar",
+    "86"
+   ],
+   [
+    "Trade",
+    "38"
+   ],
+   [
+    "Urvan",
+    "39"
+   ],
+   [
+    "Vanette",
+    "40"
+   ],
+   [
+    "X-Trail",
+    "41"
+   ],
+   [
+    "Andere",
+    "1"
+   ]
+  ],
+  "dacia": [
+   [
+    "Bigster",
+    "27"
+   ],
+   [
+    "Dokker",
+    "5"
+   ],
+   [
+    "Duster",
+    "2"
+   ],
+   [
+    "Jogger",
+    "26"
+   ],
+   [
+    "Lodgy",
+    "3"
+   ],
+   [
+    "Logan",
+    "6"
+   ],
+   [
+    "Logan Pick-Up",
+    "4"
+   ],
+   [
+    "Pick Up",
+    "7"
+   ],
+   [
+    "Sandero",
+    "24"
+   ],
+   [
+    "Spring",
+    "25"
+   ],
+   [
+    "Andere",
+    "1"
+   ]
+  ],
+  "cupra": [
+   [
+    "Arona",
+    "4"
+   ],
+   [
+    "Ateca",
+    "2"
+   ],
+   [
+    "Born",
+    "7"
+   ],
+   [
+    "Formentor",
+    "5"
+   ],
+   [
+    "Ibiza",
+    "3"
+   ],
+   [
+    "Leon",
+    "6"
+   ],
+   [
+    "Tavascan",
+    "8"
+   ],
+   [
+    "Terramar",
+    "9"
+   ],
+   [
+    "Andere",
+    "1"
+   ]
+  ],
+  "honda": [
+   [
+    "Accord",
+    "2"
+   ],
+   [
+    "Aerodeck",
+    "21"
+   ],
+   [
+    "City",
+    "22"
+   ],
+   [
+    "Civic",
+    "3"
+   ],
+   [
+    "Clarity",
+    "25"
+   ],
+   [
+    "Concerto",
+    "4"
+   ],
+   [
+    "CR-V",
+    "5"
+   ],
+   [
+    "CRX",
+    "6"
+   ],
+   [
+    "CR-Z",
+    "24"
+   ],
+   [
+    "e",
+    "39"
+   ],
+   [
+    "e:Ny1",
+    "557"
+   ],
+   [
+    "Element",
+    "7"
+   ],
+   [
+    "FR-V",
+    "8"
+   ],
+   [
+    "HR-V",
+    "9"
+   ],
+   [
+    "Insight",
+    "10"
+   ],
+   [
+    "Integra",
+    "11"
+   ],
+   [
+    "Jazz",
+    "12"
+   ],
+   [
+    "Legend",
+    "13"
+   ],
+   [
+    "Logo",
+    "14"
+   ],
+   [
+    "NSX",
+    "15"
+   ],
+   [
+    "Odyssey",
+    "16"
+   ],
+   [
+    "Pilot",
+    "23"
+   ],
+   [
+    "Prelude",
+    "17"
+   ],
+   [
+    "Ridgeline",
+    "26"
+   ],
+   [
+    "S2000",
+    "18"
+   ],
+   [
+    "Shuttle",
+    "19"
+   ],
+   [
+    "Stream",
+    "20"
+   ],
+   [
+    "ZR-V",
+    "558"
+   ],
+   [
+    "Andere",
+    "1"
+   ]
+  ],
+  "suzuki": [
+   [
+    "(SX4) S-Cross",
+    "12"
+   ],
+   [
+    "Across",
+    "342"
+   ],
+   [
+    "Alto",
+    "2"
+   ],
+   [
+    "Baleno",
+    "3"
+   ],
+   [
+    "Cappuccino",
+    "4"
+   ],
+   [
+    "Carry",
+    "5"
+   ],
+   [
+    "Celerio",
+    "13"
+   ],
+   [
+    "e Vitara",
+    "375"
+   ],
+   [
+    "Grand Vitara",
+    "6"
+   ],
+   [
+    "Ignis",
+    "7"
+   ],
+   [
+    "iK-2",
+    "14"
+   ],
+   [
+    "Jimny",
+    "8"
+   ],
+   [
+    "Kizashi",
+    "11"
+   ],
+   [
+    "Liana",
+    "9"
+   ],
+   [
+    "LJ",
+    "10"
+   ],
+   [
+    "SJ Samurai",
+    "17"
+   ],
+   [
+    "Splash",
+    "24"
+   ],
+   [
+    "Super-Carry",
+    "18"
+   ],
+   [
+    "Swace",
+    "341"
+   ],
+   [
+    "Swift",
+    "19"
+   ],
+   [
+    "SX4",
+    "23"
+   ],
+   [
+    "Vitara",
+    "20"
+   ],
+   [
+    "Wagon R+",
+    "21"
+   ],
+   [
+    "X-90",
+    "22"
+   ],
+   [
+    "Andere",
+    "1"
+   ]
+  ],
+  "jaguar": [
+   [
+    "Daimler",
+    "2"
+   ],
+   [
+    "E-Pace",
+    "8"
+   ],
+   [
+    "E-Type",
+    "20"
+   ],
+   [
+    "F-Pace",
+    "6"
+   ],
+   [
+    "F-Type",
+    "3"
+   ],
+   [
+    "I-Pace",
+    "18"
+   ],
+   [
+    "MK II",
+    "5"
+   ],
+   [
+    "S-Type",
+    "7"
+   ],
+   [
+    "XE",
+    "4"
+   ],
+   [
+    "XF",
+    "24"
+   ],
+   [
+    "XJ",
+    "9"
+   ],
+   [
+    "XJ12",
+    "10"
+   ],
+   [
+    "XJ40",
+    "11"
+   ],
+   [
+    "XJ6",
+    "12"
+   ],
+   [
+    "XJ8",
+    "13"
+   ],
+   [
+    "XJR",
+    "14"
+   ],
+   [
+    "XJS",
+    "15"
+   ],
+   [
+    "XJSC",
+    "16"
+   ],
+   [
+    "XK",
+    "23"
+   ],
+   [
+    "XK8",
+    "17"
+   ],
+   [
+    "XKR",
+    "22"
+   ],
+   [
+    "X-Type",
+    "19"
+   ],
+   [
+    "Andere",
+    "1"
+   ]
+  ],
+  "land rover": [
+   [
+    "Defender",
+    "2"
+   ],
+   [
+    "Discovery",
+    "3"
+   ],
+   [
+    "Discovery Sport",
+    "11"
+   ],
+   [
+    "Freelander",
+    "4"
+   ],
+   [
+    "Range Rover",
+    "5"
+   ],
+   [
+    "Range Rover Evoque",
+    "10"
+   ],
+   [
+    "Range Rover Sport",
+    "6"
+   ],
+   [
+    "Range Rover Velar",
+    "12"
+   ],
+   [
+    "Serie I",
+    "7"
+   ],
+   [
+    "Serie II",
+    "8"
+   ],
+   [
+    "Serie III",
+    "9"
+   ],
+   [
+    "Andere",
+    "1"
+   ]
+  ],
+  "mitsubishi": [
+   [
+    "3000 GT",
+    "2"
+   ],
+   [
+    "ASX",
+    "21"
+   ],
+   [
+    "Canter",
+    "4"
+   ],
+   [
+    "Carisma",
+    "5"
+   ],
+   [
+    "Colt",
+    "6"
+   ],
+   [
+    "Cordia",
+    "7"
+   ],
+   [
+    "Cosmos",
+    "8"
+   ],
+   [
+    "Diamante",
+    "32"
+   ],
+   [
+    "Eclipse",
+    "9"
+   ],
+   [
+    "Eclipse Cross",
+    "36"
+   ],
+   [
+    "Galant",
+    "10"
+   ],
+   [
+    "Galloper",
+    "11"
+   ],
+   [
+    "Grandis",
+    "12"
+   ],
+   [
+    "i-MiEV",
+    "25"
+   ],
+   [
+    "L200",
+    "13"
+   ],
+   [
+    "L300",
+    "14"
+   ],
+   [
+    "L400",
+    "15"
+   ],
+   [
+    "Lancer",
+    "16"
+   ],
+   [
+    "Mirage",
+    "34"
+   ],
+   [
+    "Montero",
+    "17"
+   ],
+   [
+    "Outlander",
+    "18"
+   ],
+   [
+    "Pajero",
+    "19"
+   ],
+   [
+    "Pajero Pinin",
+    "20"
+   ],
+   [
+    "Pick-up",
+    "33"
+   ],
+   [
+    "Plug-in Hybrid Outlander",
+    "35"
+   ],
+   [
+    "Santamo",
+    "22"
+   ],
+   [
+    "Sapporo",
+    "23"
+   ],
+   [
+    "Sigma",
+    "24"
+   ],
+   [
+    "Space Gear",
+    "26"
+   ],
+   [
+    "Space Runner",
+    "27"
+   ],
+   [
+    "Space Star",
+    "28"
+   ],
+   [
+    "Space Wagon",
+    "29"
+   ],
+   [
+    "Starion",
+    "30"
+   ],
+   [
+    "Tredia",
+    "31"
+   ],
+   [
+    "Andere",
+    "1"
+   ]
+  ],
+  "smart": [
+   [
+    "#1",
+    "6"
+   ],
+   [
+    "#3",
+    "7"
+   ],
+   [
+    "#5",
+    "8"
+   ],
+   [
+    "Crossblade",
+    "2"
+   ],
+   [
+    "ForFour",
+    "3"
+   ],
+   [
+    "ForTwo",
+    "4"
+   ],
+   [
+    "Roadster",
+    "5"
+   ],
+   [
+    "Andere",
+    "1"
+   ]
+  ],
+  "lexus": [
+   [
+    "CT 200h",
+    "30"
+   ],
+   [
+    "ES-Serie",
+    "g36"
+   ],
+   [
+    "ES 300",
+    "17"
+   ],
+   [
+    "ES 330",
+    "26"
+   ],
+   [
+    "ES 350",
+    "23"
+   ],
+   [
+    "GS-Serie",
+    "g32"
+   ],
+   [
+    "GS 250",
+    "31"
+   ],
+   [
+    "GS 300",
+    "2"
+   ],
+   [
+    "GS 350",
+    "27"
+   ],
+   [
+    "GS 430",
+    "3"
+   ],
+   [
+    "GS 450",
+    "18"
+   ],
+   [
+    "GS 460",
+    "24"
+   ],
+   [
+    "GS F",
+    "37"
+   ],
+   [
+    "GX Series",
+    "g67"
+   ],
+   [
+    "GX 460",
+    "61"
+   ],
+   [
+    "GX 470",
+    "4"
+   ],
+   [
+    "GX 550",
+    "73"
+   ],
+   [
+    "IS-Serie",
+    "g28"
+   ],
+   [
+    "IS 200",
+    "5"
+   ],
+   [
+    "IS 220",
+    "15"
+   ],
+   [
+    "IS 250",
+    "16"
+   ],
+   [
+    "IS 300",
+    "6"
+   ],
+   [
+    "IS 350",
+    "28"
+   ],
+   [
+    "IS-F",
+    "21"
+   ],
+   [
+    "LBX",
+    "72"
+   ],
+   [
+    "LC 500",
+    "41"
+   ],
+   [
+    "LC 500h",
+    "42"
+   ],
+   [
+    "LFA",
+    "36"
+   ],
+   [
+    "LM",
+    "69"
+   ],
+   [
+    "LS-Serie",
+    "g33"
+   ],
+   [
+    "LS 400",
+    "7"
+   ],
+   [
+    "LS 430",
+    "8"
+   ],
+   [
+    "LS 460",
+    "19"
+   ],
+   [
+    "LS 500",
+    "43"
+   ],
+   [
+    "LS 600",
+    "20"
+   ],
+   [
+    "LX-Serie",
+    "g34"
+   ],
+   [
+    "LX 450",
+    "60"
+   ],
+   [
+    "LX 470",
+    "9"
+   ],
+   [
+    "LX 500",
+    "70"
+   ],
+   [
+    "LX 570",
+    "25"
+   ],
+   [
+    "LX 600",
+    "71"
+   ],
+   [
+    "LX 700",
+    "74"
+   ],
+   [
+    "NX-Serie",
+    "g56"
+   ],
+   [
+    "NX 200",
+    "32"
+   ],
+   [
+    "NX 300",
+    "33"
+   ],
+   [
+    "NX 350h",
+    "62"
+   ],
+   [
+    "NX 450h",
+    "63"
+   ],
+   [
+    "RC-Serie",
+    "g63"
+   ],
+   [
+    "RC 200",
+    "35"
+   ],
+   [
+    "RC 300",
+    "38"
+   ],
+   [
+    "RC 350",
+    "40"
+   ],
+   [
+    "RC F",
+    "34"
+   ],
+   [
+    "RX-Serie",
+    "g35"
+   ],
+   [
+    "RX 200",
+    "39"
+   ],
+   [
+    "RX 300",
+    "10"
+   ],
+   [
+    "RX 330",
+    "11"
+   ],
+   [
+    "RX 350",
+    "22"
+   ],
+   [
+    "RX 400",
+    "12"
+   ],
+   [
+    "RX 450",
+    "29"
+   ],
+   [
+    "RX 500",
+    "64"
+   ],
+   [
+    "RZ",
+    "65"
+   ],
+   [
+    "SC 400",
+    "13"
+   ],
+   [
+    "SC 430",
+    "14"
+   ],
+   [
+    "UX",
+    "49"
+   ],
+   [
+    "Andere",
+    "1"
+   ]
+  ]
+ }
+}

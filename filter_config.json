@@ -1,1 +1,8 @@
-{"price_min": "", "price_max": "9000", "km_max": "100000", "ez_min": "2012", "ez_max": "", "region": "Bayern", "radius": "100", "lat": "48.7904472", "lng": "11.4978895", "seller": "FSBO"}
+{
+  "searches": [
+    {
+      "name": "München 80807 +200km Privat bis 9k EZ ab 2012",
+      "url": "https://suchen.mobile.de/fahrzeuge/search.html?isSearchRequest=true&s=Car&vc=Car&asl=true&cn=DE&dam=false&fr=2012&gn=80807%2C+Milbertshofen+-+Am+Hart%2C+M%C3%BCnchen%2C+Bayern&ll=48.1865394%2C11.585399&ml=%3A100000&p=%3A9000&rd=200&st=FSBO&od=down&sb=doc&ref=dsp"
+    }
+  ]
+}

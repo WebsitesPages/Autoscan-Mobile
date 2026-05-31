@@ -1,0 +1,24 @@
+{
+  "name": "Autoscan Mobile.de",
+  "short_name": "Mobile",
+  "start_url": "/mobile/",
+  "scope": "/mobile/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#fb923c",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/mobile/static/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/mobile/static/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

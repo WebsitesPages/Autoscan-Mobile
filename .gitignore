@@ -23,3 +23,16 @@ mobile_srp.html
 scrape_mobile.py
 scrape.py
 check_total.py
+
+# Secrets & Keys (NIEMALS committen!)
+vapid_private.pem
+*.pem
+.env.*
+
+# Backups & alte Versionen
+*.OLD*
+*.bak[0-9]*
+
+# Große Datendateien
+mobile_de_codes.xlsx
+*.bak.*
