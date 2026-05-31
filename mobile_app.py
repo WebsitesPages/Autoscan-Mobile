@@ -759,18 +759,41 @@ def api_fav_del():
 def api_push_sub():
     data = request.get_json(force=True, silent=True) or {}
     sub = data.get("subscription") or {}
-    filt = data.get("filters") or ""
+    filt = data.get("filters")          # None = nicht mitgeschickt (blinder Re-Subscribe)
     maxp = data.get("max_price")
+    old_ep = (data.get("old_endpoint") or "").strip()
     if not (sub.get("endpoint") and sub.get("keys",{}).get("p256dh") and sub["keys"].get("auth")):
         return {"ok": False, "error": "bad subscription"}, 400
     conn = get_db(); cur = conn.cursor()
+    # Blinder Re-Subscribe (SW pushsubscriptionchange) schickt keine Filter mit →
+    # vom rotierten alten bzw. zuletzt aktiven Abo übernehmen, damit die Filter nicht verloren gehen.
+    if filt is None:
+        src = None
+        if old_ep:
+            src = cur.execute("SELECT filters, max_price FROM push_subscriptions WHERE endpoint=?", (old_ep,)).fetchone()
+        if src is None:
+            src = cur.execute("SELECT filters, max_price FROM push_subscriptions ORDER BY created_at DESC LIMIT 1").fetchone()
+        if src is not None:
+            filt = src["filters"] or ""
+            if maxp is None: maxp = src["max_price"]
+        else:
+            filt = ""
     cur.execute("""INSERT INTO push_subscriptions(endpoint,p256dh,auth,filters,max_price)
                    VALUES(?,?,?,?,?)
                    ON CONFLICT(endpoint) DO UPDATE SET p256dh=excluded.p256dh,auth=excluded.auth,
                    filters=excluded.filters,max_price=excluded.max_price""",
                 (sub["endpoint"], sub["keys"]["p256dh"], sub["keys"]["auth"], filt, maxp))
+    # Rotiertes altes Endpoint aufräumen, damit keine Karteileiche zurückbleibt
+    if old_ep and old_ep != sub["endpoint"]:
+        cur.execute("DELETE FROM push_subscriptions WHERE endpoint=?", (old_ep,))
+        cur.execute("DELETE FROM push_sent WHERE endpoint=?", (old_ep,))
     conn.commit(); conn.close()
     return {"ok": True}
+
+@app.get("/api/push/vapid_public")
+def api_push_vapid():
+    # Public Key (unkritisch) — der Service Worker holt ihn hier zum Re-Subscribe
+    return {"ok": True, "key": VAPID_PUBLIC}
 
 @app.post("/api/push/unsubscribe")
 def api_push_unsub():
@@ -1889,6 +1912,51 @@ document.addEventListener('DOMContentLoaded', () => {
   document.getElementById('pushBtn')?.addEventListener('click', subscribePush);
   document.getElementById('navPush')?.addEventListener('click', subscribePush);
 
+  function currentFilterPayload() {
+    const form = document.getElementById('filterForm');
+    let filters = '', max_price = null;
+    if (form) {
+      const fd = new FormData(form);
+      const params = new URLSearchParams();
+      for (const [k, v] of fd.entries()) {
+        const vv = (v || '').toString().trim();
+        if (vv !== '') params.set(k, vv);
+      }
+      params.delete('page'); params.delete('per_page'); params.delete('_');
+      filters = params.toString();
+      max_price = form.querySelector('input[name="price_max"]')?.value || null;
+    }
+    return { filters, max_price };
+  }
+
+  // Heilt verlorene/rotierte Push-Abos: bei jedem App-Start (und Resume) das Abo
+  // sicherstellen und idempotent am Server registrieren. iOS verwirft Push-Abos
+  // alle paar Tage — ohne das hier blieb man bis zum manuellen Neu-Abo ohne Push.
+  async function syncSubscription() {
+    try {
+      if (!('serviceWorker' in navigator) || !('PushManager' in window)) return;
+      if (Notification.permission !== 'granted') return;  // nie ungefragt nachfragen
+      const reg = await ensureSW();
+      if (!reg) return;
+      let sub = await reg.pushManager.getSubscription();
+      if (!sub) {
+        if (!VAPID_PUBLIC) return;
+        // Abo von iOS verworfen → lautlos neu anlegen (kein Prompt, da bereits erlaubt)
+        sub = await reg.pushManager.subscribe({
+          userVisibleOnly: true,
+          applicationServerKey: urlBase64ToUint8Array(VAPID_PUBLIC)
+        });
+      }
+      const { filters, max_price } = currentFilterPayload();
+      await fetch('/mobile/api/push/subscribe', {
+        method: 'POST',
+        headers: {'Content-Type':'application/json'},
+        body: JSON.stringify({ subscription: sub.toJSON(), filters, max_price })
+      });
+    } catch (e) { /* Auto-Sync bleibt geräuschlos */ }
+  }
+  syncSubscription();
+
   const env = determineEnvironment();
   if (env.isIOS && !env.isStandalone) {
     document.getElementById('iosHint').style.display = 'block';
@@ -2345,9 +2413,10 @@ document.addEventListener('DOMContentLoaded', () => {
   // Pull-to-Refresh feedback: bei manuellem Reload zeigen wir Toast
   window.addEventListener('pageshow', (e) => {
     if (e.persisted) {
-      // Aus bfcache zurückgekommen → frische Daten holen
+      // Aus bfcache zurückgekommen → frische Daten holen + Push-Abo heilen
       reloadCards();
       refreshSyncStatus();
+      syncSubscription();
     }
   });
 });
